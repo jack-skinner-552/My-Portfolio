@@ -1,3 +1,6 @@
+# Program asks for a Pokemon Type and displays the pokemon who are weak aganst given type moves.
+
+from tqdm import tqdm
 import requests
 
 # Get the move type from the user
@@ -11,7 +14,7 @@ response = requests.get(move_type_url)
 
 # If the request was successful (status code of 200)
 if response.status_code == 200:
-    # Extract the list of Pokemon that are weak to input type moves
+    # Extract the lists of Pokemon types that are weak against, strong against, and immune to input type moves
     type_data = response.json()
     type_strengths = type_data["damage_relations"]["double_damage_to"]
     type_strengths_names = [strength["name"] for strength in type_strengths]
@@ -44,16 +47,17 @@ if response.status_code == 200:
 
             # Make a list of Pokemon that are weak to input type moves
             type_weak_pokemon = []
-            for pokemon in all_pokemon_list:
+            for pokemon in tqdm(all_pokemon_list):
                 pokemon_url = pokemon["url"]
                 pokemon_response = requests.get(pokemon_url)
                 pokemon_data = pokemon_response.json()
                 pokemon_id = pokemon_data["id"]
+                pokemon_name = pokemon["name"].capitalize()
                 pokemon_types = [type["type"]["name"] for type in pokemon_data["types"]]
                 if set(type_strengths_names) & set(pokemon_types):
                     if not set(type_weakness_names) & set(pokemon_types):
                         if not set(type_no_damage_names) & set(pokemon_types):
-                            type_weak_pokemon.append((pokemon_id, pokemon["name"], pokemon_types))
+                            type_weak_pokemon.append((pokemon_id, pokemon_name, pokemon_types))
     
             # Sort the list of weak Pokemon by ID number
             type_weak_pokemon.sort()
@@ -61,7 +65,7 @@ if response.status_code == 200:
             # Print the names of the weak Pokemon, their ID numbers, and their types
             print(f"Pokemon weak to {move_type} moves:")
             for pokemon in type_weak_pokemon:
-                print(f'{pokemon[0]}: {pokemon[1].capitalize()} Types: {pokemon[2]}')
+                print(f'#: {pokemon[0]} | {pokemon[1]} | Types: {pokemon[2]}')
         else:
             print("Error retrieving information about all Pokemon from PokeAPI")
 else:
