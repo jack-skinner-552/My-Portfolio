@@ -6,6 +6,7 @@ import requests
 from tqdm import tqdm
 from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
+import os
 
 
 def get_pokemon_list(p_type):
@@ -26,12 +27,10 @@ def get_pokemon_list(p_type):
         for pokemon in pokemon_data:
             if any(type_info['type']['name'] == p_type.lower() for type_info in pokemon['types']):
                 pokemon_id = pokemon['id']
-                # Generation 9 Pokemon ID information in PokeAPI is currently incorrect, for now, only include Generations 1-8
-                if pokemon_id <= 905:
-                    pokemon_name = pokemon['name']
-                    types = [t["type"]["name"] for t in pokemon["types"]]
-                    types = [t.capitalize() for t in types]
-                    type_pokemon.append({'id': pokemon_id, 'name': pokemon_name.capitalize(), 'types': types})
+                pokemon_name = pokemon['name']
+                types = [t["type"]["name"] for t in pokemon["types"]]
+                types = [t.capitalize() for t in types]
+                type_pokemon.append({'id': pokemon_id, 'name': pokemon_name.capitalize(), 'types': types})
 
         n_pokemon = len(type_pokemon)
         print(f'There are {n_pokemon} {p_type} type Pokemon.')
@@ -47,12 +46,20 @@ def get_pokemon_list(p_type):
 def create_pokemon_image(type_pokemon, p_type):
     # Create a blank image with a white background
     width = 800
-    height = 96 * len(type_pokemon)
+    height = 96 * len(type_pokemon) + 48
     img = Image.new("RGB", (width, height), "white")
 
     # Set the font for the Pokemon names and types
     name_font = ImageFont.truetype("arial.ttf", 20)
     type_font = ImageFont.truetype("arial.ttf", 16)
+
+    # Draw the heading
+    draw = ImageDraw.Draw(img)
+    heading_text = f"All {p_type} Type Pokémon"
+    heading_font = ImageFont.truetype("arial.ttf", 24)
+    heading_bbox = draw.textbbox((0, 0), heading_text, font=heading_font, align="center")
+    heading_width = heading_bbox[2] - heading_bbox[0]
+    draw.text(((width - heading_width) / 2, 0), heading_text, font=heading_font, fill="black", align="center")
 
     # Add the Pokemon sprites and information to the image
     x = 0
@@ -77,13 +84,14 @@ def create_pokemon_image(type_pokemon, p_type):
         draw.line((0, y, width, y), fill="black")
         y += 96
 
-    img.save("pokemon_list_" + p_type.lower() + ".png")
+    img_file = "pokemon_list_" + p_type.lower() + ".png"
+    img.save(img_file)
+    os.startfile(img_file)
 
 
 def main():
     # Get the Pokemon Type from the user
-    p_type = "Dragon"
-
+    p_type = input("Enter a Pokemon Type: ")
     create_pokemon_image(get_pokemon_list(p_type), p_type)
 
 
