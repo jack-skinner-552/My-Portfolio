@@ -1,0 +1,52 @@
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.extension-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.time-settings {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+label {
+  margin-right: 5px;
+}
+
+select {
+  margin-right: 10px;
+}
+
+.options-container {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.extensions-container {
+  flex: 1;
+}
+
+.active-days-container {
+  flex: 1;
+}
