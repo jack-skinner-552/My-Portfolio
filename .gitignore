@@ -1,2 +1,7 @@
+# IntelliJ IDEA
 .idea
 
+#Compiled output
+Java/Currency/out/
+Java/RickRoll/out/
+*.class
