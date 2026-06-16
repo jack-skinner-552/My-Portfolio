@@ -1,3 +1,6 @@
+# Generated Text files
+WorldCupReport*.txt
+
 # Maven build output
 target/
 
