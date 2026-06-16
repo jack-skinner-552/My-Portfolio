@@ -11,6 +11,7 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import javax.net.ssl.SSLHandshakeException;
 
 public class FootballApiClient {
 
@@ -26,6 +27,9 @@ public class FootballApiClient {
     private final HttpClient httpClient;
     private final ObjectMapper objectMapper;
 
+    private static final int TOTAL_REQUESTS = 3;
+    private static int completedRequests = 0;
+
     public FootballApiClient() {
         this.httpClient = HttpClient.newBuilder()
                 .version(HttpClient.Version.HTTP_1_1)
@@ -36,142 +40,51 @@ public class FootballApiClient {
     public GamesResponse getGames()
             throws IOException, InterruptedException {
 
-        int maxRetries = 3;
+        String json =
+                getWithRetry(GAMES_URL, "Games");
 
-        for (int attempt = 1; attempt <= maxRetries; attempt++) {
-
-            try {
-
-                HttpRequest request = HttpRequest.newBuilder()
-                        .uri(URI.create(GAMES_URL))
-                        .GET()
-                        .build();
-
-                HttpResponse<String> response =
-                        httpClient.send(
-                                request,
-                                HttpResponse.BodyHandlers.ofString());
-
-                if (response.statusCode() == 500) {
-
-                    System.out.printf(
-                            "Server returned HTTP 500 (attempt %d/%d)%n",
-                            attempt,
-                            maxRetries);
-
-                    if (attempt == maxRetries) {
-                        throw new RuntimeException(
-                                "Server returned HTTP 500 after "
-                                        + maxRetries
-                                        + " attempts.");
-                    }
-
-                    Thread.sleep(2000);
-                    continue;
-                }
-
-                if (response.statusCode() != 200) {
-                    throw new RuntimeException(
-                            "HTTP Error: " + response.statusCode());
-                }
-
-                return objectMapper.readValue(
-                        response.body(),
-                        GamesResponse.class);
-
-            } catch (javax.net.ssl.SSLHandshakeException e) {
-
-                System.out.printf(
-                        "SSL handshake failed retrieving games (attempt %d/%d)%n",
-                        attempt,
-                        maxRetries);
-
-                if (attempt == maxRetries) {
-                    throw e;
-                }
-
-                Thread.sleep(2000);
-            }
-        }
-
-        throw new RuntimeException("Failed to retrieve games.");
+        updateProgressBar("Games Retrieved.");
+        return objectMapper.readValue(
+                json,
+                GamesResponse.class);
     }
 
     public GroupsResponse getGroups()
             throws IOException, InterruptedException {
 
-        int maxRetries = 3;
+        String json =
+                getWithRetry(GROUPS_URL, "Groups");
 
-        for (int attempt = 1; attempt <= maxRetries; attempt++) {
-
-            try {
-
-                HttpRequest request = HttpRequest.newBuilder()
-                        .uri(URI.create(GROUPS_URL))
-                        .GET()
-                        .build();
-
-                HttpResponse<String> response =
-                        httpClient.send(
-                                request,
-                                HttpResponse.BodyHandlers.ofString());
-
-                if (response.statusCode() == 500) {
-
-                    System.out.printf(
-                            "Server returned HTTP 500 (attempt %d/%d)%n",
-                            attempt,
-                            maxRetries);
-
-                    if (attempt == maxRetries) {
-                        throw new RuntimeException(
-                                "Server returned HTTP 500 after "
-                                        + maxRetries
-                                        + " attempts.");
-                    }
-
-                    Thread.sleep(2000);
-                    continue;
-                }
-
-                if (response.statusCode() != 200) {
-                    throw new RuntimeException(
-                            "HTTP Error: " + response.statusCode());
-                }
-
-                return objectMapper.readValue(
-                        response.body(),
-                        GroupsResponse.class);
-
-            } catch (javax.net.ssl.SSLHandshakeException e) {
-
-                System.out.printf(
-                        "SSL handshake failed retrieving groups (attempt %d/%d)%n",
-                        attempt,
-                        maxRetries);
-
-                if (attempt == maxRetries) {
-                    throw e;
-                }
-
-                Thread.sleep(2000);
-            }
-        }
-
-        throw new RuntimeException("Failed to retrieve groups.");
+        updateProgressBar("Groups Retrieved.");
+        return objectMapper.readValue(
+                json,
+                GroupsResponse.class);
     }
 
     public TeamsResponse getTeams()
             throws IOException, InterruptedException {
 
+        String json =
+                getWithRetry(TEAMS_URL, "Teams");
+
+        updateProgressBar("Teams Retrieved.");
+        return objectMapper.readValue(
+                json,
+                TeamsResponse.class);
+    }
+
+    private String getWithRetry(String url, String resourceName)
+            throws IOException, InterruptedException {
+
         int maxRetries = 3;
 
         for (int attempt = 1; attempt <= maxRetries; attempt++) {
+            long waitTime = 2000L * attempt;
 
             try {
 
                 HttpRequest request = HttpRequest.newBuilder()
-                        .uri(URI.create(TEAMS_URL))
+                        .uri(URI.create(url))
                         .GET()
                         .build();
 
@@ -180,37 +93,44 @@ public class FootballApiClient {
                                 request,
                                 HttpResponse.BodyHandlers.ofString());
 
+                // Retry HTTP 500
                 if (response.statusCode() == 500) {
 
                     System.out.printf(
-                            "Server returned HTTP 500 (attempt %d/%d)%n",
+                            "%s returned HTTP 500 (attempt %d/%d)%n",
+                            resourceName,
                             attempt,
                             maxRetries);
 
                     if (attempt == maxRetries) {
                         throw new RuntimeException(
-                                "Server returned HTTP 500 after "
-                                        + maxRetries
-                                        + " attempts.");
+                                resourceName +
+                                        " returned HTTP 500 after "
+                                        + maxRetries +
+                                        " attempts.");
                     }
 
-                    Thread.sleep(2000);
+                    Thread.sleep(waitTime);
                     continue;
                 }
 
+                // Other HTTP errors
                 if (response.statusCode() != 200) {
                     throw new RuntimeException(
                             "HTTP Error: " + response.statusCode());
                 }
 
-                return objectMapper.readValue(
-                        response.body(),
-                        TeamsResponse.class);
+                System.out.println(
+                        "Successfully Retrieved "
+                                + resourceName + ".");
 
-            } catch (javax.net.ssl.SSLHandshakeException e) {
+                return response.body();
+
+            } catch (SSLHandshakeException e) {
 
                 System.out.printf(
-                        "SSL handshake failed retrieving teams (attempt %d/%d)%n",
+                        "SSL handshake failed retrieving %s (attempt %d/%d)%n",
+                        resourceName,
                         attempt,
                         maxRetries);
 
@@ -218,10 +138,61 @@ public class FootballApiClient {
                     throw e;
                 }
 
-                Thread.sleep(2000);
+                Thread.sleep(waitTime);
+
+            }
+            catch (java.io.IOException e) {
+
+                System.out.printf(
+                        "Network error retrieving %s (attempt %d/%d): %s%n",
+                        resourceName,
+                        attempt,
+                        maxRetries,
+                        e.getMessage());
+
+                if (attempt == maxRetries) {
+                    throw e;
+                }
+
+                Thread.sleep(waitTime);
             }
         }
 
-        throw new RuntimeException("Failed to retrieve teams.");
+        throw new RuntimeException(
+                "Failed to retrieve " + resourceName + ".");
+    }
+
+    private static void updateProgressBar(String label) {
+
+        completedRequests++;
+
+        int percent =
+                (completedRequests * 100) / TOTAL_REQUESTS;
+
+        int barLength = 20;
+
+        int filled =
+                (completedRequests * barLength) / TOTAL_REQUESTS;
+
+        StringBuilder bar = new StringBuilder();
+
+        bar.append("[");
+
+        for (int i = 0; i < barLength; i++) {
+            if (i < filled) {
+                bar.append("█");
+            } else {
+                bar.append("-");
+            }
+        }
+
+        bar.append("]");
+
+        System.out.printf(
+                "%s %3d%% - %s%n",
+                bar,
+                percent,
+                label
+        );
     }
 }

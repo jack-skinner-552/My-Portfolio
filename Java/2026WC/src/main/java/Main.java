@@ -8,6 +8,9 @@ import model.GamesResponse;
 import model.GroupsResponse;
 import model.TeamsResponse;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.*;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -23,22 +26,65 @@ public class Main {
 
         try {
             FootballApiClient client = new FootballApiClient();
-            GamesResponse gamesResponse = client.getGames();
-            GroupsResponse groupsResponse = client.getGroups();
-            TeamsResponse teamsResponse = client.getTeams();
 
-            List<Match> games = gamesResponse.getGames();
-            List<Group> groups = groupsResponse.getGroups();
-            List<Team> teams = teamsResponse.getTeams();
+            GamesResponse gamesResponse = null;
+            GroupsResponse groupsResponse = null;
+            TeamsResponse teamsResponse = null;
 
-            Map<String, String> teamMap = teams.stream()
-                    .collect(Collectors.toMap(
-                            Team::getId,
-                            Team::getNameEn
-                    ));
+            try {
+                gamesResponse = client.getGames();
+            } catch (Exception e) {
+                System.out.println("ERR: Unable to retrieve games.");
+            }
 
-            printReport(games);
-            printGroups(groups, teamMap);
+            try {
+                groupsResponse = client.getGroups();
+            } catch (Exception e) {
+                System.out.println("ERR: Unable to retrieve groups.");
+            }
+
+            try {
+                teamsResponse = client.getTeams();
+            } catch (Exception e) {
+                System.out.println("ERR: Unable to retrieve teams.");
+            }
+
+            StringBuilder report = new StringBuilder();
+
+            if (gamesResponse != null) {
+                List<Match> games = gamesResponse.getGames();
+                buildGames(report, games);
+            }
+
+            if (groupsResponse != null && teamsResponse != null) {
+
+                List<Group> groups = groupsResponse.getGroups();
+                List<Team> teams = teamsResponse.getTeams();
+
+                Map<String, String> teamMap = teams.stream()
+                        .collect(Collectors.toMap(
+                                Team::getId,
+                                Team::getNameEn
+                        ));
+
+                buildGroups(report, groups, teamMap);
+            }
+            if (gamesResponse == null &&
+                    groupsResponse == null &&
+                    teamsResponse == null) {
+
+                System.out.println("ERR: Unable to retrieve data from World Cup API.\n");
+            }
+
+            String output = report.toString();
+
+            // Console output
+
+            System.out.print(output);
+
+            // Save to file
+
+            saveReport(output);
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -86,18 +132,18 @@ public class Main {
         }
     }
 
-    private static void printReport(List<Match> games) {
+    private static void buildGames(StringBuilder report, List<Match> games) {
 
         LocalDate today = LocalDate.now();
         ZonedDateTime now = ZonedDateTime.now();
         DateTimeFormatter dateFormat =
-                DateTimeFormatter.ofPattern("MMMM dd, yyyy \nhh:mm z");
+                DateTimeFormatter.ofPattern("MMMM dd, yyyy \nhh:mm z \n");
 
-        System.out.println("FIFA World Cup 2026 Daily Report");
-        System.out.println(now.format(dateFormat));
-        System.out.println("=====================================\n");
+        report.append("\nFIFA World Cup 2026 Daily Report").append("\n");
+        report.append(now.format(dateFormat) + "\n");
+        report.append("=====================================\n");
 
-        System.out.println("MATCHES TODAY\n");
+        report.append("MATCHES TODAY\n");
 
         games.stream()
                 // 1. Sort earliest → latest
@@ -118,49 +164,49 @@ public class Main {
 
                     Stadium stadium = Stadium.get(match.getStadiumId());
 
-                    System.out.println(
+                    report.append(
                             match.getHomeTeam()
                                     + " " + safeScore(match.getHomeScore())
                                     + " - " + safeScore(match.getAwayScore())
-                                    + " " + match.getAwayTeam()
+                                    + " " + match.getAwayTeam() + "\n"
                     );
 
                     // Status
                     if ("true".equalsIgnoreCase(match.getFinished())) {
-                        System.out.println("Status: FINISHED");
+                        report.append("Status: FINISHED\n");
 
                     } else if (match.getHomeScore() > 0
                             || match.getAwayScore() > 0
                             || match.getTimeElapsed().equals("live")) {
-                        System.out.println("Status: LIVE");
+                        report.append("Status: LIVE\n");
 
                     } else {
-                        System.out.println(
+                        report.append(
                                 "Kickoff: " +
-                                        getLocalKickoffTime(match.getLocalDate(), stadium.zoneId)
+                                        getLocalKickoffTime(match.getLocalDate(), stadium.zoneId) + "\n"
                         );
                     }
 
-                    System.out.println(stadium.name + "\n" + stadium.city);
+                    report.append(stadium.name + "\n" + stadium.city);
 
                     // Scorers
                     if (!Objects.equals(match.getHomeScorers(), "null")) {
-                        System.out.println("\n" + match.getHomeTeam() + " Scorers:");
-                        System.out.println("- " + match.getHomeScorers());
+                        report.append("\n" + match.getHomeTeam() + " Scorers:\n");
+                        report.append("- " + match.getHomeScorers() + "\n");
 
                         if (!Objects.equals(match.getAwayScorers(), "null")) {
-                            System.out.println("\n" + match.getAwayTeam() + " Scorers:");
-                            System.out.println("- " + match.getAwayScorers());
+                            report.append("\n" + match.getAwayTeam() + " Scorers:\n");
+                            report.append("- " + match.getAwayScorers() + "\n");
                         }
                     }
 
-                    System.out.println("\n-------------------------------------\n");
+                    report.append("\n-------------------------------------\n");
                 });
     }
-    private static void printGroups(List<Group> groups, Map<String, String> teamMap) {
+    private static void buildGroups(StringBuilder report, List<Group> groups, Map<String, String> teamMap) {
 
-        System.out.println("\nGROUP STANDINGS");
-        System.out.println("==============================");
+        report.append("\nGROUP STANDINGS\n");
+        report.append("==============================\n");
 
         groups.stream()
 
@@ -178,11 +224,13 @@ public class Main {
 
                 .forEach(group -> {
 
-                    System.out.println("\nGROUP " + group.getName());
+                    report.append("\nGROUP " + group.getName() + "\n");
 
-                    System.out.printf(
-                            "%-25s %2s %2s %2s %2s %3s%n",
-                            "Team", "MP", "W", "D", "L", "Pts"
+                    report.append(
+                            String.format(
+                                    "%-25s %2s %2s %2s %2s %3s%n",
+                                    "Team", "MP", "W", "D", "L", "Pts"
+                            )
                     );
 
                     group.getTeams().stream()
@@ -205,17 +253,49 @@ public class Main {
 
                                 String teamName = teamMap.getOrDefault(id, "Unknown Team");
 
-                                System.out.printf(
-                                        "%-25s %2s %2s %2s %2s %3s%n",
-                                        teamName,
-                                        team.getMp(),
-                                        team.getW(),
-                                        team.getD(),
-                                        team.getL(),
-                                        team.getPts()
+                                report.append(
+                                        String.format(
+                                                "%-25s %2s %2s %2s %2s %3s%n",
+                                                teamName,
+                                                team.getMp(),
+                                                team.getW(),
+                                                team.getD(),
+                                                team.getL(),
+                                                team.getPts()
+                                        )
                                 );
                             });
                 });
+
+    }
+
+    private static void saveReport(String report) {
+
+        try {
+
+            String timestamp = LocalDateTime.now()
+                    .format(DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm"));
+
+            String fileName =
+                    "WorldCupReport_" +
+                            timestamp +
+                            ".txt";
+
+            Path path = Paths.get(fileName);
+
+            Files.writeString(path, report);
+
+            System.out.println(
+                    "\nReport saved to: " +
+                            path.toAbsolutePath());
+
+        } catch (Exception e) {
+
+            System.out.println(
+                    "Failed to save report file.");
+
+            e.printStackTrace();
+        }
     }
 
 
