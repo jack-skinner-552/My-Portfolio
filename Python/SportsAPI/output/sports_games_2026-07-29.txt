@@ -1,0 +1,2807 @@
+==================================================
+Sports API Run Time: 2026-07-29 10:17:51 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+Racing Louisville W @ Kansas City W (NS)
+Washington Spirit W @ Utah Royals W (NS)
+NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+Völsungur @ Fylkir (NS)
+Leiknir R. @ Grindavik (NS)
+Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+Fjardabyggd / Leiknir @ Magni (NS)
+Dalvík / Reynir @ Selfoss (NS)
+KFG @ Haukar (NS)
+Kormákur / Hvöt @ Kári (NS)
+Fjolnir @ Vikingur Olafsiik (NS)
+Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+Cape Verde W @ Ghana W (NS)
+Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Al Hilal Omdurman 4 - 0 KVZ (FT)
+Rayon Sports 0 - 0 Tusker (1H)
+
+--- CONCACAF Central American Cup (World) ---
+Deportivo Saprissa @ UMECIT (NS)
+Xelajú @ LD Alajuelense (NS)
+Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+Panama U20 @ Jamaica U20 (NS)
+Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Independiente Medellin @ Vasco DA Gama (NS)
+Sporting Cristal @ RB Bragantino (NS)
+Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+Internacional de Bogota @ Internacional Palmira (NS)
+Junior @ Barranquilla (NS)
+America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+Macara @ Gualaceo SC (NS)
+Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+Havlíčkův Brod 1 - 0 Stará Říše (1H)
+
+--- Cup (Estonia) ---
+Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+Zhenys 1 - 3 Kaisar (2H)
+
+--- Cup (Russia) ---
+Metallurg Asha 0 - 1 Ilpar (FT)
+Znamya Noginsk 3 - 2 Kristall (2H)
+FC Tosno 1 - 0 Kirovets Voskhozhdenie (2H)
+Zenit Penza @ SKA Rostov (NS)
+
+--- Cupa României (Romania) ---
+CSM FC Vaslui @ Aerostar Bacau (NS)
+Axiopolis @ Agigea (NS)
+Valenii de Munte @ Berca (NS)
+Sânmartin @ Bihorul Beiuş (NS)
+Axi Adunații-Copăceni @ Bolintin Vale (NS)
+Bucovina Rădăuţi @ Bradul Putna (NS)
+Ghiroda şi Giarmata Vii @ Caransebes (NS)
+Sighetu Marmaţiei @ Chiesd (NS)
+ARO Muscelul Câmpulung @ Corona Braşov (NS)
+CSM Adjud @ Râmnicu Sărat (NS)
+Kids Tâmpa Braşov @ Săcele (NS)
+Vulturii Fărcăşeşti @ CSM Targu Jiu (NS)
+Baicoi @ Plopeni (NS)
+Academica Balș @ Oltul Curtişoara (NS)
+Unirea Bascov @ Domnesti IF (NS)
+Alexandria @ Dunărea 2020 Giurgiu (NS)
+Tricolorul Breaza @ Pucioasa (NS)
+Păușești @ Gilortul (NS)
+Dunarea Calarasi @ Gloria Băneasa (NS)
+ACS Mediaş 2022 @ Inter Sibiu (NS)
+LPS HD Clinceni @ Progresul Mogosoaia (NS)
+Blejoi @ Păuleşti (NS)
+Progresul Fundulea @ Progresul Spartac (NS)
+Înainte Modelu @ Recolta Gheorghe Doja (NS)
+Viitorul Arad @ Unirea Sântana (NS)
+Unirea Tășnad @ Crişul Sântandrei (NS)
+Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+Progresul Pecica @ Timişul Şag (NS)
+Voința Crevedia @ Urban Titu (NS)
+Filiaşi @ U Craiova 1948 (NS)
+Viitorul Cluj @ Unirea Dej (NS)
+Jiul Petroşani @ Unirea DMO (NS)
+CIL Blaj @ Universitatea Alba Iulia (NS)
+Stiinta Miroslava @ USV Iaşi (NS)
+Unirea Braniştea @ Victoria Traian (NS)
+Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+Khaitan @ Al Sahel (NS)
+Yarmouk @ Sporty (NS)
+Shamiya @ Al Sulaibikhat (NS)
+Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Trinidense @ Sportivo Luqueno (NS)
+Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+FC Seoul 0 - 2 Busan I Park (FT)
+Jinju Citizen 1 - 1 Busan Transportation (PEN)
+Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+Incheon United 0 - 1 Gimpo Citizen (FT)
+Cheonan City 0 - 1 Gwangju FC (FT)
+Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+FC Anyang 3 - 1 Cheongju (FT)
+Hwaseong 3 - 3 Jeju United FC (PEN)
+Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Cumnock Juniors @ Beith (NS)
+Lochee United @ Dunipace (NS)
+Brechin @ East Stirlingshire (NS)
+Newton Stewart @ Gretna 2008 (NS)
+Troon FC @  Johnstone Burgh (NS)
+Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+Academico Viseu 2 - 2 Celta Vigo (FT)
+Portimonense 1 - 1 Estrela (FT)
+Vianense @ AVS (NS)
+Patro Eisden 2 - 1 Waalwijk (FT)
+Sydney 1 - 1 Tottenham (PEN)
+Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+Manchester City U21 None - None Cardiff City U21 (CANC)
+Vizela @ Leixoes (NS)
+Carina Gubin @ Pogoń Szczecin II (NS)
+Telstar None - None Waalwijk (CANC)
+Felgueiras 1932 @ Pacos Ferreira (NS)
+São João Ver 1 - 1 Tondela (FT)
+Academica @ Alverca (NS)
+Lusitano Évora 1911 @ Estrela (NS)
+Kifisia 1 - 1 KVC Westerlo (FT)
+Genk 0 - 4 Bayer Leverkusen (FT)
+Bistrica 2 - 5 Lecce (FT)
+Sambenedettese @ Frosinone (NS)
+Cittadella 0 - 1 Cremonese (2H)
+Iraklis 1908 1 - 1 Palermo (2H)
+Kozuv Gevgelija @ Belasica (NS)
+Paradiso @ Catanzaro (NS)
+Chrudim II 2 - 4 Kolín (2H)
+Albinoleffe @ Arezzo (NS)
+Virtus Verona 1 - 0 Dolomiti Bellunesi (1H)
+San Donato Tavarnelle 0 - 1 Grosseto (1H)
+Sporting Trestina 0 - 1 Gubbio (1H)
+Laci 0 - 0 Vllaznia Shkodër (1H)
+Lausanne 0 - 0 Saint Etienne (1H)
+Ústí nad Labem II 0 - 1 Sokol Brozany (1H)
+Samsunspor 0 - 1 AEK Athens FC (1H)
+Al-Ittihad Kalba None - None Konyaspor (CANC)
+CD Coria 0 - 0 Valladolid (1H)
+Sokol Zápy 1 - 0 Motorlet Praha (1H)
+Holstein Kiel 0 - 2 1899 Hoffenheim (1H)
+MC Alger @ Al-Hilal Saudi FC (NS)
+Segesta Sisak 1 - 0 Krka (1H)
+Castellón @ Girona (NS)
+Patro Eisden None - None Lokeren-Temse (CANC)
+Grobničan Čavle @ Orijent 1919 (NS)
+VfB Stuttgart @ Kickers Offenbach (NS)
+Eibar @ Real Sociedad II (NS)
+Aywaille @ AS Eupen (NS)
+Athletic Club @ Racing Santander (NS)
+Forli @ Tre Fiori (NS)
+Lugo @ Deportivo La Coruna (NS)
+Hilden @ Wulfrath (NS)
+Meux @ Huy (NS)
+Burgos @ Unionistas de Salamanca (NS)
+Monthey @ Pully Football (NS)
+Varzim @ Tirsense (NS)
+Bristol City @ Forest Green (NS)
+Grimsby @ Boston United (NS)
+AD Ceuta FC @ Cadiz (NS)
+Lyon @ Real Betis (NS)
+Portsmouth @ Farnborough (NS)
+Ponferradina @ Oviedo (NS)
+Estrela @ Maritimo (NS)
+Real Avilés @ Marino de Luanco (NS)
+Almeria @ Granada CF (NS)
+Preston @ Bradford (NS)
+Newcastle @ Bristol City (NS)
+Wolves @ Doncaster (NS)
+Fiorentina @ Watford (NS)
+Espanyol @ Burnley (NS)
+Osasuna @ Ipswich (NS)
+Lusitânia Lourosa @ Leça (NS)
+Cacereño @ Villanovense (NS)
+Getafe @ Atletico Madrid (NS)
+Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+Grêmio Anápolis @ Goiânia (NS)
+Tupy FC @ Rio Verde (NS)
+Mineiros @ Trindade (NS)
+Crixás EC @ Goianésia (NS)
+Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+Nantong Haimen Codion 2 - 1 BIT (FT)
+Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+San Antonio @ Cuniburo (NS)
+9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+Aldosivi @ Barracas Central (NS)
+Deportivo Riestra @ Defensa Y Justicia (NS)
+River Plate @ Gimnasia L.P. (NS)
+Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+Sandefjord U19 @ Åsane U19 (NS)
+Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+Tromsø U19 0 - 0 Strømsgodset U19 (HT)
+Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+Persija 2 - 2 Port FC (FT)
+PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+Inca Aruba @ Municipal Limeño (NS)
+Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+Real Frontera @ Club Atletico Barinas (NS)
+Deportivo Lara @ Atletico el Vigia FC (NS)
+Puerto Cabello II @ Urena SC (NS)
+Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+RB Bragantino None - None Atletico-MG (PST)
+Gremio None - None Botafogo (PST)
+Vasco DA Gama None - None Chapecoense-sc (PST)
+Santos None - None Sao Paulo (PST)
+Flamengo @ Internacional (NS)
+Remo @ Mirassol (NS)
+Bahia @ Fluminense (NS)
+Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+Kokand-1912 1 - 2 Dinamo Samarqand (2H)
+
+--- Toto Cup Ligat Al (Israel) ---
+Maccabi Netanya @ Maccabi Petah Tikva (NS)
+Hapoel Petah Tikva @ Hapoel Ramat Gan (NS)
+
+--- UEFA Champions League (World) ---
+Omonia Nicosia 0 - 1 Kairat Almaty (2H)
+KI Klaksvik 0 - 0 Kauno Žalgiris (1H)
+Aarhus @ Lech Poznan (NS)
+Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+Levski Sofia @ Universitatea Craiova (NS)
+Fenerbahçe @ Gornik Zabrze (NS)
+Larne @ FK Crvena Zvezda (NS)
+Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+FC Lugano 5 - 1 Dukagjini (2H)
+Polessya @ FC Copenhagen (NS)
+FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+FC Tulsa @ Pittsburgh Riverhounds (NS)
+Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+Boise @ Greenville Triumph (NS)
+Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+KäPa 1 - 2 MP (HT)
+
+Error retrieving sports data: NBA API returned an error: {'timezone': 'The Timezone field do not exist.'}
+==================================================
+Sports API Run Time: 2026-07-29 10:19:46 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+Racing Louisville W @ Kansas City W (NS)
+Washington Spirit W @ Utah Royals W (NS)
+NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+Völsungur @ Fylkir (NS)
+Leiknir R. @ Grindavik (NS)
+Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+Fjardabyggd / Leiknir @ Magni (NS)
+Dalvík / Reynir @ Selfoss (NS)
+KFG @ Haukar (NS)
+Kormákur / Hvöt @ Kári (NS)
+Fjolnir @ Vikingur Olafsiik (NS)
+Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+Cape Verde W @ Ghana W (NS)
+Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Al Hilal Omdurman 4 - 0 KVZ (FT)
+Rayon Sports 0 - 0 Tusker (1H)
+
+--- CONCACAF Central American Cup (World) ---
+Deportivo Saprissa @ UMECIT (NS)
+Xelajú @ LD Alajuelense (NS)
+Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+Panama U20 @ Jamaica U20 (NS)
+Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Independiente Medellin @ Vasco DA Gama (NS)
+Sporting Cristal @ RB Bragantino (NS)
+Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+Internacional de Bogota @ Internacional Palmira (NS)
+Junior @ Barranquilla (NS)
+America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+Macara @ Gualaceo SC (NS)
+Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+Havlíčkův Brod 1 - 0 Stará Říše (1H)
+
+--- Cup (Estonia) ---
+Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+Zhenys 1 - 3 Kaisar (2H)
+
+--- Cup (Russia) ---
+Metallurg Asha 0 - 1 Ilpar (FT)
+Znamya Noginsk 3 - 2 Kristall (2H)
+FC Tosno 1 - 0 Kirovets Voskhozhdenie (2H)
+Zenit Penza @ SKA Rostov (NS)
+
+--- Cupa României (Romania) ---
+CSM FC Vaslui @ Aerostar Bacau (NS)
+Axiopolis @ Agigea (NS)
+Valenii de Munte @ Berca (NS)
+Sânmartin @ Bihorul Beiuş (NS)
+Axi Adunații-Copăceni @ Bolintin Vale (NS)
+Bucovina Rădăuţi @ Bradul Putna (NS)
+Ghiroda şi Giarmata Vii @ Caransebes (NS)
+Sighetu Marmaţiei @ Chiesd (NS)
+ARO Muscelul Câmpulung @ Corona Braşov (NS)
+CSM Adjud @ Râmnicu Sărat (NS)
+Kids Tâmpa Braşov @ Săcele (NS)
+Vulturii Fărcăşeşti @ CSM Targu Jiu (NS)
+Baicoi @ Plopeni (NS)
+Academica Balș @ Oltul Curtişoara (NS)
+Unirea Bascov @ Domnesti IF (NS)
+Alexandria @ Dunărea 2020 Giurgiu (NS)
+Tricolorul Breaza @ Pucioasa (NS)
+Păușești @ Gilortul (NS)
+Dunarea Calarasi @ Gloria Băneasa (NS)
+ACS Mediaş 2022 @ Inter Sibiu (NS)
+LPS HD Clinceni @ Progresul Mogosoaia (NS)
+Blejoi @ Păuleşti (NS)
+Progresul Fundulea @ Progresul Spartac (NS)
+Înainte Modelu @ Recolta Gheorghe Doja (NS)
+Viitorul Arad @ Unirea Sântana (NS)
+Unirea Tășnad @ Crişul Sântandrei (NS)
+Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+Progresul Pecica @ Timişul Şag (NS)
+Voința Crevedia @ Urban Titu (NS)
+Filiaşi @ U Craiova 1948 (NS)
+Viitorul Cluj @ Unirea Dej (NS)
+Jiul Petroşani @ Unirea DMO (NS)
+CIL Blaj @ Universitatea Alba Iulia (NS)
+Stiinta Miroslava @ USV Iaşi (NS)
+Unirea Braniştea @ Victoria Traian (NS)
+Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+Khaitan @ Al Sahel (NS)
+Yarmouk @ Sporty (NS)
+Shamiya @ Al Sulaibikhat (NS)
+Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Trinidense @ Sportivo Luqueno (NS)
+Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+FC Seoul 0 - 2 Busan I Park (FT)
+Jinju Citizen 1 - 1 Busan Transportation (PEN)
+Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+Incheon United 0 - 1 Gimpo Citizen (FT)
+Cheonan City 0 - 1 Gwangju FC (FT)
+Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+FC Anyang 3 - 1 Cheongju (FT)
+Hwaseong 3 - 3 Jeju United FC (PEN)
+Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Cumnock Juniors @ Beith (NS)
+Lochee United @ Dunipace (NS)
+Brechin @ East Stirlingshire (NS)
+Newton Stewart @ Gretna 2008 (NS)
+Troon FC @  Johnstone Burgh (NS)
+Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+Academico Viseu 2 - 2 Celta Vigo (FT)
+Portimonense 1 - 1 Estrela (FT)
+Vianense @ AVS (NS)
+Patro Eisden 2 - 1 Waalwijk (FT)
+Sydney 1 - 1 Tottenham (PEN)
+Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+Manchester City U21 None - None Cardiff City U21 (CANC)
+Vizela @ Leixoes (NS)
+Carina Gubin @ Pogoń Szczecin II (NS)
+Telstar None - None Waalwijk (CANC)
+Felgueiras 1932 @ Pacos Ferreira (NS)
+São João Ver 1 - 1 Tondela (FT)
+Academica @ Alverca (NS)
+Lusitano Évora 1911 @ Estrela (NS)
+Kifisia 1 - 1 KVC Westerlo (FT)
+Genk 0 - 4 Bayer Leverkusen (FT)
+Bistrica 2 - 5 Lecce (FT)
+Sambenedettese @ Frosinone (NS)
+Cittadella 0 - 1 Cremonese (2H)
+Iraklis 1908 1 - 1 Palermo (2H)
+Kozuv Gevgelija @ Belasica (NS)
+Paradiso @ Catanzaro (NS)
+Chrudim II 2 - 4 Kolín (2H)
+Albinoleffe @ Arezzo (NS)
+Virtus Verona 1 - 0 Dolomiti Bellunesi (1H)
+San Donato Tavarnelle 0 - 1 Grosseto (1H)
+Sporting Trestina 0 - 1 Gubbio (HT)
+Laci 0 - 0 Vllaznia Shkodër (1H)
+Lausanne 0 - 0 Saint Etienne (1H)
+Ústí nad Labem II 0 - 1 Sokol Brozany (1H)
+Samsunspor 0 - 1 AEK Athens FC (1H)
+Al-Ittihad Kalba None - None Konyaspor (CANC)
+CD Coria 0 - 0 Valladolid (1H)
+Sokol Zápy 1 - 0 Motorlet Praha (1H)
+Holstein Kiel 0 - 1 1899 Hoffenheim (1H)
+MC Alger @ Al-Hilal Saudi FC (NS)
+Segesta Sisak 1 - 0 Krka (1H)
+Castellón @ Girona (NS)
+Patro Eisden None - None Lokeren-Temse (CANC)
+Grobničan Čavle @ Orijent 1919 (NS)
+VfB Stuttgart @ Kickers Offenbach (NS)
+Eibar @ Real Sociedad II (NS)
+Aywaille @ AS Eupen (NS)
+Athletic Club @ Racing Santander (NS)
+Forli @ Tre Fiori (NS)
+Lugo @ Deportivo La Coruna (NS)
+Hilden @ Wulfrath (NS)
+Meux @ Huy (NS)
+Burgos @ Unionistas de Salamanca (NS)
+Monthey @ Pully Football (NS)
+Varzim @ Tirsense (NS)
+Bristol City @ Forest Green (NS)
+Grimsby @ Boston United (NS)
+AD Ceuta FC @ Cadiz (NS)
+Lyon @ Real Betis (NS)
+Portsmouth @ Farnborough (NS)
+Ponferradina @ Oviedo (NS)
+Estrela @ Maritimo (NS)
+Real Avilés @ Marino de Luanco (NS)
+Almeria @ Granada CF (NS)
+Preston @ Bradford (NS)
+Newcastle @ Bristol City (NS)
+Wolves @ Doncaster (NS)
+Fiorentina @ Watford (NS)
+Espanyol @ Burnley (NS)
+Osasuna @ Ipswich (NS)
+Lusitânia Lourosa @ Leça (NS)
+Cacereño @ Villanovense (NS)
+Getafe @ Atletico Madrid (NS)
+Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+Grêmio Anápolis @ Goiânia (NS)
+Tupy FC @ Rio Verde (NS)
+Mineiros @ Trindade (NS)
+Crixás EC @ Goianésia (NS)
+Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+Nantong Haimen Codion 2 - 1 BIT (FT)
+Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+San Antonio @ Cuniburo (NS)
+9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+Aldosivi @ Barracas Central (NS)
+Deportivo Riestra @ Defensa Y Justicia (NS)
+River Plate @ Gimnasia L.P. (NS)
+Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+Sandefjord U19 @ Åsane U19 (NS)
+Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+Tromsø U19 0 - 0 Strømsgodset U19 (HT)
+Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+Persija 2 - 2 Port FC (FT)
+PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+Inca Aruba @ Municipal Limeño (NS)
+Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+Real Frontera @ Club Atletico Barinas (NS)
+Deportivo Lara @ Atletico el Vigia FC (NS)
+Puerto Cabello II @ Urena SC (NS)
+Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+RB Bragantino None - None Atletico-MG (PST)
+Gremio None - None Botafogo (PST)
+Vasco DA Gama None - None Chapecoense-sc (PST)
+Santos None - None Sao Paulo (PST)
+Flamengo @ Internacional (NS)
+Remo @ Mirassol (NS)
+Bahia @ Fluminense (NS)
+Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+Kokand-1912 1 - 2 Dinamo Samarqand (2H)
+
+--- Toto Cup Ligat Al (Israel) ---
+Maccabi Netanya @ Maccabi Petah Tikva (NS)
+Hapoel Petah Tikva @ Hapoel Ramat Gan (NS)
+
+--- UEFA Champions League (World) ---
+Omonia Nicosia 0 - 1 Kairat Almaty (2H)
+KI Klaksvik 0 - 0 Kauno Žalgiris (1H)
+Aarhus @ Lech Poznan (NS)
+Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+Levski Sofia @ Universitatea Craiova (NS)
+Fenerbahçe @ Gornik Zabrze (NS)
+Larne @ FK Crvena Zvezda (NS)
+Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+FC Lugano 5 - 1 Dukagjini (2H)
+Polessya @ FC Copenhagen (NS)
+FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+FC Tulsa @ Pittsburgh Riverhounds (NS)
+Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+Boise @ Greenville Triumph (NS)
+Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+KäPa 1 - 2 MP (HT)
+
+===== BASEBALL =====
+
+--- MLB ---
+Philadelphia Phillies 0 - 0 Miami Marlins (IN1)
+Arizona Diamondbacks @ Pittsburgh Pirates (NS)
+Toronto Blue Jays @ Washington Nationals (NS)
+Atlanta Braves @ New York Mets (NS)
+Baltimore Orioles @ Detroit Tigers (NS)
+Milwaukee Brewers @ San Francisco Giants (NS)
+Colorado Rockies @ San Diego Padres (NS)
+Texas Rangers @ Tampa Bay Rays (NS)
+Atlanta Braves @ New York Mets (NS)
+Cleveland Guardians @ Cincinnati Reds (NS)
+Kansas City Royals @ Minnesota Twins (NS)
+New York Yankees @ Chicago White Sox (NS)
+Chicago Cubs @ St.Louis Cardinals (NS)
+Houston Astros @ Los Angeles Angels (NS)
+Boston Red Sox @ Athletics (NS)
+Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+TSG Hawks 5 - 4 Uni Lions (FT)
+Chinatrust Brothers 5 - 12 Rakuten Monkeys (FT)
+Wei Chuan Dragons 3 - 1 Fubon Guardians (FT)
+
+--- Elitserien ---
+Leksand 3 - 0 Rattvik (IN1)
+
+--- IL ---
+Syracuse Mets None - None Rochester Red Wings (POST)
+St. Paul @ Omaha Storm Chasers (NS)
+Scranton/WB @ Iowa Cubs (NS)
+Gwinnett Stripers @ Durham Bulls (NS)
+Worcester @ Norfolk Tides (NS)
+Indianapolis Indians @ Louisville Bats (NS)
+Buffalo Bisons @ Lehigh Valley IronPigs (NS)
+Memphis Redbirds @ Jacksonville Jumbo Shrimp (NS)
+Toledo Mud Hens @ Columbus Clippers (NS)
+Gwinnett Stripers @ Durham Bulls (NS)
+Charlotte Knights @ Nashville Sounds (NS)
+
+--- KBO ---
+Lotte Giants 3 - 5 Hanwha Eagles (FT)
+Kiwoom Heroes 18 - 11 LG Twins (FT)
+KT Wiz Suwon 10 - 3 NC Dinos (FT)
+KIA Tigers 9 - 4 Samsung Lions (FT)
+Doosan Bears 2 - 6 SSG Landers (FT)
+
+--- LMB ---
+Yucatan 0 - 7 Diablos Rojos (FT)
+Campeche @ Quintana Roo (NS)
+Jalisco @ Dos Laredos (NS)
+Queretaro @ Puebla (NS)
+Tabasco @ Veracruz (NS)
+Bravos de Leon @ Oaxaca (NS)
+Yucatan @ Diablos Rojos (NS)
+Monterrey @ Caliente de Durango (NS)
+Aguascalientes @ Saltillo (NS)
+Chihuahua @ Monclova (NS)
+Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+Central league 8 - 7 Pacific league (FT)
+
+--- PCL ---
+Reno Aces @ Round Rock Express (NS)
+Salt Lake Bees @ Sugar Land (NS)
+Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+Sacramento River Cats @ Tacoma Rainiers (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-29 10:22:35 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+Racing Louisville W @ Kansas City W (NS)
+Washington Spirit W @ Utah Royals W (NS)
+NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+Völsungur @ Fylkir (NS)
+Leiknir R. @ Grindavik (NS)
+Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+Fjardabyggd / Leiknir @ Magni (NS)
+Dalvík / Reynir @ Selfoss (NS)
+KFG @ Haukar (NS)
+Kormákur / Hvöt @ Kári (NS)
+Fjolnir @ Vikingur Olafsiik (NS)
+Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+Cape Verde W @ Ghana W (NS)
+Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Al Hilal Omdurman 4 - 0 KVZ (FT)
+Rayon Sports 0 - 0 Tusker (1H)
+
+--- CONCACAF Central American Cup (World) ---
+Deportivo Saprissa @ UMECIT (NS)
+Xelajú @ LD Alajuelense (NS)
+Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+Panama U20 @ Jamaica U20 (NS)
+Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Independiente Medellin @ Vasco DA Gama (NS)
+Sporting Cristal @ RB Bragantino (NS)
+Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+Internacional de Bogota @ Internacional Palmira (NS)
+Junior @ Barranquilla (NS)
+America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+Macara @ Gualaceo SC (NS)
+Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+Havlíčkův Brod 1 - 0 Stará Říše (1H)
+
+--- Cup (Estonia) ---
+Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+Zhenys 1 - 3 Kaisar (2H)
+
+--- Cup (Russia) ---
+Metallurg Asha 0 - 1 Ilpar (FT)
+Znamya Noginsk 3 - 2 Kristall (2H)
+FC Tosno 1 - 0 Kirovets Voskhozhdenie (2H)
+Zenit Penza @ SKA Rostov (NS)
+
+--- Cupa României (Romania) ---
+CSM FC Vaslui @ Aerostar Bacau (NS)
+Axiopolis @ Agigea (NS)
+Valenii de Munte @ Berca (NS)
+Sânmartin @ Bihorul Beiuş (NS)
+Axi Adunații-Copăceni @ Bolintin Vale (NS)
+Bucovina Rădăuţi @ Bradul Putna (NS)
+Ghiroda şi Giarmata Vii @ Caransebes (NS)
+Sighetu Marmaţiei @ Chiesd (NS)
+ARO Muscelul Câmpulung @ Corona Braşov (NS)
+CSM Adjud @ Râmnicu Sărat (NS)
+Kids Tâmpa Braşov @ Săcele (NS)
+Vulturii Fărcăşeşti @ CSM Targu Jiu (NS)
+Baicoi @ Plopeni (NS)
+Academica Balș @ Oltul Curtişoara (NS)
+Unirea Bascov @ Domnesti IF (NS)
+Alexandria @ Dunărea 2020 Giurgiu (NS)
+Tricolorul Breaza @ Pucioasa (NS)
+Păușești @ Gilortul (NS)
+Dunarea Calarasi @ Gloria Băneasa (NS)
+ACS Mediaş 2022 @ Inter Sibiu (NS)
+LPS HD Clinceni @ Progresul Mogosoaia (NS)
+Blejoi @ Păuleşti (NS)
+Progresul Fundulea @ Progresul Spartac (NS)
+Înainte Modelu @ Recolta Gheorghe Doja (NS)
+Viitorul Arad @ Unirea Sântana (NS)
+Unirea Tășnad @ Crişul Sântandrei (NS)
+Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+Progresul Pecica @ Timişul Şag (NS)
+Voința Crevedia @ Urban Titu (NS)
+Filiaşi @ U Craiova 1948 (NS)
+Viitorul Cluj @ Unirea Dej (NS)
+Jiul Petroşani @ Unirea DMO (NS)
+CIL Blaj @ Universitatea Alba Iulia (NS)
+Stiinta Miroslava @ USV Iaşi (NS)
+Unirea Braniştea @ Victoria Traian (NS)
+Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+Khaitan @ Al Sahel (NS)
+Yarmouk @ Sporty (NS)
+Shamiya @ Al Sulaibikhat (NS)
+Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Trinidense @ Sportivo Luqueno (NS)
+Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+FC Seoul 0 - 2 Busan I Park (FT)
+Jinju Citizen 1 - 1 Busan Transportation (PEN)
+Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+Incheon United 0 - 1 Gimpo Citizen (FT)
+Cheonan City 0 - 1 Gwangju FC (FT)
+Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+FC Anyang 3 - 1 Cheongju (FT)
+Hwaseong 3 - 3 Jeju United FC (PEN)
+Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Cumnock Juniors @ Beith (NS)
+Lochee United @ Dunipace (NS)
+Brechin @ East Stirlingshire (NS)
+Newton Stewart @ Gretna 2008 (NS)
+Troon FC @  Johnstone Burgh (NS)
+Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+Academico Viseu 2 - 2 Celta Vigo (FT)
+Portimonense 1 - 1 Estrela (FT)
+Vianense @ AVS (NS)
+Patro Eisden 2 - 1 Waalwijk (FT)
+Sydney 1 - 1 Tottenham (PEN)
+Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+Manchester City U21 None - None Cardiff City U21 (CANC)
+Vizela @ Leixoes (NS)
+Carina Gubin @ Pogoń Szczecin II (NS)
+Telstar None - None Waalwijk (CANC)
+Felgueiras 1932 @ Pacos Ferreira (NS)
+São João Ver 1 - 1 Tondela (FT)
+Academica @ Alverca (NS)
+Lusitano Évora 1911 @ Estrela (NS)
+Kifisia 1 - 1 KVC Westerlo (FT)
+Genk 0 - 4 Bayer Leverkusen (FT)
+Bistrica 2 - 5 Lecce (FT)
+Sambenedettese @ Frosinone (NS)
+Cittadella 0 - 1 Cremonese (2H)
+Iraklis 1908 1 - 1 Palermo (2H)
+Kozuv Gevgelija @ Belasica (NS)
+Paradiso @ Catanzaro (NS)
+Chrudim II 2 - 4 Kolín (2H)
+Albinoleffe @ Arezzo (NS)
+Virtus Verona 1 - 0 Dolomiti Bellunesi (HT)
+San Donato Tavarnelle 0 - 1 Grosseto (HT)
+Sporting Trestina 0 - 1 Gubbio (HT)
+Laci 0 - 0 Vllaznia Shkodër (HT)
+Lausanne 0 - 0 Saint Etienne (1H)
+Ústí nad Labem II 0 - 1 Sokol Brozany (1H)
+Samsunspor 0 - 1 AEK Athens FC (1H)
+Al-Ittihad Kalba None - None Konyaspor (CANC)
+CD Coria 0 - 0 Valladolid (1H)
+Sokol Zápy 1 - 0 Motorlet Praha (1H)
+Holstein Kiel 0 - 1 1899 Hoffenheim (1H)
+MC Alger @ Al-Hilal Saudi FC (NS)
+Segesta Sisak 1 - 0 Krka (1H)
+Castellón @ Girona (NS)
+Patro Eisden None - None Lokeren-Temse (CANC)
+Grobničan Čavle @ Orijent 1919 (NS)
+VfB Stuttgart @ Kickers Offenbach (NS)
+Eibar @ Real Sociedad II (NS)
+Aywaille @ AS Eupen (NS)
+Athletic Club @ Racing Santander (NS)
+Forli @ Tre Fiori (NS)
+Lugo @ Deportivo La Coruna (NS)
+Hilden @ Wulfrath (NS)
+Meux @ Huy (NS)
+Burgos @ Unionistas de Salamanca (NS)
+Monthey @ Pully Football (NS)
+Varzim @ Tirsense (NS)
+Bristol City @ Forest Green (NS)
+Grimsby @ Boston United (NS)
+AD Ceuta FC @ Cadiz (NS)
+Lyon @ Real Betis (NS)
+Portsmouth @ Farnborough (NS)
+Ponferradina @ Oviedo (NS)
+Estrela @ Maritimo (NS)
+Real Avilés @ Marino de Luanco (NS)
+Almeria @ Granada CF (NS)
+Preston @ Bradford (NS)
+Newcastle @ Bristol City (NS)
+Wolves @ Doncaster (NS)
+Fiorentina @ Watford (NS)
+Espanyol @ Burnley (NS)
+Osasuna @ Ipswich (NS)
+Lusitânia Lourosa @ Leça (NS)
+Cacereño @ Villanovense (NS)
+Getafe @ Atletico Madrid (NS)
+Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+Grêmio Anápolis @ Goiânia (NS)
+Tupy FC @ Rio Verde (NS)
+Mineiros @ Trindade (NS)
+Crixás EC @ Goianésia (NS)
+Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+Nantong Haimen Codion 2 - 1 BIT (FT)
+Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+San Antonio @ Cuniburo (NS)
+9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+Aldosivi @ Barracas Central (NS)
+Deportivo Riestra @ Defensa Y Justicia (NS)
+River Plate @ Gimnasia L.P. (NS)
+Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+Sandefjord U19 @ Åsane U19 (NS)
+Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+Tromsø U19 0 - 0 Strømsgodset U19 (HT)
+Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+Persija 2 - 2 Port FC (FT)
+PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+Inca Aruba @ Municipal Limeño (NS)
+Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+Real Frontera @ Club Atletico Barinas (NS)
+Deportivo Lara @ Atletico el Vigia FC (NS)
+Puerto Cabello II @ Urena SC (NS)
+Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+RB Bragantino None - None Atletico-MG (PST)
+Gremio None - None Botafogo (PST)
+Vasco DA Gama None - None Chapecoense-sc (PST)
+Santos None - None Sao Paulo (PST)
+Flamengo @ Internacional (NS)
+Remo @ Mirassol (NS)
+Bahia @ Fluminense (NS)
+Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+Kokand-1912 1 - 2 Dinamo Samarqand (2H)
+
+--- Toto Cup Ligat Al (Israel) ---
+Maccabi Netanya @ Maccabi Petah Tikva (NS)
+Hapoel Petah Tikva @ Hapoel Ramat Gan (NS)
+
+--- UEFA Champions League (World) ---
+Omonia Nicosia 0 - 1 Kairat Almaty (2H)
+KI Klaksvik 0 - 0 Kauno Žalgiris (1H)
+Aarhus @ Lech Poznan (NS)
+Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+Levski Sofia @ Universitatea Craiova (NS)
+Fenerbahçe @ Gornik Zabrze (NS)
+Larne @ FK Crvena Zvezda (NS)
+Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+FC Lugano 5 - 1 Dukagjini (FT)
+Polessya @ FC Copenhagen (NS)
+FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+FC Tulsa @ Pittsburgh Riverhounds (NS)
+Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+Boise @ Greenville Triumph (NS)
+Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+KäPa 1 - 2 MP (HT)
+
+===== BASKETBALL =====
+
+Error retrieving sports data: 'tuple' object has no attribute 'strip'
+==================================================
+Sports API Run Time: 2026-07-29 10:27:42 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+Racing Louisville W @ Kansas City W (NS)
+Washington Spirit W @ Utah Royals W (NS)
+NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+Völsungur @ Fylkir (NS)
+Leiknir R. @ Grindavik (NS)
+Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+Fjardabyggd / Leiknir @ Magni (NS)
+Dalvík / Reynir @ Selfoss (NS)
+KFG @ Haukar (NS)
+Kormákur / Hvöt @ Kári (NS)
+Fjolnir @ Vikingur Olafsiik (NS)
+Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+Cape Verde W @ Ghana W (NS)
+Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Al Hilal Omdurman 4 - 0 KVZ (FT)
+Rayon Sports 0 - 0 Tusker (1H)
+
+--- CONCACAF Central American Cup (World) ---
+Deportivo Saprissa @ UMECIT (NS)
+Xelajú @ LD Alajuelense (NS)
+Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+Panama U20 @ Jamaica U20 (NS)
+Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Independiente Medellin @ Vasco DA Gama (NS)
+Sporting Cristal @ RB Bragantino (NS)
+Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+Internacional de Bogota @ Internacional Palmira (NS)
+Junior @ Barranquilla (NS)
+America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+Macara @ Gualaceo SC (NS)
+Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+Havlíčkův Brod 1 - 0 Stará Říše (1H)
+
+--- Cup (Estonia) ---
+Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+Zhenys 1 - 3 Kaisar (2H)
+
+--- Cup (Russia) ---
+Metallurg Asha 0 - 1 Ilpar (FT)
+Znamya Noginsk 3 - 2 Kristall (FT)
+FC Tosno 1 - 0 Kirovets Voskhozhdenie (2H)
+Zenit Penza @ SKA Rostov (NS)
+
+--- Cupa României (Romania) ---
+CSM FC Vaslui @ Aerostar Bacau (NS)
+Axiopolis @ Agigea (NS)
+Valenii de Munte @ Berca (NS)
+Sânmartin @ Bihorul Beiuş (NS)
+Axi Adunații-Copăceni @ Bolintin Vale (NS)
+Bucovina Rădăuţi @ Bradul Putna (NS)
+Ghiroda şi Giarmata Vii @ Caransebes (NS)
+Sighetu Marmaţiei @ Chiesd (NS)
+ARO Muscelul Câmpulung @ Corona Braşov (NS)
+CSM Adjud @ Râmnicu Sărat (NS)
+Kids Tâmpa Braşov @ Săcele (NS)
+Vulturii Fărcăşeşti @ CSM Targu Jiu (NS)
+Baicoi @ Plopeni (NS)
+Academica Balș @ Oltul Curtişoara (NS)
+Unirea Bascov @ Domnesti IF (NS)
+Alexandria @ Dunărea 2020 Giurgiu (NS)
+Tricolorul Breaza @ Pucioasa (NS)
+Păușești @ Gilortul (NS)
+Dunarea Calarasi @ Gloria Băneasa (NS)
+ACS Mediaş 2022 @ Inter Sibiu (NS)
+LPS HD Clinceni @ Progresul Mogosoaia (NS)
+Blejoi @ Păuleşti (NS)
+Progresul Fundulea @ Progresul Spartac (NS)
+Înainte Modelu @ Recolta Gheorghe Doja (NS)
+Viitorul Arad @ Unirea Sântana (NS)
+Unirea Tășnad @ Crişul Sântandrei (NS)
+Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+Progresul Pecica @ Timişul Şag (NS)
+Voința Crevedia @ Urban Titu (NS)
+Filiaşi @ U Craiova 1948 (NS)
+Viitorul Cluj @ Unirea Dej (NS)
+Jiul Petroşani @ Unirea DMO (NS)
+CIL Blaj @ Universitatea Alba Iulia (NS)
+Stiinta Miroslava @ USV Iaşi (NS)
+Unirea Braniştea @ Victoria Traian (NS)
+Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+Khaitan @ Al Sahel (NS)
+Yarmouk @ Sporty (NS)
+Shamiya @ Al Sulaibikhat (NS)
+Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Trinidense @ Sportivo Luqueno (NS)
+Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+FC Seoul 0 - 2 Busan I Park (FT)
+Jinju Citizen 1 - 1 Busan Transportation (PEN)
+Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+Incheon United 0 - 1 Gimpo Citizen (FT)
+Cheonan City 0 - 1 Gwangju FC (FT)
+Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+FC Anyang 3 - 1 Cheongju (FT)
+Hwaseong 3 - 3 Jeju United FC (PEN)
+Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Cumnock Juniors @ Beith (NS)
+Lochee United @ Dunipace (NS)
+Brechin @ East Stirlingshire (NS)
+Newton Stewart @ Gretna 2008 (NS)
+Troon FC @  Johnstone Burgh (NS)
+Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+Academico Viseu 2 - 2 Celta Vigo (FT)
+Portimonense 1 - 1 Estrela (FT)
+Vianense @ AVS (NS)
+Patro Eisden 2 - 1 Waalwijk (FT)
+Sydney 1 - 1 Tottenham (PEN)
+Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+Manchester City U21 None - None Cardiff City U21 (CANC)
+Vizela @ Leixoes (NS)
+Carina Gubin @ Pogoń Szczecin II (NS)
+Telstar None - None Waalwijk (CANC)
+Felgueiras 1932 @ Pacos Ferreira (NS)
+São João Ver 1 - 1 Tondela (FT)
+Academica @ Alverca (NS)
+Lusitano Évora 1911 @ Estrela (NS)
+Kifisia 1 - 1 KVC Westerlo (FT)
+Genk 0 - 4 Bayer Leverkusen (FT)
+Bistrica 2 - 5 Lecce (FT)
+Sambenedettese @ Frosinone (NS)
+Cittadella 0 - 1 Cremonese (2H)
+Iraklis 1908 1 - 1 Palermo (2H)
+Kozuv Gevgelija @ Belasica (NS)
+Paradiso @ Catanzaro (NS)
+Chrudim II 2 - 4 Kolín (2H)
+Albinoleffe @ Arezzo (NS)
+Virtus Verona 1 - 0 Dolomiti Bellunesi (HT)
+San Donato Tavarnelle 0 - 1 Grosseto (HT)
+Sporting Trestina 0 - 1 Gubbio (2H)
+Laci 0 - 0 Vllaznia Shkodër (HT)
+Lausanne 0 - 0 Saint Etienne (1H)
+Ústí nad Labem II 0 - 1 Sokol Brozany (1H)
+Samsunspor 0 - 1 AEK Athens FC (1H)
+Al-Ittihad Kalba None - None Konyaspor (CANC)
+CD Coria 0 - 0 Valladolid (1H)
+Sokol Zápy 1 - 0 Motorlet Praha (1H)
+Holstein Kiel 0 - 1 1899 Hoffenheim (1H)
+MC Alger @ Al-Hilal Saudi FC (NS)
+Segesta Sisak 1 - 0 Krka (1H)
+Castellón @ Girona (NS)
+Patro Eisden None - None Lokeren-Temse (CANC)
+Grobničan Čavle @ Orijent 1919 (NS)
+VfB Stuttgart @ Kickers Offenbach (NS)
+Eibar @ Real Sociedad II (NS)
+Aywaille @ AS Eupen (NS)
+Athletic Club @ Racing Santander (NS)
+Forli @ Tre Fiori (NS)
+Lugo @ Deportivo La Coruna (NS)
+Hilden @ Wulfrath (NS)
+Meux @ Huy (NS)
+Burgos @ Unionistas de Salamanca (NS)
+Monthey @ Pully Football (NS)
+Varzim @ Tirsense (NS)
+Bristol City @ Forest Green (NS)
+Grimsby @ Boston United (NS)
+AD Ceuta FC @ Cadiz (NS)
+Lyon @ Real Betis (NS)
+Portsmouth @ Farnborough (NS)
+Ponferradina @ Oviedo (NS)
+Estrela @ Maritimo (NS)
+Real Avilés @ Marino de Luanco (NS)
+Almeria @ Granada CF (NS)
+Preston @ Bradford (NS)
+Newcastle @ Bristol City (NS)
+Wolves @ Doncaster (NS)
+Fiorentina @ Watford (NS)
+Espanyol @ Burnley (NS)
+Osasuna @ Ipswich (NS)
+Lusitânia Lourosa @ Leça (NS)
+Cacereño @ Villanovense (NS)
+Getafe @ Atletico Madrid (NS)
+Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+Grêmio Anápolis @ Goiânia (NS)
+Tupy FC @ Rio Verde (NS)
+Mineiros @ Trindade (NS)
+Crixás EC @ Goianésia (NS)
+Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+Nantong Haimen Codion 2 - 1 BIT (FT)
+Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+San Antonio @ Cuniburo (NS)
+9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+Aldosivi @ Barracas Central (NS)
+Deportivo Riestra @ Defensa Y Justicia (NS)
+River Plate @ Gimnasia L.P. (NS)
+Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+Sandefjord U19 @ Åsane U19 (NS)
+Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+Tromsø U19 0 - 0 Strømsgodset U19 (HT)
+Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+Persija 2 - 2 Port FC (FT)
+PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+Inca Aruba @ Municipal Limeño (NS)
+Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+Real Frontera @ Club Atletico Barinas (NS)
+Deportivo Lara @ Atletico el Vigia FC (NS)
+Puerto Cabello II @ Urena SC (NS)
+Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+RB Bragantino None - None Atletico-MG (PST)
+Gremio None - None Botafogo (PST)
+Vasco DA Gama None - None Chapecoense-sc (PST)
+Santos None - None Sao Paulo (PST)
+Flamengo @ Internacional (NS)
+Remo @ Mirassol (NS)
+Bahia @ Fluminense (NS)
+Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+Kokand-1912 1 - 2 Dinamo Samarqand (2H)
+
+--- Toto Cup Ligat Al (Israel) ---
+Maccabi Netanya @ Maccabi Petah Tikva (NS)
+Hapoel Petah Tikva @ Hapoel Ramat Gan (NS)
+
+--- UEFA Champions League (World) ---
+Omonia Nicosia 0 - 1 Kairat Almaty (2H)
+KI Klaksvik 0 - 0 Kauno Žalgiris (1H)
+Aarhus @ Lech Poznan (NS)
+Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+Levski Sofia @ Universitatea Craiova (NS)
+Fenerbahçe @ Gornik Zabrze (NS)
+Larne @ FK Crvena Zvezda (NS)
+Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+FC Lugano 5 - 1 Dukagjini (FT)
+Polessya @ FC Copenhagen (NS)
+FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+FC Tulsa @ Pittsburgh Riverhounds (NS)
+Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+Boise @ Greenville Triumph (NS)
+Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+KäPa 1 - 2 MP (HT)
+
+===== BASKETBALL =====
+
+--- NBA W ---
+Atlanta Dream W @ Dallas Wings W (NS)
+Golden State Valkyries W @ Phoenix Mercury W (NS)
+
+--- BSN ---
+Leones De Ponce @ Aguada Santeros (NS)
+
+--- CEBL ---
+Niagara River Lions @ Saskatoon Mamba (NS)
+
+--- EuroBasket U18 ---
+Slovakia U18 60 - 72 France U18 (FT)
+Denmark U18 86 - 100 Israel U18 (FT)
+Estonia U18 71 - 85 Germany U18 (FT)
+Latvia U18 76 - 86 Slovenia U18 (FT)
+Lithuania U18 23 - 34 Italy U18 (Q2)
+Greece U18 17 - 24 Serbia U18 (Q2)
+Bulgaria U18 @ Spain U18 (NS)
+Austria U18 @ Turkey U18 (NS)
+
+--- EuroBasket U18 B ---
+Sweden U18 60 - 69 North Macedonia U18 (FT)
+Norway U18 65 - 85 Romania U18 (FT)
+Finland U18 66 - 63 Cyprus U18 (FT)
+Poland U18 95 - 71 Iceland U18 (FT)
+Belgium U18 78 - 73 Great Britain U18 (FT)
+Portugal U18 91 - 68 Ukraine U18 (FT)
+Czech Republic U18 25 - 9 Azerbaijan U18 (Q2)
+Georgia U18 15 - 20 Hungary U18 (Q1)
+Netherlands U18 @ Ireland U18 (NS)
+Croatia U18 @ Montenegro U18 (NS)
+
+--- Governors Cup ---
+Macau Black Bears 96 - 92 Terrafirma Dyip (FT)
+Titan Ultra Giant Risers 105 - 143 San Miguel Beermen (FT)
+
+--- LNB ---
+Las Animas @ CD Puerto Varas (NS)
+
+--- MPBL ---
+Quezon City 120 - 87 Negros Hacienderos (FT)
+Abra Weavers 130 - 76 Pasig City (FT)
+GenSan Warriors 71 - 81 Rizal Golden Coolers (FT)
+
+--- NBL ---
+Tauranga Whai 81 - 96 Southland Sharks (FT)
+
+===== BASEBALL =====
+
+--- MLB ---
+Philadelphia Phillies 0 - 0 Miami Marlins (IN2)
+Arizona Diamondbacks @ Pittsburgh Pirates (NS)
+Toronto Blue Jays @ Washington Nationals (NS)
+Atlanta Braves @ New York Mets (NS)
+Baltimore Orioles @ Detroit Tigers (NS)
+Milwaukee Brewers @ San Francisco Giants (NS)
+Colorado Rockies @ San Diego Padres (NS)
+Texas Rangers @ Tampa Bay Rays (NS)
+Atlanta Braves @ New York Mets (NS)
+Cleveland Guardians @ Cincinnati Reds (NS)
+Kansas City Royals @ Minnesota Twins (NS)
+New York Yankees @ Chicago White Sox (NS)
+Chicago Cubs @ St.Louis Cardinals (NS)
+Houston Astros @ Los Angeles Angels (NS)
+Boston Red Sox @ Athletics (NS)
+Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+TSG Hawks 5 - 4 Uni Lions (FT)
+Chinatrust Brothers 5 - 12 Rakuten Monkeys (FT)
+Wei Chuan Dragons 3 - 1 Fubon Guardians (FT)
+
+--- Elitserien ---
+Leksand 3 - 0 Rattvik (IN1)
+
+--- IL ---
+Syracuse Mets None - None Rochester Red Wings (POST)
+St. Paul @ Omaha Storm Chasers (NS)
+Scranton/WB @ Iowa Cubs (NS)
+Gwinnett Stripers @ Durham Bulls (NS)
+Worcester @ Norfolk Tides (NS)
+Indianapolis Indians @ Louisville Bats (NS)
+Buffalo Bisons @ Lehigh Valley IronPigs (NS)
+Memphis Redbirds @ Jacksonville Jumbo Shrimp (NS)
+Toledo Mud Hens @ Columbus Clippers (NS)
+Gwinnett Stripers @ Durham Bulls (NS)
+Charlotte Knights @ Nashville Sounds (NS)
+
+--- KBO ---
+Lotte Giants 3 - 5 Hanwha Eagles (FT)
+Kiwoom Heroes 18 - 11 LG Twins (FT)
+KT Wiz Suwon 10 - 3 NC Dinos (FT)
+KIA Tigers 9 - 4 Samsung Lions (FT)
+Doosan Bears 2 - 6 SSG Landers (FT)
+
+--- LMB ---
+Yucatan 0 - 7 Diablos Rojos (FT)
+Campeche @ Quintana Roo (NS)
+Jalisco @ Dos Laredos (NS)
+Queretaro @ Puebla (NS)
+Tabasco @ Veracruz (NS)
+Bravos de Leon @ Oaxaca (NS)
+Yucatan @ Diablos Rojos (NS)
+Monterrey @ Caliente de Durango (NS)
+Aguascalientes @ Saltillo (NS)
+Chihuahua @ Monclova (NS)
+Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+Central league 8 - 7 Pacific league (FT)
+
+--- PCL ---
+Reno Aces @ Round Rock Express (NS)
+Salt Lake Bees @ Sugar Land (NS)
+Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+Sacramento River Cats @ Tacoma Rainiers (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-29 10:51:01 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+6:00 PM MDT | Racing Louisville W @ Kansas City W (NS)
+7:00 PM MDT | Washington Spirit W @ Utah Royals W (NS)
+8:00 PM MDT | NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+12:00 PM MDT | Völsungur @ Fylkir (NS)
+1:15 PM MDT | Leiknir R. @ Grindavik (NS)
+1:45 PM MDT | Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+12:00 PM MDT | Fjardabyggd / Leiknir @ Magni (NS)
+12:00 PM MDT | Dalvík / Reynir @ Selfoss (NS)
+1:15 PM MDT | KFG @ Haukar (NS)
+1:15 PM MDT | Kormákur / Hvöt @ Kári (NS)
+1:15 PM MDT | Fjolnir @ Vikingur Olafsiik (NS)
+1:15 PM MDT | Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+11:00 AM MDT | Cape Verde W @ Ghana W (NS)
+2:00 PM MDT | Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+3:30 AM MDT | Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+12:00 PM MDT | Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+7:00 AM MDT | Al Hilal Omdurman 4 - 0 KVZ (FT)
+10:00 AM MDT | Rayon Sports 1 - 0 Tusker (HT)
+
+--- CONCACAF Central American Cup (World) ---
+6:00 PM MDT | Deportivo Saprissa @ UMECIT (NS)
+8:00 PM MDT | Xelajú @ LD Alajuelense (NS)
+8:00 PM MDT | Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+2:00 PM MDT | Panama U20 @ Jamaica U20 (NS)
+7:00 PM MDT | Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+4:00 PM MDT | Independiente Medellin @ Vasco DA Gama (NS)
+6:30 PM MDT | Sporting Cristal @ RB Bragantino (NS)
+6:30 PM MDT | Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+4:00 PM MDT | Internacional de Bogota @ Internacional Palmira (NS)
+4:30 PM MDT | Junior @ Barranquilla (NS)
+7:00 PM MDT | America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+2:00 PM MDT | Macara @ Gualaceo SC (NS)
+6:00 PM MDT | Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+10:00 AM MDT | Havlíčkův Brod 3 - 0 Stará Říše (HT)
+
+--- Cup (Estonia) ---
+10:00 AM MDT | Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+9:00 AM MDT | Zhenys 1 - 3 Kaisar (2H)
+
+--- Cup (Russia) ---
+8:00 AM MDT | Metallurg Asha 0 - 1 Ilpar (FT)
+8:30 AM MDT | Znamya Noginsk 3 - 2 Kristall (FT)
+9:00 AM MDT | FC Tosno 3 - 0 Kirovets Voskhozhdenie (2H)
+11:00 AM MDT | Zenit Penza @ SKA Rostov (NS)
+
+--- Cupa României (Romania) ---
+8:30 AM MDT | CSM FC Vaslui @ Aerostar Bacau (NS)
+8:30 AM MDT | Axiopolis @ Agigea (NS)
+8:30 AM MDT | Valenii de Munte @ Berca (NS)
+8:30 AM MDT | Sânmartin @ Bihorul Beiuş (NS)
+8:30 AM MDT | Axi Adunații-Copăceni @ Bolintin Vale (NS)
+8:30 AM MDT | Bucovina Rădăuţi @ Bradul Putna (NS)
+8:30 AM MDT | Ghiroda şi Giarmata Vii @ Caransebes (NS)
+8:30 AM MDT | Sighetu Marmaţiei @ Chiesd (NS)
+8:30 AM MDT | ARO Muscelul Câmpulung @ Corona Braşov (NS)
+8:30 AM MDT | CSM Adjud @ Râmnicu Sărat (NS)
+8:30 AM MDT | Kids Tâmpa Braşov @ Săcele (NS)
+8:30 AM MDT | Vulturii Fărcăşeşti 2 - 3 CSM Targu Jiu (FT)
+8:30 AM MDT | Baicoi @ Plopeni (NS)
+8:30 AM MDT | Academica Balș @ Oltul Curtişoara (NS)
+8:30 AM MDT | Unirea Bascov @ Domnesti IF (NS)
+8:30 AM MDT | Alexandria @ Dunărea 2020 Giurgiu (NS)
+8:30 AM MDT | Tricolorul Breaza @ Pucioasa (NS)
+8:30 AM MDT | Păușești @ Gilortul (NS)
+8:30 AM MDT | Dunarea Calarasi 3 - 1 Gloria Băneasa (FT)
+8:30 AM MDT | ACS Mediaş 2022 @ Inter Sibiu (NS)
+8:30 AM MDT | LPS HD Clinceni @ Progresul Mogosoaia (NS)
+8:30 AM MDT | Blejoi @ Păuleşti (NS)
+8:30 AM MDT | Progresul Fundulea @ Progresul Spartac (NS)
+8:30 AM MDT | Înainte Modelu @ Recolta Gheorghe Doja (NS)
+8:30 AM MDT | Viitorul Arad @ Unirea Sântana (NS)
+8:30 AM MDT | Unirea Tășnad @ Crişul Sântandrei (NS)
+8:30 AM MDT | Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+8:30 AM MDT | Progresul Pecica 0 - 1 Timişul Şag (FT)
+8:30 AM MDT | Voința Crevedia @ Urban Titu (NS)
+8:30 AM MDT | Filiaşi @ U Craiova 1948 (NS)
+8:30 AM MDT | Viitorul Cluj @ Unirea Dej (NS)
+8:30 AM MDT | Jiul Petroşani @ Unirea DMO (NS)
+8:30 AM MDT | CIL Blaj @ Universitatea Alba Iulia (NS)
+8:30 AM MDT | Stiinta Miroslava @ USV Iaşi (NS)
+8:30 AM MDT | Unirea Braniştea @ Victoria Traian (NS)
+8:30 AM MDT | Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+11:45 AM MDT | Khaitan @ Al Sahel (NS)
+11:45 AM MDT | Yarmouk @ Sporty (NS)
+11:45 AM MDT | Shamiya @ Al Sulaibikhat (NS)
+11:45 AM MDT | Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+1:00 PM MDT | Sportivo Trinidense @ Sportivo Luqueno (NS)
+3:30 PM MDT | Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+4:00 AM MDT | Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+4:00 AM MDT | Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+4:00 AM MDT | FC Seoul 0 - 2 Busan I Park (FT)
+4:00 AM MDT | Jinju Citizen 1 - 1 Busan Transportation (PEN)
+4:00 AM MDT | Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+4:00 AM MDT | Incheon United 0 - 1 Gimpo Citizen (FT)
+4:00 AM MDT | Cheonan City 0 - 1 Gwangju FC (FT)
+4:00 AM MDT | Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+4:00 AM MDT | Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+4:30 AM MDT | FC Anyang 3 - 1 Cheongju (FT)
+4:30 AM MDT | Hwaseong 3 - 3 Jeju United FC (PEN)
+5:00 AM MDT | Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+12:45 PM MDT | Cumnock Juniors @ Beith (NS)
+12:45 PM MDT | Lochee United @ Dunipace (NS)
+12:45 PM MDT | Brechin @ East Stirlingshire (NS)
+12:45 PM MDT | Newton Stewart @ Gretna 2008 (NS)
+12:45 PM MDT | Troon FC @  Johnstone Burgh (NS)
+12:45 PM MDT | Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+2:00 AM MDT | FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+3:00 AM MDT | Academico Viseu 2 - 2 Celta Vigo (FT)
+3:00 AM MDT | Portimonense 1 - 1 Estrela (FT)
+3:30 AM MDT | Vianense @ AVS (NS)
+3:30 AM MDT | Patro Eisden 2 - 1 Waalwijk (FT)
+3:45 AM MDT | Sydney 1 - 1 Tottenham (PEN)
+4:00 AM MDT | Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+5:00 AM MDT | Manchester City U21 None - None Cardiff City U21 (CANC)
+6:00 AM MDT | Vizela @ Leixoes (NS)
+6:00 AM MDT | Carina Gubin @ Pogoń Szczecin II (NS)
+6:00 AM MDT | Telstar None - None Waalwijk (CANC)
+6:00 AM MDT | Felgueiras 1932 @ Pacos Ferreira (NS)
+6:00 AM MDT | São João Ver 1 - 1 Tondela (FT)
+6:00 AM MDT | Academica @ Alverca (NS)
+6:00 AM MDT | Lusitano Évora 1911 @ Estrela (NS)
+7:00 AM MDT | Kifisia 1 - 1 KVC Westerlo (FT)
+7:00 AM MDT | Genk 0 - 4 Bayer Leverkusen (FT)
+8:00 AM MDT | Bistrica 2 - 5 Lecce (FT)
+8:30 AM MDT | Sambenedettese 1 - 1 Frosinone (FT)
+9:00 AM MDT | Cittadella 1 - 1 Cremonese (FT)
+9:00 AM MDT | Iraklis 1908 1 - 1 Palermo (FT)
+9:00 AM MDT | Kozuv Gevgelija @ Belasica (NS)
+9:00 AM MDT | Paradiso @ Catanzaro (NS)
+9:00 AM MDT | Chrudim II 2 - 4 Kolín (FT)
+9:30 AM MDT | Albinoleffe @ Arezzo (NS)
+9:30 AM MDT | Virtus Verona 1 - 1 Dolomiti Bellunesi (2H)
+9:30 AM MDT | San Donato Tavarnelle 1 - 1 Grosseto (2H)
+9:30 AM MDT | Sporting Trestina 0 - 2 Gubbio (2H)
+9:30 AM MDT | Laci 0 - 0 Vllaznia Shkodër (2H)
+10:00 AM MDT | Lausanne 0 - 1 Saint Etienne (HT)
+10:00 AM MDT | Ústí nad Labem II 0 - 1 Sokol Brozany (HT)
+10:00 AM MDT | Samsunspor 1 - 1 AEK Athens FC (1H)
+10:00 AM MDT | Al-Ittihad Kalba None - None Konyaspor (CANC)
+10:00 AM MDT | CD Coria 0 - 0 Valladolid (1H)
+10:00 AM MDT | Sokol Zápy 1 - 0 Motorlet Praha (HT)
+10:00 AM MDT | Holstein Kiel 1 - 2 1899 Hoffenheim (1H)
+10:00 AM MDT | MC Alger @ Al-Hilal Saudi FC (NS)
+10:00 AM MDT | Segesta Sisak 2 - 0 Krka (HT)
+10:30 AM MDT | Castellón 0 - 1 Girona (1H)
+10:30 AM MDT | Patro Eisden None - None Lokeren-Temse (CANC)
+10:30 AM MDT | Grobničan Čavle 0 - 0 Orijent 1919 (1H)
+10:45 AM MDT | VfB Stuttgart 0 - 0 Kickers Offenbach (1H)
+11:00 AM MDT | Eibar @ Real Sociedad II (NS)
+11:00 AM MDT | Aywaille @ AS Eupen (NS)
+11:00 AM MDT | Athletic Club @ Racing Santander (NS)
+11:00 AM MDT | Forli @ Tre Fiori (NS)
+11:30 AM MDT | Lugo @ Deportivo La Coruna (NS)
+11:30 AM MDT | Hilden @ Wulfrath (NS)
+11:30 AM MDT | Meux @ Huy (NS)
+11:30 AM MDT | Burgos @ Unionistas de Salamanca (NS)
+11:45 AM MDT | Monthey @ Pully Football (NS)
+11:45 AM MDT | Varzim @ Tirsense (NS)
+12:00 PM MDT | Bristol City @ Forest Green (NS)
+12:00 PM MDT | Grimsby @ Boston United (NS)
+12:00 PM MDT | AD Ceuta FC @ Cadiz (NS)
+12:00 PM MDT | Lyon @ Real Betis (NS)
+12:00 PM MDT | Portsmouth @ Farnborough (NS)
+12:00 PM MDT | Ponferradina @ Oviedo (NS)
+12:00 PM MDT | Estrela @ Maritimo (NS)
+12:00 PM MDT | Real Avilés @ Marino de Luanco (NS)
+12:00 PM MDT | Almeria @ Granada CF (NS)
+12:30 PM MDT | Preston @ Bradford (NS)
+12:30 PM MDT | Newcastle @ Bristol City (NS)
+12:30 PM MDT | Wolves @ Doncaster (NS)
+12:30 PM MDT | Fiorentina @ Watford (NS)
+12:45 PM MDT | Espanyol @ Burnley (NS)
+12:45 PM MDT | Osasuna @ Ipswich (NS)
+12:45 PM MDT | Lusitânia Lourosa @ Leça (NS)
+12:45 PM MDT | Cacereño @ Villanovense (NS)
+1:30 PM MDT | Getafe @ Atletico Madrid (NS)
+5:30 PM MDT | Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+4:30 PM MDT | Grêmio Anápolis @ Goiânia (NS)
+4:30 PM MDT | Tupy FC @ Rio Verde (NS)
+4:30 PM MDT | Mineiros @ Trindade (NS)
+5:00 PM MDT | Crixás EC @ Goianésia (NS)
+5:00 PM MDT | Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+5:00 AM MDT | Nantong Haimen Codion 2 - 1 BIT (FT)
+5:30 AM MDT | Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+5:30 AM MDT | Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+2:30 PM MDT | San Antonio @ Cuniburo (NS)
+6:00 PM MDT | 9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+11:30 AM MDT | Aldosivi @ Barracas Central (NS)
+2:00 PM MDT | Deportivo Riestra @ Defensa Y Justicia (NS)
+4:15 PM MDT | River Plate @ Gimnasia L.P. (NS)
+6:30 PM MDT | Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+6:00 PM MDT | Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+5:00 AM MDT | Sandefjord U19 @ Åsane U19 (NS)
+7:00 AM MDT | Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+9:30 AM MDT | Tromsø U19 1 - 0 Strømsgodset U19 (2H)
+10:00 AM MDT | Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+8:00 PM MDT | Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+2:30 AM MDT | Persija 2 - 2 Port FC (FT)
+6:30 AM MDT | PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+6:00 AM MDT | Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+7:40 AM MDT | Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+5:30 PM MDT | Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+5:00 PM MDT | Inca Aruba @ Municipal Limeño (NS)
+7:00 PM MDT | Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+1:30 PM MDT | Real Frontera @ Club Atletico Barinas (NS)
+1:30 PM MDT | Deportivo Lara @ Atletico el Vigia FC (NS)
+1:30 PM MDT | Puerto Cabello II @ Urena SC (NS)
+2:00 PM MDT | Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+2:00 PM MDT | RB Bragantino None - None Atletico-MG (PST)
+2:00 PM MDT | Gremio None - None Botafogo (PST)
+2:00 PM MDT | Vasco DA Gama None - None Chapecoense-sc (PST)
+2:00 PM MDT | Santos None - None Sao Paulo (PST)
+4:30 PM MDT | Flamengo @ Internacional (NS)
+4:30 PM MDT | Remo @ Mirassol (NS)
+6:30 PM MDT | Bahia @ Fluminense (NS)
+6:30 PM MDT | Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+9:00 AM MDT | Kokand-1912 2 - 3 Dinamo Samarqand (2H)
+
+--- Toto Cup Ligat Al (Israel) ---
+10:45 AM MDT | Maccabi Netanya 0 - 0 Maccabi Petah Tikva (1H)
+11:00 AM MDT | Hapoel Petah Tikva @ Hapoel Ramat Gan (NS)
+
+--- UEFA Champions League (World) ---
+9:00 AM MDT | Omonia Nicosia 0 - 1 Kairat Almaty (2H)
+10:00 AM MDT | KI Klaksvik 0 - 0 Kauno Žalgiris (HT)
+11:00 AM MDT | Aarhus @ Lech Poznan (NS)
+11:30 AM MDT | Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+11:30 AM MDT | Levski Sofia @ Universitatea Craiova (NS)
+12:00 PM MDT | Fenerbahçe @ Gornik Zabrze (NS)
+12:00 PM MDT | Larne @ FK Crvena Zvezda (NS)
+12:15 PM MDT | Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+8:30 AM MDT | FC Lugano 5 - 1 Dukagjini (FT)
+11:00 AM MDT | Polessya @ FC Copenhagen (NS)
+12:30 PM MDT | FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+5:00 PM MDT | FC Tulsa @ Pittsburgh Riverhounds (NS)
+5:30 PM MDT | Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+5:00 PM MDT | Boise @ Greenville Triumph (NS)
+6:00 PM MDT | Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+9:30 AM MDT | KäPa 1 - 2 MP (2H)
+
+===== BASKETBALL =====
+
+--- NBA W ---
+6:00 PM MDT | Atlanta Dream W @ Dallas Wings W (NS)
+8:00 PM MDT | Golden State Valkyries W @ Phoenix Mercury W (NS)
+
+--- BSN ---
+6:00 PM MDT | Leones De Ponce @ Aguada Santeros (NS)
+
+--- CEBL ---
+7:30 PM MDT | Niagara River Lions @ Saskatoon Mamba (NS)
+
+--- EuroBasket U18 ---
+5:00 AM MDT | Slovakia U18 60 - 72 France U18 (FT)
+5:00 AM MDT | Denmark U18 86 - 100 Israel U18 (FT)
+7:30 AM MDT | Estonia U18 71 - 85 Germany U18 (FT)
+7:30 AM MDT | Latvia U18 76 - 86 Slovenia U18 (FT)
+10:00 AM MDT | Lithuania U18 40 - 47 Italy U18 (HT)
+10:00 AM MDT | Greece U18 30 - 38 Serbia U18 (HT)
+12:30 PM MDT | Bulgaria U18 @ Spain U18 (NS)
+12:30 PM MDT | Austria U18 @ Turkey U18 (NS)
+
+--- EuroBasket U18 B ---
+2:30 AM MDT | Sweden U18 60 - 69 North Macedonia U18 (FT)
+2:30 AM MDT | Norway U18 65 - 85 Romania U18 (FT)
+5:00 AM MDT | Finland U18 66 - 63 Cyprus U18 (FT)
+5:00 AM MDT | Poland U18 95 - 71 Iceland U18 (FT)
+7:30 AM MDT | Belgium U18 78 - 73 Great Britain U18 (FT)
+7:30 AM MDT | Portugal U18 91 - 68 Ukraine U18 (FT)
+10:00 AM MDT | Czech Republic U18 38 - 21 Azerbaijan U18 (HT)
+10:00 AM MDT | Georgia U18 24 - 35 Hungary U18 (Q2)
+12:30 PM MDT | Netherlands U18 @ Ireland U18 (NS)
+12:30 PM MDT | Croatia U18 @ Montenegro U18 (NS)
+
+--- Governors Cup ---
+3:15 AM MDT | Macau Black Bears 96 - 92 Terrafirma Dyip (FT)
+5:30 AM MDT | Titan Ultra Giant Risers 105 - 143 San Miguel Beermen (FT)
+
+--- LNB ---
+7:30 PM MDT | Las Animas @ CD Puerto Varas (NS)
+
+--- MPBL ---
+1:00 AM MDT | Quezon City 120 - 87 Negros Hacienderos (FT)
+3:00 AM MDT | Abra Weavers 130 - 76 Pasig City (FT)
+5:00 AM MDT | GenSan Warriors 71 - 81 Rizal Golden Coolers (FT)
+
+--- NBL ---
+1:00 AM MDT | Tauranga Whai 81 - 96 Southland Sharks (FT)
+
+===== BASEBALL =====
+
+--- MLB ---
+10:10 AM MDT | Philadelphia Phillies 2 - 0 Miami Marlins (IN3)
+10:35 AM MDT | Arizona Diamondbacks 0 - 0 Pittsburgh Pirates (IN2)
+11:05 AM MDT | Toronto Blue Jays @ Washington Nationals (NS)
+11:10 AM MDT | Atlanta Braves @ New York Mets (NS)
+11:10 AM MDT | Baltimore Orioles @ Detroit Tigers (NS)
+1:45 PM MDT | Milwaukee Brewers @ San Francisco Giants (NS)
+2:10 PM MDT | Colorado Rockies @ San Diego Padres (NS)
+4:40 PM MDT | Texas Rangers @ Tampa Bay Rays (NS)
+5:10 PM MDT | Atlanta Braves @ New York Mets (NS)
+5:10 PM MDT | Cleveland Guardians @ Cincinnati Reds (NS)
+5:40 PM MDT | Kansas City Royals @ Minnesota Twins (NS)
+5:40 PM MDT | New York Yankees @ Chicago White Sox (NS)
+5:45 PM MDT | Chicago Cubs @ St.Louis Cardinals (NS)
+7:38 PM MDT | Houston Astros @ Los Angeles Angels (NS)
+7:40 PM MDT | Boston Red Sox @ Athletics (NS)
+8:10 PM MDT | Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+4:35 AM MDT | TSG Hawks 5 - 4 Uni Lions (FT)
+4:35 AM MDT | Chinatrust Brothers 5 - 12 Rakuten Monkeys (FT)
+4:35 AM MDT | Wei Chuan Dragons 3 - 1 Fubon Guardians (FT)
+
+--- Elitserien ---
+10:00 AM MDT | Leksand 5 - 1 Rattvik (IN2)
+
+--- IL ---
+9:05 AM MDT | Syracuse Mets None - None Rochester Red Wings (POST)
+11:05 AM MDT | St. Paul @ Omaha Storm Chasers (NS)
+11:08 AM MDT | Scranton/WB @ Iowa Cubs (NS)
+3:30 PM MDT | Gwinnett Stripers @ Durham Bulls (NS)
+4:35 PM MDT | Worcester @ Norfolk Tides (NS)
+4:35 PM MDT | Indianapolis Indians @ Louisville Bats (NS)
+4:45 PM MDT | Buffalo Bisons @ Lehigh Valley IronPigs (NS)
+5:05 PM MDT | Memphis Redbirds @ Jacksonville Jumbo Shrimp (NS)
+5:05 PM MDT | Toledo Mud Hens @ Columbus Clippers (NS)
+5:30 PM MDT | Gwinnett Stripers @ Durham Bulls (NS)
+5:35 PM MDT | Charlotte Knights @ Nashville Sounds (NS)
+
+--- KBO ---
+3:30 AM MDT | Lotte Giants 3 - 5 Hanwha Eagles (FT)
+3:30 AM MDT | Kiwoom Heroes 18 - 11 LG Twins (FT)
+3:30 AM MDT | KT Wiz Suwon 10 - 3 NC Dinos (FT)
+3:30 AM MDT | KIA Tigers 9 - 4 Samsung Lions (FT)
+3:30 AM MDT | Doosan Bears 2 - 6 SSG Landers (FT)
+
+--- LMB ---
+4:00 PM MDT | Yucatan 0 - 7 Diablos Rojos (FT)
+6:30 PM MDT | Campeche @ Quintana Roo (NS)
+6:30 PM MDT | Jalisco @ Dos Laredos (NS)
+7:00 PM MDT | Queretaro @ Puebla (NS)
+7:00 PM MDT | Tabasco @ Veracruz (NS)
+7:00 PM MDT | Bravos de Leon @ Oaxaca (NS)
+7:00 PM MDT | Yucatan @ Diablos Rojos (NS)
+7:10 PM MDT | Monterrey @ Caliente de Durango (NS)
+7:30 PM MDT | Aguascalientes @ Saltillo (NS)
+7:45 PM MDT | Chihuahua @ Monclova (NS)
+8:35 PM MDT | Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+3:30 AM MDT | Central league 8 - 7 Pacific league (FT)
+
+--- PCL ---
+5:45 PM MDT | Reno Aces @ Round Rock Express (NS)
+6:05 PM MDT | Salt Lake Bees @ Sugar Land (NS)
+6:05 PM MDT | Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+6:35 PM MDT | Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+8:05 PM MDT | Sacramento River Cats @ Tacoma Rainiers (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-29 10:58:12 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+Wed Jul 29, 6:00 PM MDT | Racing Louisville W @ Kansas City W (NS)
+Wed Jul 29, 7:00 PM MDT | Washington Spirit W @ Utah Royals W (NS)
+Wed Jul 29, 8:00 PM MDT | NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+Wed Jul 29, 12:00 PM MDT | Völsungur @ Fylkir (NS)
+Wed Jul 29, 1:15 PM MDT | Leiknir R. @ Grindavik (NS)
+Wed Jul 29, 1:45 PM MDT | Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+Wed Jul 29, 12:00 PM MDT | Fjardabyggd / Leiknir @ Magni (NS)
+Wed Jul 29, 12:00 PM MDT | Dalvík / Reynir @ Selfoss (NS)
+Wed Jul 29, 1:15 PM MDT | KFG @ Haukar (NS)
+Wed Jul 29, 1:15 PM MDT | Kormákur / Hvöt @ Kári (NS)
+Wed Jul 29, 1:15 PM MDT | Fjolnir @ Vikingur Olafsiik (NS)
+Wed Jul 29, 1:15 PM MDT | Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+Wed Jul 29, 11:00 AM MDT | Cape Verde W @ Ghana W (NS)
+Wed Jul 29, 2:00 PM MDT | Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+Wed Jul 29, 3:30 AM MDT | Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+Wed Jul 29, 12:00 PM MDT | Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Wed Jul 29, 7:00 AM MDT | Al Hilal Omdurman 4 - 0 KVZ (FT)
+Wed Jul 29, 10:00 AM MDT | Rayon Sports 1 - 0 Tusker (HT)
+
+--- CONCACAF Central American Cup (World) ---
+Wed Jul 29, 6:00 PM MDT | Deportivo Saprissa @ UMECIT (NS)
+Wed Jul 29, 8:00 PM MDT | Xelajú @ LD Alajuelense (NS)
+Wed Jul 29, 8:00 PM MDT | Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+Wed Jul 29, 2:00 PM MDT | Panama U20 @ Jamaica U20 (NS)
+Wed Jul 29, 7:00 PM MDT | Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Wed Jul 29, 4:00 PM MDT | Independiente Medellin @ Vasco DA Gama (NS)
+Wed Jul 29, 6:30 PM MDT | Sporting Cristal @ RB Bragantino (NS)
+Wed Jul 29, 6:30 PM MDT | Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+Wed Jul 29, 4:00 PM MDT | Internacional de Bogota @ Internacional Palmira (NS)
+Wed Jul 29, 4:30 PM MDT | Junior @ Barranquilla (NS)
+Wed Jul 29, 7:00 PM MDT | America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+Wed Jul 29, 2:00 PM MDT | Macara @ Gualaceo SC (NS)
+Wed Jul 29, 6:00 PM MDT | Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+Wed Jul 29, 10:00 AM MDT | Havlíčkův Brod 3 - 0 Stará Říše (HT)
+
+--- Cup (Estonia) ---
+Wed Jul 29, 10:00 AM MDT | Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+Wed Jul 29, 9:00 AM MDT | Zhenys 1 - 3 Kaisar (2H)
+
+--- Cup (Russia) ---
+Wed Jul 29, 8:00 AM MDT | Metallurg Asha 0 - 1 Ilpar (FT)
+Wed Jul 29, 8:30 AM MDT | Znamya Noginsk 3 - 2 Kristall (FT)
+Wed Jul 29, 9:00 AM MDT | FC Tosno 3 - 0 Kirovets Voskhozhdenie (FT)
+Wed Jul 29, 11:00 AM MDT | Zenit Penza @ SKA Rostov (NS)
+
+--- Cupa României (Romania) ---
+Wed Jul 29, 8:30 AM MDT | CSM FC Vaslui @ Aerostar Bacau (NS)
+Wed Jul 29, 8:30 AM MDT | Axiopolis @ Agigea (NS)
+Wed Jul 29, 8:30 AM MDT | Valenii de Munte 2 - 5 Berca (FT)
+Wed Jul 29, 8:30 AM MDT | Sânmartin @ Bihorul Beiuş (NS)
+Wed Jul 29, 8:30 AM MDT | Axi Adunații-Copăceni @ Bolintin Vale (NS)
+Wed Jul 29, 8:30 AM MDT | Bucovina Rădăuţi 0 - 9 Bradul Putna (FT)
+Wed Jul 29, 8:30 AM MDT | Ghiroda şi Giarmata Vii @ Caransebes (NS)
+Wed Jul 29, 8:30 AM MDT | Sighetu Marmaţiei @ Chiesd (NS)
+Wed Jul 29, 8:30 AM MDT | ARO Muscelul Câmpulung @ Corona Braşov (NS)
+Wed Jul 29, 8:30 AM MDT | CSM Adjud 3 - 0 Râmnicu Sărat (FT)
+Wed Jul 29, 8:30 AM MDT | Kids Tâmpa Braşov @ Săcele (NS)
+Wed Jul 29, 8:30 AM MDT | Vulturii Fărcăşeşti 2 - 3 CSM Targu Jiu (FT)
+Wed Jul 29, 8:30 AM MDT | Baicoi @ Plopeni (NS)
+Wed Jul 29, 8:30 AM MDT | Academica Balș @ Oltul Curtişoara (NS)
+Wed Jul 29, 8:30 AM MDT | Unirea Bascov @ Domnesti IF (NS)
+Wed Jul 29, 8:30 AM MDT | Alexandria @ Dunărea 2020 Giurgiu (NS)
+Wed Jul 29, 8:30 AM MDT | Tricolorul Breaza @ Pucioasa (NS)
+Wed Jul 29, 8:30 AM MDT | Păușești @ Gilortul (NS)
+Wed Jul 29, 8:30 AM MDT | Dunarea Calarasi 3 - 1 Gloria Băneasa (FT)
+Wed Jul 29, 8:30 AM MDT | ACS Mediaş 2022 @ Inter Sibiu (NS)
+Wed Jul 29, 8:30 AM MDT | LPS HD Clinceni 0 - 3 Progresul Mogosoaia (FT)
+Wed Jul 29, 8:30 AM MDT | Blejoi @ Păuleşti (NS)
+Wed Jul 29, 8:30 AM MDT | Progresul Fundulea @ Progresul Spartac (NS)
+Wed Jul 29, 8:30 AM MDT | Înainte Modelu @ Recolta Gheorghe Doja (NS)
+Wed Jul 29, 8:30 AM MDT | Viitorul Arad 0 - 4 Unirea Sântana (FT)
+Wed Jul 29, 8:30 AM MDT | Unirea Tășnad @ Crişul Sântandrei (NS)
+Wed Jul 29, 8:30 AM MDT | Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+Wed Jul 29, 8:30 AM MDT | Progresul Pecica 0 - 1 Timişul Şag (FT)
+Wed Jul 29, 8:30 AM MDT | Voința Crevedia 3 - 1 Urban Titu (FT)
+Wed Jul 29, 8:30 AM MDT | Filiaşi 5 - 0 U Craiova 1948 (FT)
+Wed Jul 29, 8:30 AM MDT | Viitorul Cluj 2 - 1 Unirea Dej (FT)
+Wed Jul 29, 8:30 AM MDT | Jiul Petroşani 4 - 0 Unirea DMO (FT)
+Wed Jul 29, 8:30 AM MDT | CIL Blaj @ Universitatea Alba Iulia (NS)
+Wed Jul 29, 8:30 AM MDT | Stiinta Miroslava @ USV Iaşi (NS)
+Wed Jul 29, 8:30 AM MDT | Unirea Braniştea @ Victoria Traian (NS)
+Wed Jul 29, 8:30 AM MDT | Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+Wed Jul 29, 11:45 AM MDT | Khaitan @ Al Sahel (NS)
+Wed Jul 29, 11:45 AM MDT | Yarmouk @ Sporty (NS)
+Wed Jul 29, 11:45 AM MDT | Shamiya @ Al Sulaibikhat (NS)
+Wed Jul 29, 11:45 AM MDT | Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Wed Jul 29, 1:00 PM MDT | Sportivo Trinidense @ Sportivo Luqueno (NS)
+Wed Jul 29, 3:30 PM MDT | Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+Wed Jul 29, 4:00 AM MDT | Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+Wed Jul 29, 4:00 AM MDT | Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+Wed Jul 29, 4:00 AM MDT | FC Seoul 0 - 2 Busan I Park (FT)
+Wed Jul 29, 4:00 AM MDT | Jinju Citizen 1 - 1 Busan Transportation (PEN)
+Wed Jul 29, 4:00 AM MDT | Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+Wed Jul 29, 4:00 AM MDT | Incheon United 0 - 1 Gimpo Citizen (FT)
+Wed Jul 29, 4:00 AM MDT | Cheonan City 0 - 1 Gwangju FC (FT)
+Wed Jul 29, 4:00 AM MDT | Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+Wed Jul 29, 4:00 AM MDT | Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+Wed Jul 29, 4:30 AM MDT | FC Anyang 3 - 1 Cheongju (FT)
+Wed Jul 29, 4:30 AM MDT | Hwaseong 3 - 3 Jeju United FC (PEN)
+Wed Jul 29, 5:00 AM MDT | Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Wed Jul 29, 12:45 PM MDT | Cumnock Juniors @ Beith (NS)
+Wed Jul 29, 12:45 PM MDT | Lochee United @ Dunipace (NS)
+Wed Jul 29, 12:45 PM MDT | Brechin @ East Stirlingshire (NS)
+Wed Jul 29, 12:45 PM MDT | Newton Stewart @ Gretna 2008 (NS)
+Wed Jul 29, 12:45 PM MDT | Troon FC @  Johnstone Burgh (NS)
+Wed Jul 29, 12:45 PM MDT | Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+Wed Jul 29, 2:00 AM MDT | FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+Wed Jul 29, 3:00 AM MDT | Academico Viseu 2 - 2 Celta Vigo (FT)
+Wed Jul 29, 3:00 AM MDT | Portimonense 1 - 1 Estrela (FT)
+Wed Jul 29, 3:30 AM MDT | Vianense @ AVS (NS)
+Wed Jul 29, 3:30 AM MDT | Patro Eisden 2 - 1 Waalwijk (FT)
+Wed Jul 29, 3:45 AM MDT | Sydney 1 - 1 Tottenham (PEN)
+Wed Jul 29, 4:00 AM MDT | Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+Wed Jul 29, 5:00 AM MDT | Manchester City U21 None - None Cardiff City U21 (CANC)
+Wed Jul 29, 6:00 AM MDT | Vizela @ Leixoes (NS)
+Wed Jul 29, 6:00 AM MDT | Carina Gubin @ Pogoń Szczecin II (NS)
+Wed Jul 29, 6:00 AM MDT | Telstar None - None Waalwijk (CANC)
+Wed Jul 29, 6:00 AM MDT | Felgueiras 1932 @ Pacos Ferreira (NS)
+Wed Jul 29, 6:00 AM MDT | São João Ver 1 - 1 Tondela (FT)
+Wed Jul 29, 6:00 AM MDT | Academica @ Alverca (NS)
+Wed Jul 29, 6:00 AM MDT | Lusitano Évora 1911 @ Estrela (NS)
+Wed Jul 29, 7:00 AM MDT | Kifisia 1 - 1 KVC Westerlo (FT)
+Wed Jul 29, 7:00 AM MDT | Genk 0 - 4 Bayer Leverkusen (FT)
+Wed Jul 29, 8:00 AM MDT | Bistrica 2 - 5 Lecce (FT)
+Wed Jul 29, 8:30 AM MDT | Sambenedettese 1 - 1 Frosinone (FT)
+Wed Jul 29, 9:00 AM MDT | Cittadella 1 - 1 Cremonese (FT)
+Wed Jul 29, 9:00 AM MDT | Iraklis 1908 1 - 1 Palermo (FT)
+Wed Jul 29, 9:00 AM MDT | Kozuv Gevgelija @ Belasica (NS)
+Wed Jul 29, 9:00 AM MDT | Paradiso @ Catanzaro (NS)
+Wed Jul 29, 9:00 AM MDT | Chrudim II 2 - 4 Kolín (FT)
+Wed Jul 29, 9:30 AM MDT | Albinoleffe @ Arezzo (NS)
+Wed Jul 29, 9:30 AM MDT | Virtus Verona 1 - 1 Dolomiti Bellunesi (2H)
+Wed Jul 29, 9:30 AM MDT | San Donato Tavarnelle 2 - 1 Grosseto (2H)
+Wed Jul 29, 9:30 AM MDT | Sporting Trestina 0 - 2 Gubbio (2H)
+Wed Jul 29, 9:30 AM MDT | Laci 0 - 0 Vllaznia Shkodër (2H)
+Wed Jul 29, 10:00 AM MDT | Lausanne 0 - 1 Saint Etienne (HT)
+Wed Jul 29, 10:00 AM MDT | Ústí nad Labem II 0 - 1 Sokol Brozany (HT)
+Wed Jul 29, 10:00 AM MDT | Samsunspor 1 - 1 AEK Athens FC (HT)
+Wed Jul 29, 10:00 AM MDT | Al-Ittihad Kalba None - None Konyaspor (CANC)
+Wed Jul 29, 10:00 AM MDT | CD Coria 0 - 0 Valladolid (1H)
+Wed Jul 29, 10:00 AM MDT | Sokol Zápy 1 - 0 Motorlet Praha (2H)
+Wed Jul 29, 10:00 AM MDT | Holstein Kiel 1 - 2 1899 Hoffenheim (HT)
+Wed Jul 29, 10:00 AM MDT | MC Alger @ Al-Hilal Saudi FC (NS)
+Wed Jul 29, 10:00 AM MDT | Segesta Sisak 2 - 0 Krka (HT)
+Wed Jul 29, 10:30 AM MDT | Castellón 0 - 1 Girona (1H)
+Wed Jul 29, 10:30 AM MDT | Patro Eisden None - None Lokeren-Temse (CANC)
+Wed Jul 29, 10:30 AM MDT | Grobničan Čavle 0 - 0 Orijent 1919 (1H)
+Wed Jul 29, 10:45 AM MDT | VfB Stuttgart 2 - 0 Kickers Offenbach (1H)
+Wed Jul 29, 11:00 AM MDT | Eibar @ Real Sociedad II (NS)
+Wed Jul 29, 11:00 AM MDT | Aywaille @ AS Eupen (NS)
+Wed Jul 29, 11:00 AM MDT | Athletic Club @ Racing Santander (NS)
+Wed Jul 29, 11:00 AM MDT | Forli @ Tre Fiori (NS)
+Wed Jul 29, 11:30 AM MDT | Lugo @ Deportivo La Coruna (NS)
+Wed Jul 29, 11:30 AM MDT | Hilden @ Wulfrath (NS)
+Wed Jul 29, 11:30 AM MDT | Meux @ Huy (NS)
+Wed Jul 29, 11:30 AM MDT | Burgos @ Unionistas de Salamanca (NS)
+Wed Jul 29, 11:45 AM MDT | Monthey @ Pully Football (NS)
+Wed Jul 29, 11:45 AM MDT | Varzim @ Tirsense (NS)
+Wed Jul 29, 12:00 PM MDT | Bristol City @ Forest Green (NS)
+Wed Jul 29, 12:00 PM MDT | Grimsby @ Boston United (NS)
+Wed Jul 29, 12:00 PM MDT | AD Ceuta FC @ Cadiz (NS)
+Wed Jul 29, 12:00 PM MDT | Lyon @ Real Betis (NS)
+Wed Jul 29, 12:00 PM MDT | Portsmouth @ Farnborough (NS)
+Wed Jul 29, 12:00 PM MDT | Ponferradina @ Oviedo (NS)
+Wed Jul 29, 12:00 PM MDT | Estrela @ Maritimo (NS)
+Wed Jul 29, 12:00 PM MDT | Real Avilés @ Marino de Luanco (NS)
+Wed Jul 29, 12:00 PM MDT | Almeria @ Granada CF (NS)
+Wed Jul 29, 12:30 PM MDT | Preston @ Bradford (NS)
+Wed Jul 29, 12:30 PM MDT | Newcastle @ Bristol City (NS)
+Wed Jul 29, 12:30 PM MDT | Wolves @ Doncaster (NS)
+Wed Jul 29, 12:30 PM MDT | Fiorentina @ Watford (NS)
+Wed Jul 29, 12:45 PM MDT | Espanyol @ Burnley (NS)
+Wed Jul 29, 12:45 PM MDT | Osasuna @ Ipswich (NS)
+Wed Jul 29, 12:45 PM MDT | Lusitânia Lourosa @ Leça (NS)
+Wed Jul 29, 12:45 PM MDT | Cacereño @ Villanovense (NS)
+Wed Jul 29, 1:30 PM MDT | Getafe @ Atletico Madrid (NS)
+Wed Jul 29, 5:30 PM MDT | Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+Wed Jul 29, 4:30 PM MDT | Grêmio Anápolis @ Goiânia (NS)
+Wed Jul 29, 4:30 PM MDT | Tupy FC @ Rio Verde (NS)
+Wed Jul 29, 4:30 PM MDT | Mineiros @ Trindade (NS)
+Wed Jul 29, 5:00 PM MDT | Crixás EC @ Goianésia (NS)
+Wed Jul 29, 5:00 PM MDT | Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+Wed Jul 29, 5:00 AM MDT | Nantong Haimen Codion 2 - 1 BIT (FT)
+Wed Jul 29, 5:30 AM MDT | Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+Wed Jul 29, 5:30 AM MDT | Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+Wed Jul 29, 2:30 PM MDT | San Antonio @ Cuniburo (NS)
+Wed Jul 29, 6:00 PM MDT | 9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+Wed Jul 29, 11:30 AM MDT | Aldosivi @ Barracas Central (NS)
+Wed Jul 29, 2:00 PM MDT | Deportivo Riestra @ Defensa Y Justicia (NS)
+Wed Jul 29, 4:15 PM MDT | River Plate @ Gimnasia L.P. (NS)
+Wed Jul 29, 6:30 PM MDT | Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+Wed Jul 29, 6:00 PM MDT | Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+Wed Jul 29, 5:00 AM MDT | Sandefjord U19 @ Åsane U19 (NS)
+Wed Jul 29, 7:00 AM MDT | Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+Wed Jul 29, 9:30 AM MDT | Tromsø U19 1 - 0 Strømsgodset U19 (2H)
+Wed Jul 29, 10:00 AM MDT | Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+Wed Jul 29, 8:00 PM MDT | Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+Wed Jul 29, 2:30 AM MDT | Persija 2 - 2 Port FC (FT)
+Wed Jul 29, 6:30 AM MDT | PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+Wed Jul 29, 6:00 AM MDT | Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+Wed Jul 29, 7:40 AM MDT | Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+Wed Jul 29, 5:30 PM MDT | Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+Wed Jul 29, 5:00 PM MDT | Inca Aruba @ Municipal Limeño (NS)
+Wed Jul 29, 7:00 PM MDT | Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+Wed Jul 29, 1:30 PM MDT | Real Frontera @ Club Atletico Barinas (NS)
+Wed Jul 29, 1:30 PM MDT | Deportivo Lara @ Atletico el Vigia FC (NS)
+Wed Jul 29, 1:30 PM MDT | Puerto Cabello II @ Urena SC (NS)
+Wed Jul 29, 2:00 PM MDT | Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+Wed Jul 29, 2:00 PM MDT | RB Bragantino None - None Atletico-MG (PST)
+Wed Jul 29, 2:00 PM MDT | Gremio None - None Botafogo (PST)
+Wed Jul 29, 2:00 PM MDT | Vasco DA Gama None - None Chapecoense-sc (PST)
+Wed Jul 29, 2:00 PM MDT | Santos None - None Sao Paulo (PST)
+Wed Jul 29, 4:30 PM MDT | Flamengo @ Internacional (NS)
+Wed Jul 29, 4:30 PM MDT | Remo @ Mirassol (NS)
+Wed Jul 29, 6:30 PM MDT | Bahia @ Fluminense (NS)
+Wed Jul 29, 6:30 PM MDT | Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+Wed Jul 29, 9:00 AM MDT | Kokand-1912 2 - 3 Dinamo Samarqand (2H)
+
+--- Toto Cup Ligat Al (Israel) ---
+Wed Jul 29, 10:45 AM MDT | Maccabi Netanya 0 - 0 Maccabi Petah Tikva (1H)
+Wed Jul 29, 11:00 AM MDT | Hapoel Petah Tikva @ Hapoel Ramat Gan (NS)
+
+--- UEFA Champions League (World) ---
+Wed Jul 29, 9:00 AM MDT | Omonia Nicosia 0 - 1 Kairat Almaty (BT)
+Wed Jul 29, 10:00 AM MDT | KI Klaksvik 0 - 0 Kauno Žalgiris (HT)
+Wed Jul 29, 11:00 AM MDT | Aarhus @ Lech Poznan (NS)
+Wed Jul 29, 11:30 AM MDT | Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+Wed Jul 29, 11:30 AM MDT | Levski Sofia @ Universitatea Craiova (NS)
+Wed Jul 29, 12:00 PM MDT | Fenerbahçe @ Gornik Zabrze (NS)
+Wed Jul 29, 12:00 PM MDT | Larne @ FK Crvena Zvezda (NS)
+Wed Jul 29, 12:15 PM MDT | Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+Wed Jul 29, 8:30 AM MDT | FC Lugano 5 - 1 Dukagjini (FT)
+Wed Jul 29, 11:00 AM MDT | Polessya @ FC Copenhagen (NS)
+Wed Jul 29, 12:30 PM MDT | FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+Wed Jul 29, 5:00 PM MDT | FC Tulsa @ Pittsburgh Riverhounds (NS)
+Wed Jul 29, 5:30 PM MDT | Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+Wed Jul 29, 5:00 PM MDT | Boise @ Greenville Triumph (NS)
+Wed Jul 29, 6:00 PM MDT | Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+Wed Jul 29, 9:30 AM MDT | KäPa 1 - 2 MP (2H)
+
+===== BASKETBALL =====
+
+--- NBA W ---
+Wed Jul 29, 6:00 PM MDT | Atlanta Dream W @ Dallas Wings W (NS)
+Wed Jul 29, 8:00 PM MDT | Golden State Valkyries W @ Phoenix Mercury W (NS)
+
+--- BSN ---
+Wed Jul 29, 6:00 PM MDT | Leones De Ponce @ Aguada Santeros (NS)
+
+--- CEBL ---
+Wed Jul 29, 7:30 PM MDT | Niagara River Lions @ Saskatoon Mamba (NS)
+
+--- EuroBasket U18 ---
+Wed Jul 29, 5:00 AM MDT | Slovakia U18 60 - 72 France U18 (FT)
+Wed Jul 29, 5:00 AM MDT | Denmark U18 86 - 100 Israel U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Estonia U18 71 - 85 Germany U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Latvia U18 76 - 86 Slovenia U18 (FT)
+Wed Jul 29, 10:00 AM MDT | Lithuania U18 40 - 47 Italy U18 (HT)
+Wed Jul 29, 10:00 AM MDT | Greece U18 30 - 38 Serbia U18 (HT)
+Wed Jul 29, 12:30 PM MDT | Bulgaria U18 @ Spain U18 (NS)
+Wed Jul 29, 12:30 PM MDT | Austria U18 @ Turkey U18 (NS)
+
+--- EuroBasket U18 B ---
+Wed Jul 29, 2:30 AM MDT | Sweden U18 60 - 69 North Macedonia U18 (FT)
+Wed Jul 29, 2:30 AM MDT | Norway U18 65 - 85 Romania U18 (FT)
+Wed Jul 29, 5:00 AM MDT | Finland U18 66 - 63 Cyprus U18 (FT)
+Wed Jul 29, 5:00 AM MDT | Poland U18 95 - 71 Iceland U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Belgium U18 78 - 73 Great Britain U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Portugal U18 91 - 68 Ukraine U18 (FT)
+Wed Jul 29, 10:00 AM MDT | Czech Republic U18 40 - 23 Azerbaijan U18 (Q3)
+Wed Jul 29, 10:00 AM MDT | Georgia U18 26 - 35 Hungary U18 (Q2)
+Wed Jul 29, 12:30 PM MDT | Netherlands U18 @ Ireland U18 (NS)
+Wed Jul 29, 12:30 PM MDT | Croatia U18 @ Montenegro U18 (NS)
+
+--- Governors Cup ---
+Wed Jul 29, 3:15 AM MDT | Macau Black Bears 96 - 92 Terrafirma Dyip (FT)
+Wed Jul 29, 5:30 AM MDT | Titan Ultra Giant Risers 105 - 143 San Miguel Beermen (FT)
+
+--- LNB ---
+Wed Jul 29, 7:30 PM MDT | Las Animas @ CD Puerto Varas (NS)
+
+--- MPBL ---
+Wed Jul 29, 1:00 AM MDT | Quezon City 120 - 87 Negros Hacienderos (FT)
+Wed Jul 29, 3:00 AM MDT | Abra Weavers 130 - 76 Pasig City (FT)
+Wed Jul 29, 5:00 AM MDT | GenSan Warriors 71 - 81 Rizal Golden Coolers (FT)
+
+--- NBL ---
+Wed Jul 29, 1:00 AM MDT | Tauranga Whai 81 - 96 Southland Sharks (FT)
+
+===== BASEBALL =====
+
+--- MLB ---
+Wed Jul 29, 10:10 AM MDT | Philadelphia Phillies 2 - 0 Miami Marlins (IN3)
+Wed Jul 29, 10:35 AM MDT | Arizona Diamondbacks 0 - 0 Pittsburgh Pirates (IN2)
+Wed Jul 29, 11:05 AM MDT | Toronto Blue Jays @ Washington Nationals (NS)
+Wed Jul 29, 11:10 AM MDT | Atlanta Braves @ New York Mets (NS)
+Wed Jul 29, 11:10 AM MDT | Baltimore Orioles @ Detroit Tigers (NS)
+Wed Jul 29, 1:45 PM MDT | Milwaukee Brewers @ San Francisco Giants (NS)
+Wed Jul 29, 2:10 PM MDT | Colorado Rockies @ San Diego Padres (NS)
+Wed Jul 29, 4:40 PM MDT | Texas Rangers @ Tampa Bay Rays (NS)
+Wed Jul 29, 5:10 PM MDT | Atlanta Braves @ New York Mets (NS)
+Wed Jul 29, 5:10 PM MDT | Cleveland Guardians @ Cincinnati Reds (NS)
+Wed Jul 29, 5:40 PM MDT | Kansas City Royals @ Minnesota Twins (NS)
+Wed Jul 29, 5:40 PM MDT | New York Yankees @ Chicago White Sox (NS)
+Wed Jul 29, 5:45 PM MDT | Chicago Cubs @ St.Louis Cardinals (NS)
+Wed Jul 29, 7:38 PM MDT | Houston Astros @ Los Angeles Angels (NS)
+Wed Jul 29, 7:40 PM MDT | Boston Red Sox @ Athletics (NS)
+Wed Jul 29, 8:10 PM MDT | Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+Wed Jul 29, 4:35 AM MDT | TSG Hawks 5 - 4 Uni Lions (FT)
+Wed Jul 29, 4:35 AM MDT | Chinatrust Brothers 5 - 12 Rakuten Monkeys (FT)
+Wed Jul 29, 4:35 AM MDT | Wei Chuan Dragons 3 - 1 Fubon Guardians (FT)
+
+--- Elitserien ---
+Wed Jul 29, 10:00 AM MDT | Leksand 5 - 1 Rattvik (IN2)
+
+--- IL ---
+Wed Jul 29, 9:05 AM MDT | Syracuse Mets None - None Rochester Red Wings (POST)
+Wed Jul 29, 11:05 AM MDT | St. Paul @ Omaha Storm Chasers (NS)
+Wed Jul 29, 11:08 AM MDT | Scranton/WB @ Iowa Cubs (NS)
+Wed Jul 29, 3:30 PM MDT | Gwinnett Stripers @ Durham Bulls (NS)
+Wed Jul 29, 4:35 PM MDT | Worcester @ Norfolk Tides (NS)
+Wed Jul 29, 4:35 PM MDT | Indianapolis Indians @ Louisville Bats (NS)
+Wed Jul 29, 4:45 PM MDT | Buffalo Bisons @ Lehigh Valley IronPigs (NS)
+Wed Jul 29, 5:05 PM MDT | Memphis Redbirds @ Jacksonville Jumbo Shrimp (NS)
+Wed Jul 29, 5:05 PM MDT | Toledo Mud Hens @ Columbus Clippers (NS)
+Wed Jul 29, 5:30 PM MDT | Gwinnett Stripers @ Durham Bulls (NS)
+Wed Jul 29, 5:35 PM MDT | Charlotte Knights @ Nashville Sounds (NS)
+
+--- KBO ---
+Wed Jul 29, 3:30 AM MDT | Lotte Giants 3 - 5 Hanwha Eagles (FT)
+Wed Jul 29, 3:30 AM MDT | Kiwoom Heroes 18 - 11 LG Twins (FT)
+Wed Jul 29, 3:30 AM MDT | KT Wiz Suwon 10 - 3 NC Dinos (FT)
+Wed Jul 29, 3:30 AM MDT | KIA Tigers 9 - 4 Samsung Lions (FT)
+Wed Jul 29, 3:30 AM MDT | Doosan Bears 2 - 6 SSG Landers (FT)
+
+--- LMB ---
+Wed Jul 29, 4:00 PM MDT | Yucatan 0 - 7 Diablos Rojos (FT)
+Wed Jul 29, 6:30 PM MDT | Campeche @ Quintana Roo (NS)
+Wed Jul 29, 6:30 PM MDT | Jalisco @ Dos Laredos (NS)
+Wed Jul 29, 7:00 PM MDT | Queretaro @ Puebla (NS)
+Wed Jul 29, 7:00 PM MDT | Tabasco @ Veracruz (NS)
+Wed Jul 29, 7:00 PM MDT | Bravos de Leon @ Oaxaca (NS)
+Wed Jul 29, 7:00 PM MDT | Yucatan @ Diablos Rojos (NS)
+Wed Jul 29, 7:10 PM MDT | Monterrey @ Caliente de Durango (NS)
+Wed Jul 29, 7:30 PM MDT | Aguascalientes @ Saltillo (NS)
+Wed Jul 29, 7:45 PM MDT | Chihuahua @ Monclova (NS)
+Wed Jul 29, 8:35 PM MDT | Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+Wed Jul 29, 3:30 AM MDT | Central league 8 - 7 Pacific league (FT)
+
+--- PCL ---
+Wed Jul 29, 5:45 PM MDT | Reno Aces @ Round Rock Express (NS)
+Wed Jul 29, 6:05 PM MDT | Salt Lake Bees @ Sugar Land (NS)
+Wed Jul 29, 6:05 PM MDT | Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+Wed Jul 29, 6:35 PM MDT | Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+Wed Jul 29, 8:05 PM MDT | Sacramento River Cats @ Tacoma Rainiers (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-29 11:07:32 AM
+Fetching games for: 2026-07-29
+==================================================
+
+
+===== SOCCER =====
+
+--- NWSL Women (USA) ---
+Wed Jul 29, 6:00 PM MDT | Racing Louisville W @ Kansas City W (NS)
+Wed Jul 29, 7:00 PM MDT | Washington Spirit W @ Utah Royals W (NS)
+Wed Jul 29, 8:00 PM MDT | NJ/NY Gotham FC W @ Bay FC W (NS)
+
+--- 1. Deild (Iceland) ---
+Wed Jul 29, 12:00 PM MDT | Völsungur @ Fylkir (NS)
+Wed Jul 29, 1:15 PM MDT | Leiknir R. @ Grindavik (NS)
+Wed Jul 29, 1:45 PM MDT | Afturelding @ Throttur Reykjavik (NS)
+
+--- 2. Deild (Iceland) ---
+Wed Jul 29, 12:00 PM MDT | Fjardabyggd / Leiknir @ Magni (NS)
+Wed Jul 29, 12:00 PM MDT | Dalvík / Reynir @ Selfoss (NS)
+Wed Jul 29, 1:15 PM MDT | KFG @ Haukar (NS)
+Wed Jul 29, 1:15 PM MDT | Kormákur / Hvöt @ Kári (NS)
+Wed Jul 29, 1:15 PM MDT | Fjolnir @ Vikingur Olafsiik (NS)
+Wed Jul 29, 1:15 PM MDT | Hvíti riddarinn @ Thróttur Vogar (NS)
+
+--- Africa Cup of Nations - Women (World) ---
+Wed Jul 29, 11:00 AM MDT | Cape Verde W @ Ghana W (NS)
+Wed Jul 29, 2:00 PM MDT | Mali W @ Cameroon W (NS)
+
+--- Capital Territory NPL (Australia) ---
+Wed Jul 29, 3:30 AM MDT | Queanbeyan City 0 - 2 Brindabella (FT)
+
+--- Catarinense U20 (Brazil) ---
+Wed Jul 29, 12:00 PM MDT | Chapecoense U20 @ Concórdia U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Wed Jul 29, 7:00 AM MDT | Al Hilal Omdurman 4 - 0 KVZ (FT)
+Wed Jul 29, 10:00 AM MDT | Rayon Sports 1 - 0 Tusker (2H)
+
+--- CONCACAF Central American Cup (World) ---
+Wed Jul 29, 6:00 PM MDT | Deportivo Saprissa @ UMECIT (NS)
+Wed Jul 29, 8:00 PM MDT | Xelajú @ LD Alajuelense (NS)
+Wed Jul 29, 8:00 PM MDT | Antigua GFC @ Alianza (NS)
+
+--- CONCACAF U20 (World) ---
+Wed Jul 29, 2:00 PM MDT | Panama U20 @ Jamaica U20 (NS)
+Wed Jul 29, 7:00 PM MDT | Honduras U20 @ Canada U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Wed Jul 29, 4:00 PM MDT | Independiente Medellin @ Vasco DA Gama (NS)
+Wed Jul 29, 6:30 PM MDT | Sporting Cristal @ RB Bragantino (NS)
+Wed Jul 29, 6:30 PM MDT | Lanus @ Cienciano (NS)
+
+--- Copa Colombia (Colombia) ---
+Wed Jul 29, 4:00 PM MDT | Internacional de Bogota @ Internacional Palmira (NS)
+Wed Jul 29, 4:30 PM MDT | Junior @ Barranquilla (NS)
+Wed Jul 29, 7:00 PM MDT | America de Cali @ Real Cartagena (NS)
+
+--- Copa Ecuador (Ecuador) ---
+Wed Jul 29, 2:00 PM MDT | Macara @ Gualaceo SC (NS)
+Wed Jul 29, 6:00 PM MDT | Manta FC @ Independiente del Valle (NS)
+
+--- Cup (Czech-Republic) ---
+Wed Jul 29, 10:00 AM MDT | Havlíčkův Brod 4 - 0 Stará Říše (2H)
+
+--- Cup (Estonia) ---
+Wed Jul 29, 10:00 AM MDT | Põhja-Tallinna JK Volta @ Flora III (TBD)
+
+--- Cup (Kazakhstan) ---
+Wed Jul 29, 9:00 AM MDT | Zhenys 1 - 3 Kaisar (FT)
+
+--- Cup (Russia) ---
+Wed Jul 29, 8:00 AM MDT | Metallurg Asha 0 - 1 Ilpar (FT)
+Wed Jul 29, 8:30 AM MDT | Znamya Noginsk 3 - 2 Kristall (FT)
+Wed Jul 29, 9:00 AM MDT | FC Tosno 3 - 0 Kirovets Voskhozhdenie (FT)
+Wed Jul 29, 11:00 AM MDT | Zenit Penza 0 - 0 SKA Rostov (1H)
+
+--- Cupa României (Romania) ---
+Wed Jul 29, 8:30 AM MDT | CSM FC Vaslui @ Aerostar Bacau (NS)
+Wed Jul 29, 8:30 AM MDT | Axiopolis @ Agigea (NS)
+Wed Jul 29, 8:30 AM MDT | Valenii de Munte 2 - 5 Berca (FT)
+Wed Jul 29, 8:30 AM MDT | Sânmartin @ Bihorul Beiuş (NS)
+Wed Jul 29, 8:30 AM MDT | Axi Adunații-Copăceni @ Bolintin Vale (NS)
+Wed Jul 29, 8:30 AM MDT | Bucovina Rădăuţi 0 - 9 Bradul Putna (FT)
+Wed Jul 29, 8:30 AM MDT | Ghiroda şi Giarmata Vii @ Caransebes (NS)
+Wed Jul 29, 8:30 AM MDT | Sighetu Marmaţiei 4 - 1 Chiesd (FT)
+Wed Jul 29, 8:30 AM MDT | ARO Muscelul Câmpulung @ Corona Braşov (NS)
+Wed Jul 29, 8:30 AM MDT | CSM Adjud 3 - 0 Râmnicu Sărat (FT)
+Wed Jul 29, 8:30 AM MDT | Kids Tâmpa Braşov @ Săcele (NS)
+Wed Jul 29, 8:30 AM MDT | Vulturii Fărcăşeşti 2 - 3 CSM Targu Jiu (FT)
+Wed Jul 29, 8:30 AM MDT | Baicoi @ Plopeni (NS)
+Wed Jul 29, 8:30 AM MDT | Academica Balș @ Oltul Curtişoara (NS)
+Wed Jul 29, 8:30 AM MDT | Unirea Bascov @ Domnesti IF (NS)
+Wed Jul 29, 8:30 AM MDT | Alexandria @ Dunărea 2020 Giurgiu (NS)
+Wed Jul 29, 8:30 AM MDT | Tricolorul Breaza @ Pucioasa (NS)
+Wed Jul 29, 8:30 AM MDT | Păușești @ Gilortul (NS)
+Wed Jul 29, 8:30 AM MDT | Dunarea Calarasi 3 - 1 Gloria Băneasa (FT)
+Wed Jul 29, 8:30 AM MDT | ACS Mediaş 2022 2 - 0 Inter Sibiu (FT)
+Wed Jul 29, 8:30 AM MDT | LPS HD Clinceni 0 - 3 Progresul Mogosoaia (FT)
+Wed Jul 29, 8:30 AM MDT | Blejoi @ Păuleşti (NS)
+Wed Jul 29, 8:30 AM MDT | Progresul Fundulea @ Progresul Spartac (NS)
+Wed Jul 29, 8:30 AM MDT | Înainte Modelu @ Recolta Gheorghe Doja (NS)
+Wed Jul 29, 8:30 AM MDT | Viitorul Arad 0 - 4 Unirea Sântana (FT)
+Wed Jul 29, 8:30 AM MDT | Unirea Tășnad @ Crişul Sântandrei (NS)
+Wed Jul 29, 8:30 AM MDT | Metalurgistul Cugir @ Hidro Mecanica Sugag (NS)
+Wed Jul 29, 8:30 AM MDT | Progresul Pecica 0 - 1 Timişul Şag (FT)
+Wed Jul 29, 8:30 AM MDT | Voința Crevedia 3 - 1 Urban Titu (FT)
+Wed Jul 29, 8:30 AM MDT | Filiaşi 5 - 0 U Craiova 1948 (FT)
+Wed Jul 29, 8:30 AM MDT | Viitorul Cluj 2 - 1 Unirea Dej (FT)
+Wed Jul 29, 8:30 AM MDT | Jiul Petroşani 4 - 0 Unirea DMO (FT)
+Wed Jul 29, 8:30 AM MDT | CIL Blaj @ Universitatea Alba Iulia (NS)
+Wed Jul 29, 8:30 AM MDT | Stiinta Miroslava @ USV Iaşi (NS)
+Wed Jul 29, 8:30 AM MDT | Unirea Braniştea @ Victoria Traian (NS)
+Wed Jul 29, 8:30 AM MDT | Odorheiu Secuiesc @ Gheorgheni (NS)
+
+--- Division 1 (Kuwait) ---
+Wed Jul 29, 11:45 AM MDT | Khaitan @ Al Sahel (NS)
+Wed Jul 29, 11:45 AM MDT | Yarmouk @ Sporty (NS)
+Wed Jul 29, 11:45 AM MDT | Shamiya @ Al Sulaibikhat (NS)
+Wed Jul 29, 11:45 AM MDT | Al Jazira @ Burgan (NS)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Wed Jul 29, 1:00 PM MDT | Sportivo Trinidense @ Sportivo Luqueno (NS)
+Wed Jul 29, 3:30 PM MDT | Olimpia @ Nacional Asuncion (NS)
+
+--- FA Cup (South-Korea) ---
+Wed Jul 29, 4:00 AM MDT | Siheung Citizen 1 - 2 Asan Mugunghwa (FT)
+Wed Jul 29, 4:00 AM MDT | Paju Citizen 0 - 3 Bucheon FC 1995 (FT)
+Wed Jul 29, 4:00 AM MDT | FC Seoul 0 - 2 Busan I Park (FT)
+Wed Jul 29, 4:00 AM MDT | Jinju Citizen 1 - 1 Busan Transportation (PEN)
+Wed Jul 29, 4:00 AM MDT | Suwon City FC 1 - 2 Gimcheon Sangmu FC (FT)
+Wed Jul 29, 4:00 AM MDT | Incheon United 0 - 1 Gimpo Citizen (FT)
+Wed Jul 29, 4:00 AM MDT | Cheonan City 0 - 1 Gwangju FC (FT)
+Wed Jul 29, 4:00 AM MDT | Ulsan Hyundai FC 0 - 1 Ulsan Citizen (FT)
+Wed Jul 29, 4:00 AM MDT | Dangjin Citizen 1 - 0 Yeoju Sejong (FT)
+Wed Jul 29, 4:30 AM MDT | FC Anyang 3 - 1 Cheongju (FT)
+Wed Jul 29, 4:30 AM MDT | Hwaseong 3 - 3 Jeju United FC (PEN)
+Wed Jul 29, 5:00 AM MDT | Seongnam FC 1 - 0 Gimhae City (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Wed Jul 29, 12:45 PM MDT | Cumnock Juniors @ Beith (NS)
+Wed Jul 29, 12:45 PM MDT | Lochee United @ Dunipace (NS)
+Wed Jul 29, 12:45 PM MDT | Brechin @ East Stirlingshire (NS)
+Wed Jul 29, 12:45 PM MDT | Newton Stewart @ Gretna 2008 (NS)
+Wed Jul 29, 12:45 PM MDT | Troon FC @  Johnstone Burgh (NS)
+Wed Jul 29, 12:45 PM MDT | Pollok @ Renfrew (NS)
+
+--- Friendlies Clubs (World) ---
+Wed Jul 29, 2:00 AM MDT | FC Porto B 3 - 3 Lusitânia Lourosa (FT)
+Wed Jul 29, 3:00 AM MDT | Academico Viseu 2 - 2 Celta Vigo (FT)
+Wed Jul 29, 3:00 AM MDT | Portimonense 1 - 1 Estrela (FT)
+Wed Jul 29, 3:30 AM MDT | Vianense @ AVS (NS)
+Wed Jul 29, 3:30 AM MDT | Patro Eisden 2 - 1 Waalwijk (FT)
+Wed Jul 29, 3:45 AM MDT | Sydney 1 - 1 Tottenham (PEN)
+Wed Jul 29, 4:00 AM MDT | Borussia Dortmund 0 - 1 Cerezo Osaka (FT)
+Wed Jul 29, 5:00 AM MDT | Manchester City U21 None - None Cardiff City U21 (CANC)
+Wed Jul 29, 6:00 AM MDT | Vizela @ Leixoes (NS)
+Wed Jul 29, 6:00 AM MDT | Carina Gubin @ Pogoń Szczecin II (NS)
+Wed Jul 29, 6:00 AM MDT | Telstar None - None Waalwijk (CANC)
+Wed Jul 29, 6:00 AM MDT | Felgueiras 1932 @ Pacos Ferreira (NS)
+Wed Jul 29, 6:00 AM MDT | São João Ver 1 - 1 Tondela (FT)
+Wed Jul 29, 6:00 AM MDT | Academica @ Alverca (NS)
+Wed Jul 29, 6:00 AM MDT | Lusitano Évora 1911 @ Estrela (NS)
+Wed Jul 29, 7:00 AM MDT | Kifisia 1 - 1 KVC Westerlo (FT)
+Wed Jul 29, 7:00 AM MDT | Genk 0 - 4 Bayer Leverkusen (FT)
+Wed Jul 29, 8:00 AM MDT | Bistrica 2 - 5 Lecce (FT)
+Wed Jul 29, 8:30 AM MDT | Sambenedettese 1 - 1 Frosinone (FT)
+Wed Jul 29, 9:00 AM MDT | Cittadella 1 - 1 Cremonese (FT)
+Wed Jul 29, 9:00 AM MDT | Iraklis 1908 1 - 1 Palermo (FT)
+Wed Jul 29, 9:00 AM MDT | Kozuv Gevgelija @ Belasica (NS)
+Wed Jul 29, 9:00 AM MDT | Paradiso @ Catanzaro (NS)
+Wed Jul 29, 9:00 AM MDT | Chrudim II 2 - 4 Kolín (FT)
+Wed Jul 29, 9:30 AM MDT | Albinoleffe @ Arezzo (NS)
+Wed Jul 29, 9:30 AM MDT | Virtus Verona 1 - 1 Dolomiti Bellunesi (2H)
+Wed Jul 29, 9:30 AM MDT | San Donato Tavarnelle 2 - 1 Grosseto (2H)
+Wed Jul 29, 9:30 AM MDT | Sporting Trestina 0 - 2 Gubbio (2H)
+Wed Jul 29, 9:30 AM MDT | Laci 0 - 1 Vllaznia Shkodër (2H)
+Wed Jul 29, 10:00 AM MDT | Lausanne 0 - 1 Saint Etienne (2H)
+Wed Jul 29, 10:00 AM MDT | Ústí nad Labem II 0 - 1 Sokol Brozany (2H)
+Wed Jul 29, 10:00 AM MDT | Samsunspor 1 - 1 AEK Athens FC (HT)
+Wed Jul 29, 10:00 AM MDT | Al-Ittihad Kalba None - None Konyaspor (CANC)
+Wed Jul 29, 10:00 AM MDT | CD Coria 0 - 2 Valladolid (HT)
+Wed Jul 29, 10:00 AM MDT | Sokol Zápy 1 - 0 Motorlet Praha (2H)
+Wed Jul 29, 10:00 AM MDT | Holstein Kiel 1 - 2 1899 Hoffenheim (HT)
+Wed Jul 29, 10:00 AM MDT | MC Alger @ Al-Hilal Saudi FC (NS)
+Wed Jul 29, 10:00 AM MDT | Segesta Sisak 3 - 0 Krka (2H)
+Wed Jul 29, 10:30 AM MDT | Castellón 1 - 1 Girona (1H)
+Wed Jul 29, 10:30 AM MDT | Patro Eisden None - None Lokeren-Temse (CANC)
+Wed Jul 29, 10:30 AM MDT | Grobničan Čavle 0 - 0 Orijent 1919 (1H)
+Wed Jul 29, 10:45 AM MDT | VfB Stuttgart 3 - 0 Kickers Offenbach (1H)
+Wed Jul 29, 11:00 AM MDT | Eibar 0 - 0 Real Sociedad II (1H)
+Wed Jul 29, 11:00 AM MDT | Aywaille 0 - 0 AS Eupen (1H)
+Wed Jul 29, 11:00 AM MDT | Athletic Club 0 - 0 Racing Santander (1H)
+Wed Jul 29, 11:00 AM MDT | Forli 0 - 0 Tre Fiori (1H)
+Wed Jul 29, 11:30 AM MDT | Lugo @ Deportivo La Coruna (NS)
+Wed Jul 29, 11:30 AM MDT | Hilden @ Wulfrath (NS)
+Wed Jul 29, 11:30 AM MDT | Meux @ Huy (NS)
+Wed Jul 29, 11:30 AM MDT | Burgos @ Unionistas de Salamanca (NS)
+Wed Jul 29, 11:45 AM MDT | Monthey @ Pully Football (NS)
+Wed Jul 29, 11:45 AM MDT | Varzim @ Tirsense (NS)
+Wed Jul 29, 12:00 PM MDT | Bristol City @ Forest Green (NS)
+Wed Jul 29, 12:00 PM MDT | Grimsby @ Boston United (NS)
+Wed Jul 29, 12:00 PM MDT | AD Ceuta FC @ Cadiz (NS)
+Wed Jul 29, 12:00 PM MDT | Lyon @ Real Betis (NS)
+Wed Jul 29, 12:00 PM MDT | Portsmouth @ Farnborough (NS)
+Wed Jul 29, 12:00 PM MDT | Ponferradina @ Oviedo (NS)
+Wed Jul 29, 12:00 PM MDT | Estrela @ Maritimo (NS)
+Wed Jul 29, 12:00 PM MDT | Real Avilés @ Marino de Luanco (NS)
+Wed Jul 29, 12:00 PM MDT | Almeria @ Granada CF (NS)
+Wed Jul 29, 12:30 PM MDT | Preston @ Bradford (NS)
+Wed Jul 29, 12:30 PM MDT | Newcastle @ Bristol City (NS)
+Wed Jul 29, 12:30 PM MDT | Wolves @ Doncaster (NS)
+Wed Jul 29, 12:30 PM MDT | Fiorentina @ Watford (NS)
+Wed Jul 29, 12:45 PM MDT | Espanyol @ Burnley (NS)
+Wed Jul 29, 12:45 PM MDT | Osasuna @ Ipswich (NS)
+Wed Jul 29, 12:45 PM MDT | Lusitânia Lourosa @ Leça (NS)
+Wed Jul 29, 12:45 PM MDT | Cacereño @ Villanovense (NS)
+Wed Jul 29, 1:30 PM MDT | Getafe @ Atletico Madrid (NS)
+Wed Jul 29, 5:30 PM MDT | Portland Hearts of Pine @ Sarasota Paradise (NS)
+
+--- Goiano - 2 (Brazil) ---
+Wed Jul 29, 4:30 PM MDT | Grêmio Anápolis @ Goiânia (NS)
+Wed Jul 29, 4:30 PM MDT | Tupy FC @ Rio Verde (NS)
+Wed Jul 29, 4:30 PM MDT | Mineiros @ Trindade (NS)
+Wed Jul 29, 5:00 PM MDT | Crixás EC @ Goianésia (NS)
+Wed Jul 29, 5:00 PM MDT | Bom Jesus EC @ Morrinhos (NS)
+
+--- League Two (China) ---
+Wed Jul 29, 5:00 AM MDT | Nantong Haimen Codion 2 - 1 BIT (FT)
+Wed Jul 29, 5:30 AM MDT | Tai'an Tiankuang 2 - 2 Rizhao Yuqi (FT)
+Wed Jul 29, 5:30 AM MDT | Xiamen Feilu 1 - 2 Wuhan Three Towns II (FT)
+
+--- Liga Pro Serie B (Ecuador) ---
+Wed Jul 29, 2:30 PM MDT | San Antonio @ Cuniburo (NS)
+Wed Jul 29, 6:00 PM MDT | 9 de Octubre @ Dep. Santo Domingo (NS)
+
+--- Liga Profesional Argentina (Argentina) ---
+Wed Jul 29, 11:30 AM MDT | Aldosivi @ Barracas Central (NS)
+Wed Jul 29, 2:00 PM MDT | Deportivo Riestra @ Defensa Y Justicia (NS)
+Wed Jul 29, 4:15 PM MDT | River Plate @ Gimnasia L.P. (NS)
+Wed Jul 29, 6:30 PM MDT | Platense @ Instituto Cordoba (NS)
+
+--- MLS All-Star (USA) ---
+Wed Jul 29, 6:00 PM MDT | Liga MX All-Stars @ MLS All-Stars (NS)
+
+--- Nasjonal U19 Champions League (Norway) ---
+Wed Jul 29, 5:00 AM MDT | Sandefjord U19 @ Åsane U19 (NS)
+Wed Jul 29, 7:00 AM MDT | Stabæk U19 1 - 2 Fredrikstad FK U19 (FT)
+Wed Jul 29, 9:30 AM MDT | Tromsø U19 1 - 0 Strømsgodset U19 (2H)
+Wed Jul 29, 10:00 AM MDT | Lillestrøm U19 @ Aalesunds U19 (NS)
+
+--- Northern Super League (Canada) ---
+Wed Jul 29, 8:00 PM MDT | Montreal Roses W @ Vancouver Rise W (NS)
+
+--- Piala Presiden (Indonesia) ---
+Wed Jul 29, 2:30 AM MDT | Persija 2 - 2 Port FC (FT)
+Wed Jul 29, 6:30 AM MDT | PSMS Medan 0 - 1 Persebaya Surabaya (FT)
+
+--- Premier League (Bhutan) ---
+Wed Jul 29, 6:00 AM MDT | Tensung 1 - 7 Thimphu City (FT)
+
+--- Premier League (Lebanon) ---
+Wed Jul 29, 7:40 AM MDT | Tadamon Sour 1 - 2 Reyady Abaseya (FT)
+
+--- Premier League - Summer Series (England) ---
+Wed Jul 29, 5:30 PM MDT | Wrexham @ Liverpool (NS)
+
+--- Primera Division (El-Salvador) ---
+Wed Jul 29, 5:00 PM MDT | Inca Aruba @ Municipal Limeño (NS)
+Wed Jul 29, 7:00 PM MDT | Fuerte San Francisco @ Firpo (NS)
+
+--- Segunda División (Venezuela) ---
+Wed Jul 29, 1:30 PM MDT | Real Frontera @ Club Atletico Barinas (NS)
+Wed Jul 29, 1:30 PM MDT | Deportivo Lara @ Atletico el Vigia FC (NS)
+Wed Jul 29, 1:30 PM MDT | Puerto Cabello II @ Urena SC (NS)
+Wed Jul 29, 2:00 PM MDT | Zamora FC B @ Fundación Lara Deportiva (NS)
+
+--- Serie A (Brazil) ---
+Wed Jul 29, 2:00 PM MDT | RB Bragantino None - None Atletico-MG (PST)
+Wed Jul 29, 2:00 PM MDT | Gremio None - None Botafogo (PST)
+Wed Jul 29, 2:00 PM MDT | Vasco DA Gama None - None Chapecoense-sc (PST)
+Wed Jul 29, 2:00 PM MDT | Santos None - None Sao Paulo (PST)
+Wed Jul 29, 4:30 PM MDT | Flamengo @ Internacional (NS)
+Wed Jul 29, 4:30 PM MDT | Remo @ Mirassol (NS)
+Wed Jul 29, 6:30 PM MDT | Bahia @ Fluminense (NS)
+Wed Jul 29, 6:30 PM MDT | Palmeiras @ Vitoria (NS)
+
+--- Super League (Uzbekistan) ---
+Wed Jul 29, 9:00 AM MDT | Kokand-1912 2 - 3 Dinamo Samarqand (FT)
+
+--- Toto Cup Ligat Al (Israel) ---
+Wed Jul 29, 10:45 AM MDT | Maccabi Netanya 0 - 0 Maccabi Petah Tikva (1H)
+Wed Jul 29, 11:00 AM MDT | Hapoel Petah Tikva 0 - 0 Hapoel Ramat Gan (1H)
+
+--- UEFA Champions League (World) ---
+Wed Jul 29, 9:00 AM MDT | Omonia Nicosia 0 - 1 Kairat Almaty (ET)
+Wed Jul 29, 10:00 AM MDT | KI Klaksvik 0 - 0 Kauno Žalgiris (2H)
+Wed Jul 29, 11:00 AM MDT | Aarhus 0 - 0 Lech Poznan (1H)
+Wed Jul 29, 11:30 AM MDT | Vikingur Reykjavik @ Hapoel Beer Sheva (NS)
+Wed Jul 29, 11:30 AM MDT | Levski Sofia @ Universitatea Craiova (NS)
+Wed Jul 29, 12:00 PM MDT | Fenerbahçe @ Gornik Zabrze (NS)
+Wed Jul 29, 12:00 PM MDT | Larne @ FK Crvena Zvezda (NS)
+Wed Jul 29, 12:15 PM MDT | Saburtalo @ Slovan Bratislava (NS)
+
+--- UEFA Europa Conference League (World) ---
+Wed Jul 29, 8:30 AM MDT | FC Lugano 5 - 1 Dukagjini (FT)
+Wed Jul 29, 11:00 AM MDT | Polessya 0 - 0 FC Copenhagen (1H)
+Wed Jul 29, 12:30 PM MDT | FC Santa Coloma @ Rapid Vienna (NS)
+
+--- USL Championship (USA) ---
+Wed Jul 29, 5:00 PM MDT | FC Tulsa @ Pittsburgh Riverhounds (NS)
+Wed Jul 29, 5:30 PM MDT | Birmingham Legion @ Louisville City (NS)
+
+--- USL League One (USA) ---
+Wed Jul 29, 5:00 PM MDT | Boise @ Greenville Triumph (NS)
+Wed Jul 29, 6:00 PM MDT | Chattanooga Red Wolves @ Forward Madison (NS)
+
+--- Ykkösliiga (Finland) ---
+Wed Jul 29, 9:30 AM MDT | KäPa 1 - 2 MP (2H)
+
+===== BASKETBALL =====
+
+--- NBA W ---
+Wed Jul 29, 6:00 PM MDT | Atlanta Dream W @ Dallas Wings W (NS)
+Wed Jul 29, 8:00 PM MDT | Golden State Valkyries W @ Phoenix Mercury W (NS)
+
+--- BSN ---
+Wed Jul 29, 6:00 PM MDT | Leones De Ponce @ Aguada Santeros (NS)
+
+--- CEBL ---
+Wed Jul 29, 7:30 PM MDT | Niagara River Lions @ Saskatoon Mamba (NS)
+
+--- EuroBasket U18 ---
+Wed Jul 29, 5:00 AM MDT | Slovakia U18 60 - 72 France U18 (FT)
+Wed Jul 29, 5:00 AM MDT | Denmark U18 86 - 100 Israel U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Estonia U18 71 - 85 Germany U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Latvia U18 76 - 86 Slovenia U18 (FT)
+Wed Jul 29, 10:00 AM MDT | Lithuania U18 48 - 51 Italy U18 (Q3)
+Wed Jul 29, 10:00 AM MDT | Greece U18 35 - 40 Serbia U18 (Q3)
+Wed Jul 29, 12:30 PM MDT | Bulgaria U18 @ Spain U18 (NS)
+Wed Jul 29, 12:30 PM MDT | Austria U18 @ Turkey U18 (NS)
+
+--- EuroBasket U18 B ---
+Wed Jul 29, 2:30 AM MDT | Sweden U18 60 - 69 North Macedonia U18 (FT)
+Wed Jul 29, 2:30 AM MDT | Norway U18 65 - 85 Romania U18 (FT)
+Wed Jul 29, 5:00 AM MDT | Finland U18 66 - 63 Cyprus U18 (FT)
+Wed Jul 29, 5:00 AM MDT | Poland U18 95 - 71 Iceland U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Belgium U18 78 - 73 Great Britain U18 (FT)
+Wed Jul 29, 7:30 AM MDT | Portugal U18 91 - 68 Ukraine U18 (FT)
+Wed Jul 29, 10:00 AM MDT | Czech Republic U18 52 - 28 Azerbaijan U18 (Q3)
+Wed Jul 29, 10:00 AM MDT | Georgia U18 26 - 38 Hungary U18 (HT)
+Wed Jul 29, 12:30 PM MDT | Netherlands U18 @ Ireland U18 (NS)
+Wed Jul 29, 12:30 PM MDT | Croatia U18 @ Montenegro U18 (NS)
+
+--- Governors Cup ---
+Wed Jul 29, 3:15 AM MDT | Macau Black Bears 96 - 92 Terrafirma Dyip (FT)
+Wed Jul 29, 5:30 AM MDT | Titan Ultra Giant Risers 105 - 143 San Miguel Beermen (FT)
+
+--- LNB ---
+Wed Jul 29, 7:30 PM MDT | Las Animas @ CD Puerto Varas (NS)
+
+--- MPBL ---
+Wed Jul 29, 1:00 AM MDT | Quezon City 120 - 87 Negros Hacienderos (FT)
+Wed Jul 29, 3:00 AM MDT | Abra Weavers 130 - 76 Pasig City (FT)
+Wed Jul 29, 5:00 AM MDT | GenSan Warriors 71 - 81 Rizal Golden Coolers (FT)
+
+--- NBL ---
+Wed Jul 29, 1:00 AM MDT | Tauranga Whai 81 - 96 Southland Sharks (FT)
+
+===== BASEBALL =====
+
+--- MLB ---
+Wed Jul 29, 10:10 AM MDT | Philadelphia Phillies 2 - 0 Miami Marlins (IN4)
+Wed Jul 29, 10:35 AM MDT | Arizona Diamondbacks 0 - 0 Pittsburgh Pirates (IN3)
+Wed Jul 29, 11:05 AM MDT | Toronto Blue Jays @ Washington Nationals (NS)
+Wed Jul 29, 11:10 AM MDT | Atlanta Braves @ New York Mets (NS)
+Wed Jul 29, 11:10 AM MDT | Baltimore Orioles @ Detroit Tigers (NS)
+Wed Jul 29, 1:45 PM MDT | Milwaukee Brewers @ San Francisco Giants (NS)
+Wed Jul 29, 2:10 PM MDT | Colorado Rockies @ San Diego Padres (NS)
+Wed Jul 29, 4:40 PM MDT | Texas Rangers @ Tampa Bay Rays (NS)
+Wed Jul 29, 5:10 PM MDT | Atlanta Braves @ New York Mets (NS)
+Wed Jul 29, 5:10 PM MDT | Cleveland Guardians @ Cincinnati Reds (NS)
+Wed Jul 29, 5:40 PM MDT | Kansas City Royals @ Minnesota Twins (NS)
+Wed Jul 29, 5:40 PM MDT | New York Yankees @ Chicago White Sox (NS)
+Wed Jul 29, 5:45 PM MDT | Chicago Cubs @ St.Louis Cardinals (NS)
+Wed Jul 29, 7:38 PM MDT | Houston Astros @ Los Angeles Angels (NS)
+Wed Jul 29, 7:40 PM MDT | Boston Red Sox @ Athletics (NS)
+Wed Jul 29, 8:10 PM MDT | Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+Wed Jul 29, 4:35 AM MDT | TSG Hawks 5 - 4 Uni Lions (FT)
+Wed Jul 29, 4:35 AM MDT | Chinatrust Brothers 5 - 12 Rakuten Monkeys (FT)
+Wed Jul 29, 4:35 AM MDT | Wei Chuan Dragons 3 - 1 Fubon Guardians (FT)
+
+--- Elitserien ---
+Wed Jul 29, 10:00 AM MDT | Leksand 5 - 1 Rattvik (IN3)
+
+--- IL ---
+Wed Jul 29, 9:05 AM MDT | Syracuse Mets None - None Rochester Red Wings (POST)
+Wed Jul 29, 11:05 AM MDT | St. Paul @ Omaha Storm Chasers (NS)
+Wed Jul 29, 11:08 AM MDT | Scranton/WB @ Iowa Cubs (NS)
+Wed Jul 29, 3:30 PM MDT | Gwinnett Stripers @ Durham Bulls (NS)
+Wed Jul 29, 4:35 PM MDT | Worcester @ Norfolk Tides (NS)
+Wed Jul 29, 4:35 PM MDT | Indianapolis Indians @ Louisville Bats (NS)
+Wed Jul 29, 4:45 PM MDT | Buffalo Bisons @ Lehigh Valley IronPigs (NS)
+Wed Jul 29, 5:05 PM MDT | Memphis Redbirds @ Jacksonville Jumbo Shrimp (NS)
+Wed Jul 29, 5:05 PM MDT | Toledo Mud Hens @ Columbus Clippers (NS)
+Wed Jul 29, 5:30 PM MDT | Gwinnett Stripers @ Durham Bulls (NS)
+Wed Jul 29, 5:35 PM MDT | Charlotte Knights @ Nashville Sounds (NS)
+
+--- KBO ---
+Wed Jul 29, 3:30 AM MDT | Lotte Giants 3 - 5 Hanwha Eagles (FT)
+Wed Jul 29, 3:30 AM MDT | Kiwoom Heroes 18 - 11 LG Twins (FT)
+Wed Jul 29, 3:30 AM MDT | KT Wiz Suwon 10 - 3 NC Dinos (FT)
+Wed Jul 29, 3:30 AM MDT | KIA Tigers 9 - 4 Samsung Lions (FT)
+Wed Jul 29, 3:30 AM MDT | Doosan Bears 2 - 6 SSG Landers (FT)
+
+--- LMB ---
+Wed Jul 29, 4:00 PM MDT | Yucatan 0 - 7 Diablos Rojos (FT) [API schedule/status conflict]
+Wed Jul 29, 6:30 PM MDT | Campeche @ Quintana Roo (NS)
+Wed Jul 29, 6:30 PM MDT | Jalisco @ Dos Laredos (NS)
+Wed Jul 29, 7:00 PM MDT | Queretaro @ Puebla (NS)
+Wed Jul 29, 7:00 PM MDT | Tabasco @ Veracruz (NS)
+Wed Jul 29, 7:00 PM MDT | Bravos de Leon @ Oaxaca (NS)
+Wed Jul 29, 7:00 PM MDT | Yucatan @ Diablos Rojos (NS)
+Wed Jul 29, 7:10 PM MDT | Monterrey @ Caliente de Durango (NS)
+Wed Jul 29, 7:30 PM MDT | Aguascalientes @ Saltillo (NS)
+Wed Jul 29, 7:45 PM MDT | Chihuahua @ Monclova (NS)
+Wed Jul 29, 8:35 PM MDT | Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+Wed Jul 29, 3:30 AM MDT | Central league 8 - 7 Pacific league (FT)
+
+--- PCL ---
+Wed Jul 29, 5:45 PM MDT | Reno Aces @ Round Rock Express (NS)
+Wed Jul 29, 6:05 PM MDT | Salt Lake Bees @ Sugar Land (NS)
+Wed Jul 29, 6:05 PM MDT | Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+Wed Jul 29, 6:35 PM MDT | Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+Wed Jul 29, 8:05 PM MDT | Sacramento River Cats @ Tacoma Rainiers (NS)
+
+==================================================
