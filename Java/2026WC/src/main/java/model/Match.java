@@ -15,6 +15,15 @@ public class Match {
 
     private String group;
 
+    @JsonProperty("type")
+    private String type;
+
+    @JsonProperty("home_team_id")
+    private String homeTeamId;
+
+    @JsonProperty("away_team_id")
+    private String awayTeamId;
+
     @JsonProperty("home_team_name_en")
     private String homeTeam;
 
@@ -53,6 +62,16 @@ public class Match {
 
     public String getGroup() {
         return group;
+    }
+
+    public String getType() { return type; }
+
+    public String getHomeTeamId() {
+        return homeTeamId;
+    }
+
+    public String getAwayTeamId() {
+        return awayTeamId;
     }
 
     public String getHomeTeam() {

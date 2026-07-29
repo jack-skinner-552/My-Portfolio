@@ -11,7 +11,4 @@ public class GamesResponse {
         return games;
     }
 
-    public void setGames(List<Match> games) {
-        this.games = games;
-    }
 }
