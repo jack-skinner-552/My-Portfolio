@@ -1,0 +1,248 @@
+==================================================
+Sports API Run Time: 2026-07-28 05:54:39 PM
+Fetching games for: 2026-07-27
+==================================================
+
+
+===== SOCCER =====
+
+--- 1. Division ---
+hodd 0 - 6 Stabaek (FT)
+
+--- 1. Liga ---
+Riga FC II 0 - 3 Valmiera / BSS (FT)
+Tukums II 0 - 9 Metta / LU (FT)
+
+--- 2. liga ---
+Malženice 0 - 2 Šamorín (FT)
+
+--- 3. Division - Girone 1 ---
+KFUM II 0 - 2 Lokomotiv Oslo (FT)
+Frigg 3 - 3 IF Ready (FT)
+Asker 2 - 1 Union Carl Berner (FT)
+
+--- 3. Division - Girone 2 ---
+Ranheim II 0 - 7 Volda (FT)
+
+--- 3. Division - Girone 3 ---
+Brann II 3 - 0 Gneist (FT)
+Sogndal II 4 - 4 Vard (FT)
+
+--- 3. Division - Girone 4 ---
+Våg 1 - 1 Odd II (FT)
+Varhaug 2 - 2 Haugesund II (FT)
+
+--- 3. Division - Girone 5 ---
+Skedsmo 3 - 1 Kongsvinger II (FT)
+
+--- 3. Division - Girone 6 ---
+Oppsal 2 - 2 Lyn II (FT)
+Ørn Horten 3 - 2 Sarpsborg 08 II (FT)
+
+--- A Lyga ---
+FK Zalgiris Vilnius 3 - 2 Hegelmann Litauen (FT)
+Šiauliai None - None FK Trakai (CANC)
+
+--- Africa Cup of Nations - Women ---
+Tanzania W 2 - 1 South Africa W (FT)
+Burkina Faso W 1 - 4 Ivory Coast W (FT)
+
+--- Allsvenskan ---
+AIK Stockholm 0 - 0 BK Hacken (FT)
+
+--- ASEAN Championship ---
+Timor-Leste 0 - 2 Singapore (FT)
+Cambodia 1 - 5 Indonesia (FT)
+
+--- Brasileiro Women ---
+Botafogo W 1 - 2 Bahia W (FT)
+
+--- Calcutta Premier Division ---
+Aryan 0 - 0 Police (FT)
+Coal India 0 - 0 Kalighat Club (FT)
+Rainbow 0 - 3 NA Suruchi Sangha (FT)
+
+--- Catarinense U20 ---
+Joinville U20 1 - 7 Barra SC U20 (FT)
+
+--- CECAFA Club Cup ---
+Vipers 1 - 0 GOR Mahia (FT)
+APR 3 - 1 Al-Haras Al-Jumhuri (FT)
+
+--- CONCACAF U20 ---
+Jamaica U20 2 - 1 Honduras U20 (FT)
+Guatemala U20 4 - 0 Antigua and Barbuda U20 (FT)
+
+--- Copa Paulista ---
+Bandeirante SP 0 - 1 Grêmio Prudente (FT)
+
+--- COTIF Tournament ---
+Levante U20 2 - 0 Sorriso EC U20 (FT)
+
+--- Czech Liga ---
+Mlada Boleslav 4 - 2 Artis (FT)
+
+--- Damallsvenskan ---
+Malmö FF W 0 - 1 Vittsjö W (FT)
+
+--- David Kipiani Cup ---
+Gagra 2 - 1 Samtskhe Akhaltsikhe (FT)
+
+--- Division Intermedia ---
+Guairena FC 1 - 1 Benjamín Aceval (FT)
+3 de Noviembre 0 - 1 12 de Junio VH (FT)
+
+--- Ekstraklasa ---
+Piast Gliwice 0 - 2 Zaglebie Lubin (FT)
+
+--- Eliteserien ---
+Fredrikstad 0 - 4 Rosenborg (FT)
+
+--- Esiliiga A ---
+Viimsi 3 - 0 Nõmme United II (FT)
+
+--- First League ---
+Ludogorets 2 - 0 Dunav Ruse (FT)
+Rotor Volgograd 2 - 0 KAMAZ (FT)
+Botev Plovdiv 2 - 3 CSKA Sofia (FT)
+
+--- FNL ---
+Karviná 0 - 2 Opava (FT)
+
+--- Friendlies Clubs ---
+Nea Salamis 1 - 1 Nieciecza (FT)
+MC Alger 1 - 1 Mamelodi Sundowns (FT)
+Al Fujairah SC 2 - 1 Al-Khor (FT)
+Al-Gharafa 2 - 2 Al Riyadh (FT)
+Sharjah FC 2 - 1 Al-Sailiya (FT)
+Al-Arabi SC 1 - 4 NEOM (FT)
+Venezia 3 - 0 Galatasaray (FT)
+Coventry United 1 - 3 Redditch United (FT)
+
+--- I Liga ---
+Podbeskidzie 1 - 1 Miedz Legnica (FT)
+
+--- League Two ---
+BIT 1 - 6 Qingdao Red Lions (FT)
+Chengdu Rongcheng II 0 - 2 Guangdong Mingtu (FT)
+
+--- Liga Femenina ---
+Fortaleza W 0 - 1 La Equidad W (FT)
+
+--- Liga I ---
+FC Voluntari 0 - 5 CFR 1907 Cluj (FT)
+Rapid 1 - 1 FC Botosani (FT)
+
+--- Liga MX ---
+Club Queretaro 2 - 1 CF Pachuca (FT)
+
+--- Liga Pro ---
+LDU de Quito 1 - 0 Barcelona SC (FT)
+Libertad 2 - 0 Mushuc Runa SC (FT)
+Universidad Catolica 0 - 0 Guayaquil City FC (FT)
+
+--- MLS Next Pro ---
+Colorado Rapids II 1 - 2 Tacoma Defiance (FT)
+
+--- NB I ---
+Zalaegerszegi TE 0 - 3 MTK Budapest (FT)
+
+--- NWSL Women ---
+Racing Louisville W 2 - 1 Angel City W (FT)
+
+--- Primera A ---
+Cucuta 1 - 5 Once Caldas (FT)
+
+--- Primera B ---
+Real Soacha 0 - 1 Envigado (FT)
+Recoleta 1 - 2 Union Espanola (FT)
+
+--- Primera C ---
+Yupanqui 1 - 1 Fénix (FT)
+Leandro N. Alem 1 - 1 Sacachispas (FT)
+El Porvenir None - None Sportivo Barracas (PST)
+
+--- Primera División ---
+FC Cajamarca 1 - 2 Deportivo Garcilaso (FT)
+O'Higgins 0 - 2 Concepción (FT)
+Universitario de Vinto 1 - 2 Gualberto Villarroel SJ (FT)
+Everton de Vina 1 - 1 Union La Calera (FT)
+
+--- Primera Nacional ---
+Almagro 3 - 1 Atlanta (FT)
+
+--- Reserve League ---
+Vélez Sársfield Res. 0 - 1 Banfield Res. (FT)
+River Plate Res. 0 - 0 Talleres Córdoba Res. (FT)
+
+--- Second League - Group 4 ---
+Krylya Sovetov II 0 - 0 Orenburg II (FT)
+
+--- Serie B ---
+Operario-PR 1 - 3 Atletico Goianiense (FT)
+Vila Nova 0 - 2 CRB (FT)
+Cuiaba 1 - 1 Sport Recife (FT)
+
+--- Serie C ---
+Maringá 1 - 1 Floresta (FT)
+Inter De Limeira 1 - 3 Guarani Campinas (FT)
+
+--- Super League ---
+Buxoro 0 - 2 Andijan (FT)
+Sogdiana 1 - 3 Lokomotiv (FT)
+Mash'al 1 - 2 Olmaliq (FT)
+
+--- Superettan ---
+Oddevold 0 - 0 Orebro SK (FT)
+Varbergs BoIS FC 0 - 3 Osters IF (FT)
+
+--- Superliga ---
+Silkeborg 1 - 1 Randers FC (FT)
+
+--- Svenska Cupen ---
+Jonkopings Sodra 0 - 1 IFK Skövde (FT)
+
+--- USL League Two ---
+Vermont Green 7 - 1 Laredo Heat (FT)
+
+--- Victoria NPL 2 ---
+North Sunshine Eagles 0 - 1 Melbourne Victory II (FT)
+Langwarrin 1 - 3 Bulleen Lions (FT)
+
+--- Virsliga ---
+Rīgas FS 1 - 0 Tukums (FT)
+Ogre United 2 - 2 Grobiņa (FT)
+
+--- Úrvalsdeild ---
+IBV Vestmannaeyjar 0 - 1 Breidablik (FT)
+Thor Akureyri 0 - 0 KA Akureyri (FT)
+
+===== BASEBALL =====
+
+--- MLB ---
+Seattle Mariners 3 - 7 Texas Rangers (FT)
+Arizona Diamondbacks 2 - 3 Pittsburgh Pirates (FT)
+Philadelphia Phillies 7 - 8 Miami Marlins (FT)
+Baltimore Orioles 8 - 5 Detroit Tigers (FT)
+Toronto Blue Jays 3 - 2 Washington Nationals (FT)
+Atlanta Braves 3 - 14 New York Mets (FT)
+New York Yankees 9 - 5 Chicago White Sox (FT)
+Chicago Cubs 7 - 3 St.Louis Cardinals (FT)
+
+--- Elitserien ---
+Leksand 5 - 15 Rattvik (FT)
+Sundbyberg 6 - 13 Stockholm (FT)
+
+--- IL ---
+Omaha Storm Chasers 4 - 3 Salt Lake Bees (FT)
+
+--- LMB ---
+Yucatan None - None Tabasco (ABD)
+Campeche 6 - 7 Bravos de Leon (FT)
+Monterrey 4 - 9 Laguna (FT)
+
+--- PCL ---
+El Paso Chihuahuas 15 - 9 Las Vegas Aviators (FT)
+Tacoma Rainiers 5 - 11 Reno Aces (FT)
+
+==================================================

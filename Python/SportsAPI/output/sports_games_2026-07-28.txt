@@ -1,0 +1,1943 @@
+==================================================
+Sports API Run Time: 2026-07-28 05:38:14 PM
+Fetching games for: 2026-07-28
+==================================================
+
+
+===== SOCCER =====
+
+--- 1 Lyga ---
+Transinvest 2 1 - 3 Dainava (FT)
+Minija 0 - 1 Žalgiris II (FT)
+
+--- 1. Deild ---
+Njardvik 1 - 0 Ægir (FT)
+
+--- Africa Cup of Nations - Women ---
+Egypt W @ Zambia W (NS)
+Malawi W @ Nigeria W (NS)
+
+--- ASEAN Championship ---
+Myanmar 4 - 1 Philippines (FT)
+Laos 0 - 4 Malaysia (FT)
+
+--- Calcutta Premier Division ---
+East Bengal 5 - 1 Patha Chakra (FT)
+Mohun Bagan 1 - 0 United Kolkata (FT)
+
+--- Capixaba B ---
+Linhares 4 - 0 GEL (FT)
+
+--- Catarinense U20 ---
+Brusque U20 @ Carlos Renaux U20 (NS)
+
+--- CECAFA Club Cup ---
+Singida Black Stars 4 - 1 Mogadishu City (FT)
+Simba 0 - 0 Jamus (FT)
+
+--- CONCACAF Caribbean Club Shield ---
+Metropolitan 2 - 1 Helenites (FT)
+Weymouth Wales 0 - 1 Mount Pleasant Academy (FT)
+Robin Hood 4 - 0 Slingerz (FT)
+Delfines Del Este 1 - 1 Inter Willemstad (PEN)
+
+--- CONCACAF U20 ---
+Mexico U20 2 - 0 Costa Rica U20 (FT)
+Cuba U20 2 - 3 Haiti U20 (FT)
+
+--- CONMEBOL Sudamericana ---
+Club Nacional 2 - 0 Tigre (2H)
+
+--- Copa Colombia ---
+Santa Fe None - None Union Magdalena (PST)
+Deportes Tolima 0 - 0 Quindio (1H)
+
+--- COTIF Tournament ---
+Levante U20 0 - 0 Mauritania U20 (PEN)
+Valencia U20 0 - 2 Morocco U20 (FT)
+
+--- Cup ---
+Broke Boys 2 - 1 Bomik (FT)
+Izberbash 5 - 1 Anzhi (FT)
+Salyut-Belgorod 0 - 3 Kristall MEZ (FT)
+Tallinna FC Zapoos 1 - 4 FC Tallinn (FT)
+Orel 0 - 2 2Drots (FT)
+
+--- Division Intermedia ---
+Resistencia 1 - 0 Atlético Tembetary (FT)
+Deportivo Capiata 0 - 0 Independiente F.b.c. (2H)
+
+--- Division Profesional - Clausura ---
+Sportivo Ameliano 1 - 1 Rubio NU (FT)
+Cerro Porteno 1 - 2 2 de Mayo (FT)
+
+--- Football League - Lowland League ---
+Bonnyrigg Rose Athletic @ Bo'ness United (NS)
+Gala Fairydean Rovers @ Broxburn Athletic (NS)
+Clydebank @ Celtic II (NS)
+Hill Of Beath Hawthorn @ Civil Service Strollers (NS)
+Kilwinning Rangers @ Cumbernauld Colts (NS)
+Cowdenbeath @ Tranent Juniors (NS)
+
+--- Friendlies Clubs ---
+Verspah Oita 0 - 4 Sanfrecce Hiroshima (FT)
+Western Sydney Wanderers 4 - 6 Chelsea (FT)
+Al-Ahli Jeddah 0 - 2 Portimonense (FT)
+Preston North End U21 2 - 5 Blackburn Rovers U21 (FT)
+Valencia 2 - 1 Derby (FT)
+Muaither SC 0 - 3 MC Oran (FT)
+Modena 0 - 1 Cagliari (FT)
+Scafatese 4 - 1 Pineto (FT)
+Belasica 2 - 0 Kozuv Gevgelija (FT)
+Shabab Al Ahli Dubai 2 - 1 Udinese (FT)
+Sokol Ľubotice 1 - 2 Poprad (FT)
+Annecy 1 - 1 Nancy (FT)
+RED Star FC 93 4 - 1 UNFP (FT)
+Hull City 2 - 1 Rizespor (FT)
+Al Wakrah 0 - 1 Rouen (FT)
+Fomat Martin 1 - 2 Baník Prievidza (FT)
+União de Leiria 2 - 3 Las Palmas (FT)
+Inter Zapresic 0 - 2 Mladost Ždralovi (FT)
+Gaziantep FK 2 - 1 OFK Beograd (FT)
+Leganes 1 - 4 Real Madrid (FT)
+Jiskra Domažlice 5 - 1 Petřín Plzeň (FT)
+MVV 0 - 1 KAA Gent II (FT)
+OFI 2 - 3 NAC Breda (FT)
+Volos NFC 2 - 1 Cambuur (FT)
+Asteras Tripolis 1 - 1 Sparta Rotterdam (FT)
+Al-Nassr 2 - 0 Mérida AD (FT)
+Fulham 1 - 1 Al-Ahli Jeddah (FT)
+Burton Albion 1 - 1 Solihull Moors (FT)
+AFC Fylde 1 - 1 Morecambe (FT)
+Bolton 1 - 1 Fleetwood Town (FT)
+Lincoln 1 - 5 Grimsby (FT)
+FC Eindhoven 0 - 3 PSV Eindhoven (FT)
+AFC Wimbledon 0 - 1 Wealdstone (FT)
+Alvechurch 0 - 0 Kidderminster Harriers (FT)
+Scunthorpe 6 - 3 North Ferriby (FT)
+Stockport County 1 - 0 Oldham (FT)
+Crawley Town 1 - 3 Oxford United (FT)
+Leyton Orient 1 - 2 Swindon Town (FT)
+Jong AZ 4 - 1 Quick Boys (FT)
+Al Ain 2 - 2 Elche (FT)
+Eemdijk 2 - 1 GVVV Veenendaal (FT)
+Ballyclare Comrades 1 - 4 Queen's University (FT)
+Dos Hermanas 1 - 3 Recreativo Huelva (FT)
+Bury 0 - 1 Accrington ST (FT)
+Northampton 0 - 0 Cambridge United (FT)
+Mansfield Town 4 - 0 Alfreton Town (FT)
+South Shields 4 - 1 Gateshead (FT)
+Ayr Utd None - None Darvel (CANC)
+Real Sociedad 4 - 2 Aston Villa (FT)
+Milton Keynes Dons 0 - 0 Barnet (FT)
+Salford City 2 - 0 Carlisle (FT)
+Ards 0 - 1 Carrick Rangers (FT)
+Boreham Wood 2 - 1 Dagenham & Redbridge (FT)
+Linfield 7 - 1 Dollingstown (FT)
+Limavady United None - None Moyola Park (CANC)
+Reading 4 - 0 Newport County (FT)
+Bangor 0 - 1 Newry City AFC (FT)
+Peterborough 2 - 1 York (FT)
+Braintree 1 - 2 Felixstowe & Walton Utd (FT)
+Swansea 0 - 3 Merthyr Town (FT)
+Rotherham 2 - 0 Darlington 1883 (FT)
+Guiseley AFC 3 - 1 Pontefract Collieries (FT)
+Leiston 3 - 1 Gorleston (FT)
+Warrington Town 1 - 2 Marine (FT)
+Brighton U21 1 - 2 Worthing (FT)
+Chelmsford City None - None Dartford (CANC)
+Yeovil Town 1 - 1 Farnham Town (FT)
+Folkestone Invicta 1 - 2 Sutton Utd (FT)
+Herne Bay 2 - 2 Dover (FT)
+Newington Youth 1 - 1 Crusaders FC (FT)
+Eastleigh None - None Bognor Regis Town (CANC)
+Millwall 1 - 1 Bromley (FT)
+Shrewsbury 1 - 1 Hereford (FT)
+Charlton 2 - 0 Colchester (FT)
+AFC Hornchurch 2 - 4 Enfield Town (FT)
+Chester 3 - 0 Nantwich Town (FT)
+FC Halifax Town 3 - 2 Rochdale (FT)
+Everton 0 - 1 Stoke City (FT)
+Macclesfield 1 - 1 Tamworth (FT)
+Bamber Bridge 3 - 1 Ramsbottom United (FT)
+Mickleover Sports 0 - 1 Worksop Town (FT)
+Kingstonian 2 - 2 South Park (FT)
+Hastings United 4 - 0 Eastbourne United (FT)
+Chasetown 2 - 1 Boldmere St. Michaels (FT)
+Malvern Town 0 - 3 Bromsgrove Sporting (FT)
+Chesham United 1 - 2 Chertsey Town (FT)
+Shifnal Town FC 3 - 2 Coleshill Town (FT)
+Ebbsfleet United 3 - 2 Cray Valley PM (FT)
+Dorking Wanderers 0 - 1 Dulwich Hamlet (FT)
+Stourbridge 3 - 3 Halesowen Town (FT)
+Atherton Collieries 1 - 2 Hyde United (FT)
+Basford United 1 - 4 Ilkeston Town (FT)
+Brentwood Town 0 - 5 Maidstone Utd (FT)
+St Albans City 4 - 4 Real Bedford (FT)
+Oxford City 1 - 2 Slough Town (FT)
+Bishop's Stortford 2 - 3 St Ives Town (FT)
+Eastbourne Borough 2 - 4 Tonbridge Angels (FT)
+Chorley 1 - 2 Trafford (FT)
+Aveley 4 - 1 Canvey Island (FT)
+
+--- Kvindeliga ---
+Køge W 3 - 0 FC Copenhagen W (FT)
+Fortuna Hjørring W 6 - 2 KoldingQ W (FT)
+
+--- Liga Panameña de Fútbol ---
+Sporting San Miguelito 0 - 0 Tauro FC (FT)
+
+--- Liga Pro ---
+Emelec 1 - 2 Deportivo Cuenca (FT)
+
+--- Liga Profesional Argentina ---
+Sarmiento Junin 0 - 2 Banfield (2H)
+Gimnasia M. 0 - 0 San Lorenzo (2H)
+
+--- Meistaradeildin ---
+AB 0 - 1 B36 Torshavn (FT)
+
+--- Northern Super League ---
+Calgary Wild W @ AFC Toronto W (NS)
+
+--- Oberliga - Bayern Süd ---
+1880 Wasserburg 1 - 5 Sportfreunde Schwaig (FT)
+
+--- Piala Presiden ---
+Arema FC 2 - 1 Tampines Rovers (FT)
+Persib Bandung 1 - 0 DPMM FC Brunei (FT)
+
+--- Premier League ---
+Thimphu 0 - 2 Paro (FT)
+Al Ahed 1 - 2 Al Nejmeh (FT)
+Al Ansar 2 - 1 Jwaaya FC (FT)
+
+--- Primera B ---
+Ind. Yumbo 2 - 0 Depor FC (FT)
+
+--- Primera Division ---
+Rancho Santana 0 - 2 UNAN Managua (FT)
+Atletico Balboa 2 - 4 Cacahuatique (FT)
+
+--- Reserve League ---
+Belgrano Córdoba Res. 0 - 4 Boca Juniors Res. (FT)
+
+--- Second League ---
+Pirin Blagoevgrad 1 - 5 Dobrudzha (FT)
+Ludogorets II 1 - 0 Rilski Sportist (FT)
+CSKA Sofia II 1 - 1 Vihren (FT)
+
+--- Serie B ---
+Avai 0 - 0 Juventude (2H)
+Athletic Club 0 - 1 Ponte Preta (2H)
+
+--- Super League ---
+Qizilqum 0 - 1 Nasaf (FT)
+Navbahor 1 - 1 Neftchi (FT)
+Surkhon 0 - 1 Xorazm (FT)
+
+--- Superettan ---
+United Nordic 1 - 1 Helsingborg (FT)
+IFK Norrkoping 1 - 0 Landskrona BoIS (FT)
+
+--- Torneo Promocional Amateur ---
+Defensores Glew 1 - 0 Juventud de Bernal (FT)
+
+--- Toto Cup Ligat Al ---
+Ironi Tiberias 1 - 3 Hapoel Haifa (FT)
+Maccabi Haifa 0 - 3 Ironi Kiryat Shmona (FT)
+
+--- UEFA Champions League ---
+Sabah FA 2 - 0 KuPS (FT)
+Mjallby AIF 0 - 0 Lincoln Red Imps FC (FT)
+FC Thun 2 - 3 Dinamo Zagreb (AET)
+Egnatia Rrogozhinë 2 - 2 Celje (PEN)
+Sturm Graz 2 - 0 Heart Of Midlothian (FT)
+Ararat-Armenia 1 - 2 Shamrock Rovers (FT)
+
+--- UEFA Europa Conference League ---
+Vardar Skopje 2 - 5 Riga (AET)
+Dila 0 - 3 Apollon Limassol (FT)
+Spartak Trnava 0 - 0 CSKA 1948 (PEN)
+Floriana 1 - 2 Drita (AET)
+
+===== BASEBALL =====
+
+--- MLB ---
+Houston Astros 6 - 4 Los Angeles Angels (FT)
+Boston Red Sox 4 - 2 Athletics (FT)
+Milwaukee Brewers 0 - 3 San Francisco Giants (FT)
+Cleveland Guardians 6 - 5 Cincinnati Reds (FT)
+Texas Rangers 2 - 0 Tampa Bay Rays (IN4)
+Arizona Diamondbacks 4 - 0 Pittsburgh Pirates (IN3)
+Baltimore Orioles 0 - 6 Detroit Tigers (IN4)
+Philadelphia Phillies 0 - 1 Miami Marlins (IN3)
+Toronto Blue Jays None - None Washington Nationals (FT)
+Atlanta Braves @ New York Mets (NS)
+Cleveland Guardians 0 - 1 Cincinnati Reds (IN2)
+Kansas City Royals @ Minnesota Twins (NS)
+New York Yankees @ Chicago White Sox (NS)
+Chicago Cubs @ St.Louis Cardinals (NS)
+
+--- CPBL ---
+Wei Chuan Dragons 6 - 1 Fubon Guardians (FT)
+TSG Hawks 1 - 3 Uni Lions (FT)
+
+--- IL ---
+Syracuse Mets 3 - 5 Rochester Red Wings (IN6)
+Indianapolis Indians 0 - 0 Louisville Bats (IN4)
+Worcester 1 - 1 Norfolk Tides (IN4)
+Buffalo Bisons None - None Lehigh Valley IronPigs (POST)
+Gwinnett Stripers None - None Durham Bulls (FT)
+Toledo Mud Hens 1 - 3 Columbus Clippers (IN2)
+Memphis Redbirds 0 - 0 Jacksonville Jumbo Shrimp (IN2)
+Charlotte Knights @ Nashville Sounds (NS)
+Scranton/WB @ Iowa Cubs (NS)
+
+--- KBO ---
+Lotte Giants 9 - 3 Hanwha Eagles (FT)
+Kiwoom Heroes 3 - 5 LG Twins (FT)
+KT Wiz Suwon 10 - 0 NC Dinos (FT)
+KIA Tigers 5 - 12 Samsung Lions (FT)
+Doosan Bears 2 - 1 SSG Landers (FT)
+
+--- LMB ---
+Quintana Roo 2 - 4 Campeche (FT)
+Yucatan 5 - 3 Diablos Rojos (FT)
+Campeche 1 - 1 Quintana Roo (IN2)
+
+--- NPB ---
+Pacific league 7 - 5 Central league (FT)
+
+--- PCL ---
+Sacramento River Cats 4 - 8 Tacoma Rainiers (FT)
+Reno Aces @ Round Rock Express (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-28 06:14:27 PM
+Fetching games for: 2026-07-28
+==================================================
+
+
+===== SOCCER =====
+
+--- Premier League ---
+Thimphu 0 - 2 Paro (FT)
+Al Ahed 1 - 2 Al Nejmeh (FT)
+Al Ansar 2 - 1 Jwaaya FC (FT)
+
+--- 1 Lyga ---
+Transinvest 2 1 - 3 Dainava (FT)
+Minija 0 - 1 Žalgiris II (FT)
+
+--- 1. Deild ---
+Njardvik 1 - 0 Ægir (FT)
+
+--- Africa Cup of Nations - Women ---
+Egypt W @ Zambia W (NS)
+Malawi W @ Nigeria W (NS)
+
+--- ASEAN Championship ---
+Myanmar 4 - 1 Philippines (FT)
+Laos 0 - 4 Malaysia (FT)
+
+--- Calcutta Premier Division ---
+East Bengal 5 - 1 Patha Chakra (FT)
+Mohun Bagan 1 - 0 United Kolkata (FT)
+
+--- Canadian Premier League ---
+Supra du Quebec @ Cavalry FC (NS)
+
+--- Capixaba B ---
+Linhares 4 - 0 GEL (FT)
+
+--- Catarinense U20 ---
+Brusque U20 @ Carlos Renaux U20 (NS)
+
+--- CECAFA Club Cup ---
+Singida Black Stars 4 - 1 Mogadishu City (FT)
+Simba 0 - 0 Jamus (FT)
+
+--- CONCACAF Caribbean Club Shield ---
+Metropolitan 2 - 1 Helenites (FT)
+Weymouth Wales 0 - 1 Mount Pleasant Academy (FT)
+Robin Hood 4 - 0 Slingerz (FT)
+Delfines Del Este 1 - 1 Inter Willemstad (PEN)
+
+--- CONCACAF Central American Cup ---
+CD Motagua 1 - 0 Verdes (1H)
+Plaza Amador @ Diriangén (NS)
+Mixco @ CD Olimpia (NS)
+
+--- CONCACAF U20 ---
+Cuba U20 2 - 3 Haiti U20 (FT)
+United States U20 @ El Salvador U20 (NS)
+
+--- CONMEBOL Sudamericana ---
+Club Nacional 2 - 1 Tigre (FT)
+UCV @ Santos (NS)
+
+--- Copa Colombia ---
+Santa Fe None - None Union Magdalena (PST)
+Deportes Tolima 1 - 0 Quindio (HT)
+Deportivo Pasto 1 - 0 Bogota FC (1H)
+Atletico Nacional @ Tigres FC (NS)
+
+--- COTIF Tournament ---
+Levante U20 0 - 0 Mauritania U20 (PEN)
+Valencia U20 0 - 2 Morocco U20 (FT)
+
+--- Cup ---
+Broke Boys 2 - 1 Bomik (FT)
+Izberbash 5 - 1 Anzhi (FT)
+Salyut-Belgorod 0 - 3 Kristall MEZ (FT)
+Tallinna FC Zapoos 1 - 4 FC Tallinn (FT)
+Orel 0 - 2 2Drots (FT)
+
+--- Division Intermedia ---
+Resistencia 1 - 0 Atlético Tembetary (FT)
+Deportivo Capiata 1 - 1 Independiente F.b.c. (2H)
+
+--- Division Profesional - Clausura ---
+Sportivo Ameliano 1 - 1 Rubio NU (FT)
+Cerro Porteno 1 - 2 2 de Mayo (FT)
+
+--- Football League - Lowland League ---
+Bonnyrigg Rose Athletic @ Bo'ness United (NS)
+Gala Fairydean Rovers @ Broxburn Athletic (NS)
+Clydebank @ Celtic II (NS)
+Hill Of Beath Hawthorn @ Civil Service Strollers (NS)
+Kilwinning Rangers @ Cumbernauld Colts (NS)
+Cowdenbeath @ Tranent Juniors (NS)
+
+--- Friendlies Clubs ---
+Verspah Oita 0 - 4 Sanfrecce Hiroshima (FT)
+Western Sydney Wanderers 4 - 6 Chelsea (FT)
+Al-Ahli Jeddah 0 - 2 Portimonense (FT)
+Preston North End U21 2 - 5 Blackburn Rovers U21 (FT)
+Valencia 2 - 1 Derby (FT)
+Muaither SC 0 - 3 MC Oran (FT)
+Modena 0 - 1 Cagliari (FT)
+Scafatese 4 - 1 Pineto (FT)
+Belasica 2 - 0 Kozuv Gevgelija (FT)
+Shabab Al Ahli Dubai 2 - 1 Udinese (FT)
+Sokol Ľubotice 1 - 2 Poprad (FT)
+Annecy 1 - 1 Nancy (FT)
+RED Star FC 93 4 - 1 UNFP (FT)
+Hull City 2 - 1 Rizespor (FT)
+Al Wakrah 0 - 1 Rouen (FT)
+Fomat Martin 1 - 2 Baník Prievidza (FT)
+União de Leiria 2 - 3 Las Palmas (FT)
+Inter Zapresic 0 - 2 Mladost Ždralovi (FT)
+Gaziantep FK 2 - 1 OFK Beograd (FT)
+Leganes 1 - 4 Real Madrid (FT)
+Jiskra Domažlice 5 - 1 Petřín Plzeň (FT)
+MVV 0 - 1 KAA Gent II (FT)
+OFI 2 - 3 NAC Breda (FT)
+Volos NFC 2 - 1 Cambuur (FT)
+Asteras Tripolis 1 - 1 Sparta Rotterdam (FT)
+Al-Nassr 2 - 0 Mérida AD (FT)
+Fulham 1 - 1 Al-Ahli Jeddah (FT)
+Burton Albion 1 - 1 Solihull Moors (FT)
+AFC Fylde 1 - 1 Morecambe (FT)
+Bolton 1 - 1 Fleetwood Town (FT)
+Lincoln 1 - 5 Grimsby (FT)
+FC Eindhoven 0 - 3 PSV Eindhoven (FT)
+AFC Wimbledon 0 - 1 Wealdstone (FT)
+Alvechurch 0 - 0 Kidderminster Harriers (FT)
+Scunthorpe 6 - 3 North Ferriby (FT)
+Stockport County 1 - 0 Oldham (FT)
+Crawley Town 1 - 3 Oxford United (FT)
+Leyton Orient 1 - 2 Swindon Town (FT)
+Jong AZ 4 - 1 Quick Boys (FT)
+Al Ain 2 - 2 Elche (FT)
+Eemdijk 2 - 1 GVVV Veenendaal (FT)
+Ballyclare Comrades 1 - 4 Queen's University (FT)
+Dos Hermanas 1 - 3 Recreativo Huelva (FT)
+Bury 0 - 1 Accrington ST (FT)
+Northampton 0 - 0 Cambridge United (FT)
+Mansfield Town 4 - 0 Alfreton Town (FT)
+South Shields 4 - 1 Gateshead (FT)
+Ayr Utd None - None Darvel (CANC)
+Real Sociedad 4 - 2 Aston Villa (FT)
+Milton Keynes Dons 0 - 0 Barnet (FT)
+Salford City 2 - 0 Carlisle (FT)
+Ards 0 - 1 Carrick Rangers (FT)
+Boreham Wood 2 - 1 Dagenham & Redbridge (FT)
+Linfield 7 - 1 Dollingstown (FT)
+Limavady United None - None Moyola Park (CANC)
+Reading 4 - 0 Newport County (FT)
+Bangor 0 - 1 Newry City AFC (FT)
+Peterborough 2 - 1 York (FT)
+Braintree 1 - 2 Felixstowe & Walton Utd (FT)
+Swansea 0 - 3 Merthyr Town (FT)
+Rotherham 2 - 0 Darlington 1883 (FT)
+Guiseley AFC 3 - 1 Pontefract Collieries (FT)
+Leiston 3 - 1 Gorleston (FT)
+Warrington Town 1 - 2 Marine (FT)
+Brighton U21 1 - 2 Worthing (FT)
+Chelmsford City None - None Dartford (CANC)
+Yeovil Town 1 - 1 Farnham Town (FT)
+Folkestone Invicta 1 - 2 Sutton Utd (FT)
+Herne Bay 2 - 2 Dover (FT)
+Newington Youth 1 - 1 Crusaders FC (FT)
+Eastleigh None - None Bognor Regis Town (CANC)
+Millwall 1 - 1 Bromley (FT)
+Shrewsbury 1 - 1 Hereford (FT)
+Charlton 2 - 0 Colchester (FT)
+AFC Hornchurch 2 - 4 Enfield Town (FT)
+Chester 3 - 0 Nantwich Town (FT)
+FC Halifax Town 3 - 2 Rochdale (FT)
+Everton 0 - 1 Stoke City (FT)
+Macclesfield 1 - 1 Tamworth (FT)
+Bamber Bridge 3 - 1 Ramsbottom United (FT)
+Mickleover Sports 0 - 1 Worksop Town (FT)
+Kingstonian 2 - 2 South Park (FT)
+Hastings United 4 - 0 Eastbourne United (FT)
+Chasetown 2 - 1 Boldmere St. Michaels (FT)
+Malvern Town 0 - 3 Bromsgrove Sporting (FT)
+Chesham United 1 - 2 Chertsey Town (FT)
+Shifnal Town FC 3 - 2 Coleshill Town (FT)
+Ebbsfleet United 3 - 2 Cray Valley PM (FT)
+Dorking Wanderers 0 - 1 Dulwich Hamlet (FT)
+Stourbridge 3 - 3 Halesowen Town (FT)
+Atherton Collieries 1 - 2 Hyde United (FT)
+Basford United 1 - 4 Ilkeston Town (FT)
+Brentwood Town 0 - 5 Maidstone Utd (FT)
+St Albans City 4 - 4 Real Bedford (FT)
+Oxford City 1 - 2 Slough Town (FT)
+Bishop's Stortford 2 - 3 St Ives Town (FT)
+Eastbourne Borough 2 - 4 Tonbridge Angels (FT)
+Chorley 1 - 2 Trafford (FT)
+Aveley 4 - 1 Canvey Island (FT)
+
+--- Kvindeliga ---
+Køge W 3 - 0 FC Copenhagen W (FT)
+Fortuna Hjørring W 6 - 2 KoldingQ W (FT)
+
+--- Liga Profesional Argentina ---
+Sarmiento Junin 2 - 3 Banfield (FT)
+Gimnasia M. 0 - 1 San Lorenzo (FT)
+Estudiantes de Rio Cuarto @ Argentinos JRS (NS)
+Racing Club @ Rosario Central (NS)
+
+--- Meistaradeildin ---
+AB 0 - 1 B36 Torshavn (FT)
+
+--- Northern Super League ---
+Calgary Wild W @ AFC Toronto W (NS)
+
+--- Oberliga - Bayern Süd ---
+1880 Wasserburg 1 - 5 Sportfreunde Schwaig (FT)
+
+--- Piala Presiden ---
+Arema FC 2 - 1 Tampines Rovers (FT)
+Persib Bandung 1 - 0 DPMM FC Brunei (FT)
+
+--- Primera Division ---
+Atletico Balboa 2 - 4 Cacahuatique (FT)
+
+--- Reserve League ---
+Belgrano Córdoba Res. 0 - 4 Boca Juniors Res. (FT)
+
+--- Second League ---
+Pirin Blagoevgrad 1 - 5 Dobrudzha (FT)
+Ludogorets II 1 - 0 Rilski Sportist (FT)
+CSKA Sofia II 1 - 1 Vihren (FT)
+
+--- Serie B ---
+Avai 0 - 0 Juventude (2H)
+Athletic Club 1 - 1 Ponte Preta (2H)
+Botafogo SP @ Fortaleza EC (NS)
+
+--- Super League ---
+Qizilqum 0 - 1 Nasaf (FT)
+Navbahor 1 - 1 Neftchi (FT)
+Surkhon 0 - 1 Xorazm (FT)
+
+--- Superettan ---
+United Nordic 1 - 1 Helsingborg (FT)
+IFK Norrkoping 1 - 0 Landskrona BoIS (FT)
+
+--- Torneo Promocional Amateur ---
+Defensores Glew 1 - 0 Juventud de Bernal (FT)
+
+--- Toto Cup Ligat Al ---
+Ironi Tiberias 1 - 3 Hapoel Haifa (FT)
+Maccabi Haifa 0 - 3 Ironi Kiryat Shmona (FT)
+
+--- UEFA Champions League ---
+Sabah FA 2 - 0 KuPS (FT)
+Mjallby AIF 0 - 0 Lincoln Red Imps FC (FT)
+FC Thun 2 - 3 Dinamo Zagreb (AET)
+Egnatia Rrogozhinë 2 - 2 Celje (PEN)
+Sturm Graz 2 - 0 Heart Of Midlothian (FT)
+Ararat-Armenia 1 - 2 Shamrock Rovers (FT)
+
+--- UEFA Europa Conference League ---
+Vardar Skopje 2 - 5 Riga (AET)
+Dila 0 - 3 Apollon Limassol (FT)
+Spartak Trnava 0 - 0 CSKA 1948 (PEN)
+Floriana 1 - 2 Drita (AET)
+
+===== BASEBALL =====
+
+--- CPBL ---
+Wei Chuan Dragons 6 - 1 Fubon Guardians (FT)
+TSG Hawks 1 - 3 Uni Lions (FT)
+
+--- IL ---
+Syracuse Mets 5 - 6 Rochester Red Wings (IN7)
+Indianapolis Indians 1 - 4 Louisville Bats (IN5)
+Worcester 1 - 1 Norfolk Tides (IN7)
+Buffalo Bisons None - None Lehigh Valley IronPigs (POST)
+Gwinnett Stripers None - None Durham Bulls (FT)
+Toledo Mud Hens 1 - 4 Columbus Clippers (IN4)
+Memphis Redbirds 0 - 2 Jacksonville Jumbo Shrimp (IN3)
+Charlotte Knights 2 - 0 Nashville Sounds (IN2)
+Scranton/WB 0 - 2 Iowa Cubs (IN2)
+St. Paul @ Omaha Storm Chasers (NS)
+
+--- KBO ---
+Lotte Giants 9 - 3 Hanwha Eagles (FT)
+Kiwoom Heroes 3 - 5 LG Twins (FT)
+KT Wiz Suwon 10 - 0 NC Dinos (FT)
+KIA Tigers 5 - 12 Samsung Lions (FT)
+Doosan Bears 2 - 1 SSG Landers (FT)
+
+--- LMB ---
+Campeche 1 - 3 Quintana Roo (IN4)
+Tabasco @ Veracruz (NS)
+Jalisco @ Dos Laredos (NS)
+Queretaro @ Puebla (NS)
+Bravos de Leon @ Oaxaca (NS)
+Yucatan @ Diablos Rojos (NS)
+Monterrey @ Caliente de Durango (NS)
+Aguascalientes @ Saltillo (NS)
+Chihuahua @ Monclova (NS)
+Quintana Roo @ Campeche (NS)
+Laguna @ Toros de Tijuana (NS)
+
+--- MLB ---
+Cleveland Guardians 6 - 5 Cincinnati Reds (FT)
+Texas Rangers 2 - 0 Tampa Bay Rays (IN6)
+Arizona Diamondbacks 5 - 0 Pittsburgh Pirates (IN5)
+Baltimore Orioles 0 - 8 Detroit Tigers (IN5)
+Philadelphia Phillies 0 - 1 Miami Marlins (IN6)
+Toronto Blue Jays 0 - 0 Washington Nationals (IN1)
+Cleveland Guardians 0 - 1 Cincinnati Reds (IN4)
+Kansas City Royals 0 - 0 Minnesota Twins (IN2)
+New York Yankees 1 - 0 Chicago White Sox (IN2)
+Chicago Cubs 2 - 0 St.Louis Cardinals (IN1)
+Houston Astros @ Los Angeles Angels (NS)
+Colorado Rockies @ San Diego Padres (NS)
+Boston Red Sox @ Athletics (NS)
+Milwaukee Brewers @ San Francisco Giants (NS)
+Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- NPB ---
+Pacific league 7 - 5 Central league (FT)
+
+--- PCL ---
+Sacramento River Cats 4 - 8 Tacoma Rainiers (FT)
+Reno Aces 0 - 1 Round Rock Express (IN2)
+Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+Salt Lake Bees @ Sugar Land (NS)
+Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-28 06:19:33 PM
+Fetching games for: 2026-07-28
+==================================================
+
+
+===== SOCCER =====
+
+--- 1 Lyga (Lithuania) ---
+Transinvest 2 1 - 3 Dainava (FT)
+Minija 0 - 1 Žalgiris II (FT)
+
+--- 1. Deild (Iceland) ---
+Njardvik 1 - 0 Ægir (FT)
+
+--- Africa Cup of Nations - Women (World) ---
+Egypt W @ Zambia W (NS)
+Malawi W @ Nigeria W (NS)
+
+--- ASEAN Championship (World) ---
+Myanmar 4 - 1 Philippines (FT)
+Laos 0 - 4 Malaysia (FT)
+
+--- Calcutta Premier Division (India) ---
+East Bengal 5 - 1 Patha Chakra (FT)
+Mohun Bagan 1 - 0 United Kolkata (FT)
+
+--- Canadian Premier League (Canada) ---
+Supra du Quebec @ Cavalry FC (NS)
+
+--- Capixaba B (Brazil) ---
+Linhares 4 - 0 GEL (FT)
+
+--- Catarinense U20 (Brazil) ---
+Brusque U20 @ Carlos Renaux U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Singida Black Stars 4 - 1 Mogadishu City (FT)
+Simba 0 - 0 Jamus (FT)
+
+--- CONCACAF Caribbean Club Shield (World) ---
+Metropolitan 2 - 1 Helenites (FT)
+Weymouth Wales 0 - 1 Mount Pleasant Academy (FT)
+Robin Hood 4 - 0 Slingerz (FT)
+Delfines Del Este 1 - 1 Inter Willemstad (PEN)
+
+--- CONCACAF Central American Cup (World) ---
+CD Motagua 1 - 0 Verdes (1H)
+Plaza Amador @ Diriangén (NS)
+Mixco @ CD Olimpia (NS)
+
+--- CONCACAF U20 (World) ---
+Cuba U20 2 - 3 Haiti U20 (FT)
+United States U20 @ El Salvador U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Club Nacional 2 - 1 Tigre (FT)
+UCV @ Santos (NS)
+
+--- Copa Colombia (Colombia) ---
+Santa Fe None - None Union Magdalena (PST)
+Deportes Tolima 1 - 0 Quindio (HT)
+Deportivo Pasto 1 - 0 Bogota FC (1H)
+Atletico Nacional @ Tigres FC (NS)
+
+--- COTIF Tournament (World) ---
+Levante U20 0 - 0 Mauritania U20 (PEN)
+Valencia U20 0 - 2 Morocco U20 (FT)
+
+--- Cup (Estonia) ---
+Tallinna FC Zapoos 1 - 4 FC Tallinn (FT)
+
+--- Cup (Russia) ---
+Broke Boys 2 - 1 Bomik (FT)
+Izberbash 5 - 1 Anzhi (FT)
+Salyut-Belgorod 0 - 3 Kristall MEZ (FT)
+Orel 0 - 2 2Drots (FT)
+
+--- Division Intermedia (Paraguay) ---
+Resistencia 1 - 0 Atlético Tembetary (FT)
+Deportivo Capiata 1 - 1 Independiente F.b.c. (2H)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Ameliano 1 - 1 Rubio NU (FT)
+Cerro Porteno 1 - 2 2 de Mayo (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Bonnyrigg Rose Athletic @ Bo'ness United (NS)
+Gala Fairydean Rovers @ Broxburn Athletic (NS)
+Clydebank @ Celtic II (NS)
+Hill Of Beath Hawthorn @ Civil Service Strollers (NS)
+Kilwinning Rangers @ Cumbernauld Colts (NS)
+Cowdenbeath @ Tranent Juniors (NS)
+
+--- Friendlies Clubs (World) ---
+Verspah Oita 0 - 4 Sanfrecce Hiroshima (FT)
+Western Sydney Wanderers 4 - 6 Chelsea (FT)
+Al-Ahli Jeddah 0 - 2 Portimonense (FT)
+Preston North End U21 2 - 5 Blackburn Rovers U21 (FT)
+Valencia 2 - 1 Derby (FT)
+Muaither SC 0 - 3 MC Oran (FT)
+Modena 0 - 1 Cagliari (FT)
+Scafatese 4 - 1 Pineto (FT)
+Belasica 2 - 0 Kozuv Gevgelija (FT)
+Shabab Al Ahli Dubai 2 - 1 Udinese (FT)
+Sokol Ľubotice 1 - 2 Poprad (FT)
+Annecy 1 - 1 Nancy (FT)
+RED Star FC 93 4 - 1 UNFP (FT)
+Hull City 2 - 1 Rizespor (FT)
+Al Wakrah 0 - 1 Rouen (FT)
+Fomat Martin 1 - 2 Baník Prievidza (FT)
+União de Leiria 2 - 3 Las Palmas (FT)
+Inter Zapresic 0 - 2 Mladost Ždralovi (FT)
+Gaziantep FK 2 - 1 OFK Beograd (FT)
+Leganes 1 - 4 Real Madrid (FT)
+Jiskra Domažlice 5 - 1 Petřín Plzeň (FT)
+MVV 0 - 1 KAA Gent II (FT)
+OFI 2 - 3 NAC Breda (FT)
+Volos NFC 2 - 1 Cambuur (FT)
+Asteras Tripolis 1 - 1 Sparta Rotterdam (FT)
+Al-Nassr 2 - 0 Mérida AD (FT)
+Fulham 1 - 1 Al-Ahli Jeddah (FT)
+Burton Albion 1 - 1 Solihull Moors (FT)
+AFC Fylde 1 - 1 Morecambe (FT)
+Bolton 1 - 1 Fleetwood Town (FT)
+Lincoln 1 - 5 Grimsby (FT)
+FC Eindhoven 0 - 3 PSV Eindhoven (FT)
+AFC Wimbledon 0 - 1 Wealdstone (FT)
+Alvechurch 0 - 0 Kidderminster Harriers (FT)
+Scunthorpe 6 - 3 North Ferriby (FT)
+Stockport County 1 - 0 Oldham (FT)
+Crawley Town 1 - 3 Oxford United (FT)
+Leyton Orient 1 - 2 Swindon Town (FT)
+Jong AZ 4 - 1 Quick Boys (FT)
+Al Ain 2 - 2 Elche (FT)
+Eemdijk 2 - 1 GVVV Veenendaal (FT)
+Ballyclare Comrades 1 - 4 Queen's University (FT)
+Dos Hermanas 1 - 3 Recreativo Huelva (FT)
+Bury 0 - 1 Accrington ST (FT)
+Northampton 0 - 0 Cambridge United (FT)
+Mansfield Town 4 - 0 Alfreton Town (FT)
+South Shields 4 - 1 Gateshead (FT)
+Ayr Utd None - None Darvel (CANC)
+Real Sociedad 4 - 2 Aston Villa (FT)
+Milton Keynes Dons 0 - 0 Barnet (FT)
+Salford City 2 - 0 Carlisle (FT)
+Ards 0 - 1 Carrick Rangers (FT)
+Boreham Wood 2 - 1 Dagenham & Redbridge (FT)
+Linfield 7 - 1 Dollingstown (FT)
+Limavady United None - None Moyola Park (CANC)
+Reading 4 - 0 Newport County (FT)
+Bangor 0 - 1 Newry City AFC (FT)
+Peterborough 2 - 1 York (FT)
+Braintree 1 - 2 Felixstowe & Walton Utd (FT)
+Swansea 0 - 3 Merthyr Town (FT)
+Rotherham 2 - 0 Darlington 1883 (FT)
+Guiseley AFC 3 - 1 Pontefract Collieries (FT)
+Leiston 3 - 1 Gorleston (FT)
+Warrington Town 1 - 2 Marine (FT)
+Brighton U21 1 - 2 Worthing (FT)
+Chelmsford City None - None Dartford (CANC)
+Yeovil Town 1 - 1 Farnham Town (FT)
+Folkestone Invicta 1 - 2 Sutton Utd (FT)
+Herne Bay 2 - 2 Dover (FT)
+Newington Youth 1 - 1 Crusaders FC (FT)
+Eastleigh None - None Bognor Regis Town (CANC)
+Millwall 1 - 1 Bromley (FT)
+Shrewsbury 1 - 1 Hereford (FT)
+Charlton 2 - 0 Colchester (FT)
+AFC Hornchurch 2 - 4 Enfield Town (FT)
+Chester 3 - 0 Nantwich Town (FT)
+FC Halifax Town 3 - 2 Rochdale (FT)
+Everton 0 - 1 Stoke City (FT)
+Macclesfield 1 - 1 Tamworth (FT)
+Bamber Bridge 3 - 1 Ramsbottom United (FT)
+Mickleover Sports 0 - 1 Worksop Town (FT)
+Kingstonian 2 - 2 South Park (FT)
+Hastings United 4 - 0 Eastbourne United (FT)
+Chasetown 2 - 1 Boldmere St. Michaels (FT)
+Malvern Town 0 - 3 Bromsgrove Sporting (FT)
+Chesham United 1 - 2 Chertsey Town (FT)
+Shifnal Town FC 3 - 2 Coleshill Town (FT)
+Ebbsfleet United 3 - 2 Cray Valley PM (FT)
+Dorking Wanderers 0 - 1 Dulwich Hamlet (FT)
+Stourbridge 3 - 3 Halesowen Town (FT)
+Atherton Collieries 1 - 2 Hyde United (FT)
+Basford United 1 - 4 Ilkeston Town (FT)
+Brentwood Town 0 - 5 Maidstone Utd (FT)
+St Albans City 4 - 4 Real Bedford (FT)
+Oxford City 1 - 2 Slough Town (FT)
+Bishop's Stortford 2 - 3 St Ives Town (FT)
+Eastbourne Borough 2 - 4 Tonbridge Angels (FT)
+Chorley 1 - 2 Trafford (FT)
+Aveley 4 - 1 Canvey Island (FT)
+
+--- Kvindeliga (Denmark) ---
+Køge W 3 - 0 FC Copenhagen W (FT)
+Fortuna Hjørring W 6 - 2 KoldingQ W (FT)
+
+--- Liga Profesional Argentina (Argentina) ---
+Sarmiento Junin 2 - 3 Banfield (FT)
+Gimnasia M. 0 - 1 San Lorenzo (FT)
+Estudiantes de Rio Cuarto 0 - 0 Argentinos JRS (1H)
+Racing Club 0 - 0 Rosario Central (1H)
+
+--- Meistaradeildin (Faroe-Islands) ---
+AB 0 - 1 B36 Torshavn (FT)
+
+--- Northern Super League (Canada) ---
+Calgary Wild W @ AFC Toronto W (NS)
+
+--- Oberliga - Bayern Süd (Germany) ---
+1880 Wasserburg 1 - 5 Sportfreunde Schwaig (FT)
+
+--- Piala Presiden (Indonesia) ---
+Arema FC 2 - 1 Tampines Rovers (FT)
+Persib Bandung 1 - 0 DPMM FC Brunei (FT)
+
+--- Premier League (Bhutan) ---
+Thimphu 0 - 2 Paro (FT)
+
+--- Premier League (Lebanon) ---
+Al Ahed 1 - 2 Al Nejmeh (FT)
+Al Ansar 2 - 1 Jwaaya FC (FT)
+
+--- Primera Division (El-Salvador) ---
+Atletico Balboa 2 - 4 Cacahuatique (FT)
+
+--- Reserve League (Argentina) ---
+Belgrano Córdoba Res. 0 - 4 Boca Juniors Res. (FT)
+
+--- Second League (Bulgaria) ---
+Pirin Blagoevgrad 1 - 5 Dobrudzha (FT)
+Ludogorets II 1 - 0 Rilski Sportist (FT)
+CSKA Sofia II 1 - 1 Vihren (FT)
+
+--- Serie B (Brazil) ---
+Avai 0 - 0 Juventude (2H)
+Athletic Club 1 - 1 Ponte Preta (2H)
+Botafogo SP @ Fortaleza EC (NS)
+
+--- Super League (Uzbekistan) ---
+Qizilqum 0 - 1 Nasaf (FT)
+Navbahor 1 - 1 Neftchi (FT)
+Surkhon 0 - 1 Xorazm (FT)
+
+--- Superettan (Sweden) ---
+United Nordic 1 - 1 Helsingborg (FT)
+IFK Norrkoping 1 - 0 Landskrona BoIS (FT)
+
+--- Torneo Promocional Amateur (Argentina) ---
+Defensores Glew 1 - 0 Juventud de Bernal (FT)
+
+--- Toto Cup Ligat Al (Israel) ---
+Ironi Tiberias 1 - 3 Hapoel Haifa (FT)
+Maccabi Haifa 0 - 3 Ironi Kiryat Shmona (FT)
+
+--- UEFA Champions League (World) ---
+Sabah FA 2 - 0 KuPS (FT)
+Mjallby AIF 0 - 0 Lincoln Red Imps FC (FT)
+FC Thun 2 - 3 Dinamo Zagreb (AET)
+Egnatia Rrogozhinë 2 - 2 Celje (PEN)
+Sturm Graz 2 - 0 Heart Of Midlothian (FT)
+Ararat-Armenia 1 - 2 Shamrock Rovers (FT)
+
+--- UEFA Europa Conference League (World) ---
+Vardar Skopje 2 - 5 Riga (AET)
+Dila 0 - 3 Apollon Limassol (FT)
+Spartak Trnava 0 - 0 CSKA 1948 (PEN)
+Floriana 1 - 2 Drita (AET)
+
+===== BASEBALL =====
+
+--- CPBL ---
+Wei Chuan Dragons 6 - 1 Fubon Guardians (FT)
+TSG Hawks 1 - 3 Uni Lions (FT)
+
+--- IL ---
+Syracuse Mets 5 - 6 Rochester Red Wings (IN7)
+Indianapolis Indians 1 - 4 Louisville Bats (IN6)
+Worcester 1 - 1 Norfolk Tides (IN7)
+Buffalo Bisons None - None Lehigh Valley IronPigs (POST)
+Gwinnett Stripers None - None Durham Bulls (FT)
+Toledo Mud Hens 1 - 4 Columbus Clippers (IN5)
+Memphis Redbirds 0 - 2 Jacksonville Jumbo Shrimp (IN4)
+Charlotte Knights 2 - 0 Nashville Sounds (IN2)
+Scranton/WB 0 - 2 Iowa Cubs (IN2)
+St. Paul 0 - 0 Omaha Storm Chasers (IN1)
+
+--- KBO ---
+Lotte Giants 9 - 3 Hanwha Eagles (FT)
+Kiwoom Heroes 3 - 5 LG Twins (FT)
+KT Wiz Suwon 10 - 0 NC Dinos (FT)
+KIA Tigers 5 - 12 Samsung Lions (FT)
+Doosan Bears 2 - 1 SSG Landers (FT)
+
+--- LMB ---
+Campeche 2 - 3 Quintana Roo (IN4)
+Tabasco @ Veracruz (NS)
+Jalisco @ Dos Laredos (NS)
+Queretaro @ Puebla (NS)
+Bravos de Leon @ Oaxaca (NS)
+Yucatan @ Diablos Rojos (NS)
+Monterrey @ Caliente de Durango (NS)
+Aguascalientes @ Saltillo (NS)
+Chihuahua @ Monclova (NS)
+Quintana Roo @ Campeche (NS)
+Laguna @ Toros de Tijuana (NS)
+
+--- MLB ---
+Cleveland Guardians 6 - 5 Cincinnati Reds (FT)
+Texas Rangers 2 - 0 Tampa Bay Rays (IN6)
+Arizona Diamondbacks 5 - 0 Pittsburgh Pirates (IN5)
+Baltimore Orioles 0 - 9 Detroit Tigers (IN6)
+Philadelphia Phillies 0 - 1 Miami Marlins (IN6)
+Toronto Blue Jays 0 - 3 Washington Nationals (IN1)
+Cleveland Guardians 0 - 1 Cincinnati Reds (IN5)
+Kansas City Royals 0 - 0 Minnesota Twins (IN3)
+New York Yankees 3 - 0 Chicago White Sox (IN2)
+Chicago Cubs 2 - 0 St.Louis Cardinals (IN2)
+Houston Astros @ Los Angeles Angels (NS)
+Colorado Rockies @ San Diego Padres (NS)
+Boston Red Sox @ Athletics (NS)
+Milwaukee Brewers @ San Francisco Giants (NS)
+Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- NPB ---
+Pacific league 7 - 5 Central league (FT)
+
+--- PCL ---
+Sacramento River Cats 4 - 8 Tacoma Rainiers (FT)
+Reno Aces 0 - 1 Round Rock Express (IN3)
+Las Vegas Aviators @ Oklahoma City Dodgers (NS)
+Salt Lake Bees 0 - 0 Sugar Land (IN1)
+Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-28 06:24:42 PM
+Fetching games for: 2026-07-28
+==================================================
+
+
+===== SOCCER =====
+
+--- 1 Lyga (Lithuania) ---
+Transinvest 2 1 - 3 Dainava (FT)
+Minija 0 - 1 Žalgiris II (FT)
+
+--- 1. Deild (Iceland) ---
+Njardvik 1 - 0 Ægir (FT)
+
+--- Africa Cup of Nations - Women (World) ---
+Egypt W @ Zambia W (NS)
+Malawi W @ Nigeria W (NS)
+
+--- ASEAN Championship (World) ---
+Myanmar 4 - 1 Philippines (FT)
+Laos 0 - 4 Malaysia (FT)
+
+--- Calcutta Premier Division (India) ---
+East Bengal 5 - 1 Patha Chakra (FT)
+Mohun Bagan 1 - 0 United Kolkata (FT)
+
+--- Canadian Premier League (Canada) ---
+Supra du Quebec @ Cavalry FC (NS)
+
+--- Capixaba B (Brazil) ---
+Linhares 4 - 0 GEL (FT)
+
+--- Catarinense U20 (Brazil) ---
+Brusque U20 @ Carlos Renaux U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Singida Black Stars 4 - 1 Mogadishu City (FT)
+Simba 0 - 0 Jamus (FT)
+
+--- CONCACAF Caribbean Club Shield (World) ---
+Metropolitan 2 - 1 Helenites (FT)
+Weymouth Wales 0 - 1 Mount Pleasant Academy (FT)
+Robin Hood 4 - 0 Slingerz (FT)
+Delfines Del Este 1 - 1 Inter Willemstad (PEN)
+
+--- CONCACAF Central American Cup (World) ---
+CD Motagua 1 - 0 Verdes (1H)
+Plaza Amador @ Diriangén (NS)
+Mixco @ CD Olimpia (NS)
+
+--- CONCACAF U20 (World) ---
+Cuba U20 2 - 3 Haiti U20 (FT)
+United States U20 @ El Salvador U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Club Nacional 2 - 1 Tigre (FT)
+UCV @ Santos (NS)
+
+--- Copa Colombia (Colombia) ---
+Santa Fe None - None Union Magdalena (PST)
+Deportes Tolima 1 - 0 Quindio (HT)
+Deportivo Pasto 2 - 0 Bogota FC (1H)
+Atletico Nacional @ Tigres FC (NS)
+
+--- COTIF Tournament (World) ---
+Levante U20 0 - 0 Mauritania U20 (PEN)
+Valencia U20 0 - 2 Morocco U20 (FT)
+
+--- Cup (Estonia) ---
+Tallinna FC Zapoos 1 - 4 FC Tallinn (FT)
+
+--- Cup (Russia) ---
+Broke Boys 2 - 1 Bomik (FT)
+Izberbash 5 - 1 Anzhi (FT)
+Salyut-Belgorod 0 - 3 Kristall MEZ (FT)
+Orel 0 - 2 2Drots (FT)
+
+--- Division Intermedia (Paraguay) ---
+Resistencia 1 - 0 Atlético Tembetary (FT)
+Deportivo Capiata 1 - 1 Independiente F.b.c. (FT)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Ameliano 1 - 1 Rubio NU (FT)
+Cerro Porteno 1 - 2 2 de Mayo (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Bonnyrigg Rose Athletic 4 - 0 Bo'ness United (FT)
+Gala Fairydean Rovers 0 - 1 Broxburn Athletic (FT)
+Clydebank 1 - 6 Celtic II (FT)
+Hill Of Beath Hawthorn 0 - 4 Civil Service Strollers (FT)
+Kilwinning Rangers 4 - 2 Cumbernauld Colts (FT)
+Cowdenbeath 0 - 1 Tranent Juniors (FT)
+
+--- Friendlies Clubs (World) ---
+Verspah Oita 0 - 4 Sanfrecce Hiroshima (FT)
+Western Sydney Wanderers 4 - 6 Chelsea (FT)
+Al-Ahli Jeddah 0 - 2 Portimonense (FT)
+Preston North End U21 2 - 5 Blackburn Rovers U21 (FT)
+Valencia 2 - 1 Derby (FT)
+Muaither SC 0 - 3 MC Oran (FT)
+Modena 0 - 1 Cagliari (FT)
+Scafatese 4 - 1 Pineto (FT)
+Belasica 2 - 0 Kozuv Gevgelija (FT)
+Shabab Al Ahli Dubai 2 - 1 Udinese (FT)
+Sokol Ľubotice 1 - 2 Poprad (FT)
+Annecy 1 - 1 Nancy (FT)
+RED Star FC 93 4 - 1 UNFP (FT)
+Hull City 2 - 1 Rizespor (FT)
+Al Wakrah 0 - 1 Rouen (FT)
+Fomat Martin 1 - 2 Baník Prievidza (FT)
+União de Leiria 2 - 3 Las Palmas (FT)
+Inter Zapresic 0 - 2 Mladost Ždralovi (FT)
+Gaziantep FK 2 - 1 OFK Beograd (FT)
+Leganes 1 - 4 Real Madrid (FT)
+Jiskra Domažlice 5 - 1 Petřín Plzeň (FT)
+MVV 0 - 1 KAA Gent II (FT)
+OFI 2 - 3 NAC Breda (FT)
+Volos NFC 2 - 1 Cambuur (FT)
+Asteras Tripolis 1 - 1 Sparta Rotterdam (FT)
+Al-Nassr 2 - 0 Mérida AD (FT)
+Fulham 1 - 1 Al-Ahli Jeddah (FT)
+Burton Albion 1 - 1 Solihull Moors (FT)
+AFC Fylde 1 - 1 Morecambe (FT)
+Bolton 1 - 1 Fleetwood Town (FT)
+Lincoln 1 - 5 Grimsby (FT)
+FC Eindhoven 0 - 3 PSV Eindhoven (FT)
+AFC Wimbledon 0 - 1 Wealdstone (FT)
+Alvechurch 0 - 0 Kidderminster Harriers (FT)
+Scunthorpe 6 - 3 North Ferriby (FT)
+Stockport County 1 - 0 Oldham (FT)
+Crawley Town 1 - 3 Oxford United (FT)
+Leyton Orient 1 - 2 Swindon Town (FT)
+Jong AZ 4 - 1 Quick Boys (FT)
+Al Ain 2 - 2 Elche (FT)
+Eemdijk 2 - 1 GVVV Veenendaal (FT)
+Ballyclare Comrades 1 - 4 Queen's University (FT)
+Dos Hermanas 1 - 3 Recreativo Huelva (FT)
+Bury 0 - 1 Accrington ST (FT)
+Northampton 0 - 0 Cambridge United (FT)
+Mansfield Town 4 - 0 Alfreton Town (FT)
+South Shields 4 - 1 Gateshead (FT)
+Ayr Utd None - None Darvel (CANC)
+Real Sociedad 4 - 2 Aston Villa (FT)
+Milton Keynes Dons 0 - 0 Barnet (FT)
+Salford City 2 - 0 Carlisle (FT)
+Ards 0 - 1 Carrick Rangers (FT)
+Boreham Wood 2 - 1 Dagenham & Redbridge (FT)
+Linfield 7 - 1 Dollingstown (FT)
+Limavady United None - None Moyola Park (CANC)
+Reading 4 - 0 Newport County (FT)
+Bangor 0 - 1 Newry City AFC (FT)
+Peterborough 2 - 1 York (FT)
+Braintree 1 - 2 Felixstowe & Walton Utd (FT)
+Swansea 0 - 3 Merthyr Town (FT)
+Rotherham 2 - 0 Darlington 1883 (FT)
+Guiseley AFC 3 - 1 Pontefract Collieries (FT)
+Leiston 3 - 1 Gorleston (FT)
+Warrington Town 1 - 2 Marine (FT)
+Brighton U21 1 - 2 Worthing (FT)
+Chelmsford City None - None Dartford (CANC)
+Yeovil Town 1 - 1 Farnham Town (FT)
+Folkestone Invicta 1 - 2 Sutton Utd (FT)
+Herne Bay 2 - 2 Dover (FT)
+Newington Youth 1 - 1 Crusaders FC (FT)
+Eastleigh None - None Bognor Regis Town (CANC)
+Millwall 1 - 1 Bromley (FT)
+Shrewsbury 1 - 1 Hereford (FT)
+Charlton 2 - 0 Colchester (FT)
+AFC Hornchurch 2 - 4 Enfield Town (FT)
+Chester 3 - 0 Nantwich Town (FT)
+FC Halifax Town 3 - 2 Rochdale (FT)
+Everton 0 - 1 Stoke City (FT)
+Macclesfield 1 - 1 Tamworth (FT)
+Bamber Bridge 3 - 1 Ramsbottom United (FT)
+Mickleover Sports 0 - 1 Worksop Town (FT)
+Kingstonian 2 - 2 South Park (FT)
+Hastings United 4 - 0 Eastbourne United (FT)
+Chasetown 2 - 1 Boldmere St. Michaels (FT)
+Malvern Town 0 - 3 Bromsgrove Sporting (FT)
+Chesham United 1 - 2 Chertsey Town (FT)
+Shifnal Town FC 3 - 2 Coleshill Town (FT)
+Ebbsfleet United 3 - 2 Cray Valley PM (FT)
+Dorking Wanderers 0 - 1 Dulwich Hamlet (FT)
+Stourbridge 3 - 3 Halesowen Town (FT)
+Atherton Collieries 1 - 2 Hyde United (FT)
+Basford United 1 - 4 Ilkeston Town (FT)
+Brentwood Town 0 - 5 Maidstone Utd (FT)
+St Albans City 4 - 4 Real Bedford (FT)
+Oxford City 1 - 2 Slough Town (FT)
+Bishop's Stortford 2 - 3 St Ives Town (FT)
+Eastbourne Borough 2 - 4 Tonbridge Angels (FT)
+Chorley 1 - 2 Trafford (FT)
+Aveley 4 - 1 Canvey Island (FT)
+
+--- Kvindeliga (Denmark) ---
+Køge W 3 - 0 FC Copenhagen W (FT)
+Fortuna Hjørring W 6 - 2 KoldingQ W (FT)
+
+--- Liga Profesional Argentina (Argentina) ---
+Sarmiento Junin 2 - 3 Banfield (FT)
+Gimnasia M. 0 - 1 San Lorenzo (FT)
+Estudiantes de Rio Cuarto 0 - 0 Argentinos JRS (1H)
+Racing Club 0 - 0 Rosario Central (1H)
+
+--- Meistaradeildin (Faroe-Islands) ---
+AB 0 - 1 B36 Torshavn (FT)
+
+--- Northern Super League (Canada) ---
+Calgary Wild W @ AFC Toronto W (NS)
+
+--- Oberliga - Bayern Süd (Germany) ---
+1880 Wasserburg 1 - 5 Sportfreunde Schwaig (FT)
+
+--- Piala Presiden (Indonesia) ---
+Arema FC 2 - 1 Tampines Rovers (FT)
+Persib Bandung 1 - 0 DPMM FC Brunei (FT)
+
+--- Premier League (Bhutan) ---
+Thimphu 0 - 2 Paro (FT)
+
+--- Premier League (Lebanon) ---
+Al Ahed 1 - 2 Al Nejmeh (FT)
+Al Ansar 2 - 1 Jwaaya FC (FT)
+
+--- Primera C (Argentina) ---
+El Porvenir 2 - 3 Sportivo Barracas (FT)
+
+--- Primera Division (El-Salvador) ---
+Atletico Balboa 2 - 4 Cacahuatique (FT)
+
+--- Reserve League (Argentina) ---
+Belgrano Córdoba Res. 0 - 4 Boca Juniors Res. (FT)
+
+--- Second League (Bulgaria) ---
+Pirin Blagoevgrad 1 - 5 Dobrudzha (FT)
+Ludogorets II 1 - 0 Rilski Sportist (FT)
+CSKA Sofia II 1 - 1 Vihren (FT)
+
+--- Serie B (Brazil) ---
+Avai 0 - 0 Juventude (2H)
+Athletic Club 1 - 1 Ponte Preta (2H)
+Botafogo SP @ Fortaleza EC (NS)
+
+--- Super League (Uzbekistan) ---
+Qizilqum 0 - 1 Nasaf (FT)
+Navbahor 1 - 1 Neftchi (FT)
+Surkhon 0 - 1 Xorazm (FT)
+
+--- Superettan (Sweden) ---
+United Nordic 1 - 1 Helsingborg (FT)
+IFK Norrkoping 1 - 0 Landskrona BoIS (FT)
+
+--- Torneo Promocional Amateur (Argentina) ---
+Defensores Glew 1 - 0 Juventud de Bernal (FT)
+
+--- Toto Cup Ligat Al (Israel) ---
+Ironi Tiberias 1 - 3 Hapoel Haifa (FT)
+Maccabi Haifa 0 - 3 Ironi Kiryat Shmona (FT)
+
+--- UEFA Champions League (World) ---
+Sabah FA 2 - 0 KuPS (FT)
+Mjallby AIF 0 - 0 Lincoln Red Imps FC (FT)
+FC Thun 2 - 3 Dinamo Zagreb (AET)
+Egnatia Rrogozhinë 2 - 2 Celje (PEN)
+Sturm Graz 2 - 0 Heart Of Midlothian (FT)
+Ararat-Armenia 1 - 2 Shamrock Rovers (FT)
+
+--- UEFA Europa Conference League (World) ---
+Vardar Skopje 2 - 5 Riga (AET)
+Dila 0 - 3 Apollon Limassol (FT)
+Spartak Trnava 0 - 0 CSKA 1948 (PEN)
+Floriana 1 - 2 Drita (AET)
+
+===== BASEBALL =====
+
+Error retrieving sports data: 'tuple' object has no attribute 'strip'
+==================================================
+Sports API Run Time: 2026-07-28 06:27:42 PM
+Fetching games for: 2026-07-28
+==================================================
+
+
+===== SOCCER =====
+
+--- 1 Lyga (Lithuania) ---
+Transinvest 2 1 - 3 Dainava (FT)
+Minija 0 - 1 Žalgiris II (FT)
+
+--- 1. Deild (Iceland) ---
+Njardvik 1 - 0 Ægir (FT)
+
+--- Africa Cup of Nations - Women (World) ---
+Egypt W @ Zambia W (NS)
+Malawi W @ Nigeria W (NS)
+
+--- ASEAN Championship (World) ---
+Myanmar 4 - 1 Philippines (FT)
+Laos 0 - 4 Malaysia (FT)
+
+--- Calcutta Premier Division (India) ---
+East Bengal 5 - 1 Patha Chakra (FT)
+Mohun Bagan 1 - 0 United Kolkata (FT)
+
+--- Canadian Premier League (Canada) ---
+Supra du Quebec @ Cavalry FC (NS)
+
+--- Capixaba B (Brazil) ---
+Linhares 4 - 0 GEL (FT)
+
+--- Catarinense U20 (Brazil) ---
+Brusque U20 @ Carlos Renaux U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Singida Black Stars 4 - 1 Mogadishu City (FT)
+Simba 0 - 0 Jamus (FT)
+
+--- CONCACAF Caribbean Club Shield (World) ---
+Metropolitan 2 - 1 Helenites (FT)
+Weymouth Wales 0 - 1 Mount Pleasant Academy (FT)
+Robin Hood 4 - 0 Slingerz (FT)
+Delfines Del Este 1 - 1 Inter Willemstad (PEN)
+
+--- CONCACAF Central American Cup (World) ---
+CD Motagua 1 - 0 Verdes (1H)
+Plaza Amador @ Diriangén (NS)
+Mixco @ CD Olimpia (NS)
+
+--- CONCACAF U20 (World) ---
+Cuba U20 2 - 3 Haiti U20 (FT)
+United States U20 @ El Salvador U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Club Nacional 2 - 1 Tigre (FT)
+UCV @ Santos (NS)
+
+--- Copa Colombia (Colombia) ---
+Santa Fe None - None Union Magdalena (PST)
+Deportes Tolima 1 - 0 Quindio (2H)
+Deportivo Pasto 2 - 0 Bogota FC (1H)
+Atletico Nacional @ Tigres FC (NS)
+
+--- COTIF Tournament (World) ---
+Levante U20 0 - 0 Mauritania U20 (PEN)
+Valencia U20 0 - 2 Morocco U20 (FT)
+
+--- Cup (Estonia) ---
+Tallinna FC Zapoos 1 - 4 FC Tallinn (FT)
+
+--- Cup (Russia) ---
+Broke Boys 2 - 1 Bomik (FT)
+Izberbash 5 - 1 Anzhi (FT)
+Salyut-Belgorod 0 - 3 Kristall MEZ (FT)
+Orel 0 - 2 2Drots (FT)
+
+--- Division Intermedia (Paraguay) ---
+Resistencia 1 - 0 Atlético Tembetary (FT)
+Deportivo Capiata 1 - 1 Independiente F.b.c. (FT)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Ameliano 1 - 1 Rubio NU (FT)
+Cerro Porteno 1 - 2 2 de Mayo (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Bonnyrigg Rose Athletic 4 - 0 Bo'ness United (FT)
+Gala Fairydean Rovers 0 - 1 Broxburn Athletic (FT)
+Clydebank 1 - 6 Celtic II (FT)
+Hill Of Beath Hawthorn 0 - 4 Civil Service Strollers (FT)
+Kilwinning Rangers 4 - 2 Cumbernauld Colts (FT)
+Cowdenbeath 0 - 1 Tranent Juniors (FT)
+
+--- Friendlies Clubs (World) ---
+Verspah Oita 0 - 4 Sanfrecce Hiroshima (FT)
+Western Sydney Wanderers 4 - 6 Chelsea (FT)
+Al-Ahli Jeddah 0 - 2 Portimonense (FT)
+Preston North End U21 2 - 5 Blackburn Rovers U21 (FT)
+Valencia 2 - 1 Derby (FT)
+Muaither SC 0 - 3 MC Oran (FT)
+Modena 0 - 1 Cagliari (FT)
+Scafatese 4 - 1 Pineto (FT)
+Belasica 2 - 0 Kozuv Gevgelija (FT)
+Shabab Al Ahli Dubai 2 - 1 Udinese (FT)
+Sokol Ľubotice 1 - 2 Poprad (FT)
+Annecy 1 - 1 Nancy (FT)
+RED Star FC 93 4 - 1 UNFP (FT)
+Hull City 2 - 1 Rizespor (FT)
+Al Wakrah 0 - 1 Rouen (FT)
+Fomat Martin 1 - 2 Baník Prievidza (FT)
+União de Leiria 2 - 3 Las Palmas (FT)
+Inter Zapresic 0 - 2 Mladost Ždralovi (FT)
+Gaziantep FK 2 - 1 OFK Beograd (FT)
+Leganes 1 - 4 Real Madrid (FT)
+Jiskra Domažlice 5 - 1 Petřín Plzeň (FT)
+MVV 0 - 1 KAA Gent II (FT)
+OFI 2 - 3 NAC Breda (FT)
+Volos NFC 2 - 1 Cambuur (FT)
+Asteras Tripolis 1 - 1 Sparta Rotterdam (FT)
+Al-Nassr 2 - 0 Mérida AD (FT)
+Fulham 1 - 1 Al-Ahli Jeddah (FT)
+Burton Albion 1 - 1 Solihull Moors (FT)
+AFC Fylde 1 - 1 Morecambe (FT)
+Bolton 1 - 1 Fleetwood Town (FT)
+Lincoln 1 - 5 Grimsby (FT)
+FC Eindhoven 0 - 3 PSV Eindhoven (FT)
+AFC Wimbledon 0 - 1 Wealdstone (FT)
+Alvechurch 0 - 0 Kidderminster Harriers (FT)
+Scunthorpe 6 - 3 North Ferriby (FT)
+Stockport County 1 - 0 Oldham (FT)
+Crawley Town 1 - 3 Oxford United (FT)
+Leyton Orient 1 - 2 Swindon Town (FT)
+Jong AZ 4 - 1 Quick Boys (FT)
+Al Ain 2 - 2 Elche (FT)
+Eemdijk 2 - 1 GVVV Veenendaal (FT)
+Ballyclare Comrades 1 - 4 Queen's University (FT)
+Dos Hermanas 1 - 3 Recreativo Huelva (FT)
+Bury 0 - 1 Accrington ST (FT)
+Northampton 0 - 0 Cambridge United (FT)
+Mansfield Town 4 - 0 Alfreton Town (FT)
+South Shields 4 - 1 Gateshead (FT)
+Ayr Utd None - None Darvel (CANC)
+Real Sociedad 4 - 2 Aston Villa (FT)
+Milton Keynes Dons 0 - 0 Barnet (FT)
+Salford City 2 - 0 Carlisle (FT)
+Ards 0 - 1 Carrick Rangers (FT)
+Boreham Wood 2 - 1 Dagenham & Redbridge (FT)
+Linfield 7 - 1 Dollingstown (FT)
+Limavady United None - None Moyola Park (CANC)
+Reading 4 - 0 Newport County (FT)
+Bangor 0 - 1 Newry City AFC (FT)
+Peterborough 2 - 1 York (FT)
+Braintree 1 - 2 Felixstowe & Walton Utd (FT)
+Swansea 0 - 3 Merthyr Town (FT)
+Rotherham 2 - 0 Darlington 1883 (FT)
+Guiseley AFC 3 - 1 Pontefract Collieries (FT)
+Leiston 3 - 1 Gorleston (FT)
+Warrington Town 1 - 2 Marine (FT)
+Brighton U21 1 - 2 Worthing (FT)
+Chelmsford City None - None Dartford (CANC)
+Yeovil Town 1 - 1 Farnham Town (FT)
+Folkestone Invicta 1 - 2 Sutton Utd (FT)
+Herne Bay 2 - 2 Dover (FT)
+Newington Youth 1 - 1 Crusaders FC (FT)
+Eastleigh None - None Bognor Regis Town (CANC)
+Millwall 1 - 1 Bromley (FT)
+Shrewsbury 1 - 1 Hereford (FT)
+Charlton 2 - 0 Colchester (FT)
+AFC Hornchurch 2 - 4 Enfield Town (FT)
+Chester 3 - 0 Nantwich Town (FT)
+FC Halifax Town 3 - 2 Rochdale (FT)
+Everton 0 - 1 Stoke City (FT)
+Macclesfield 1 - 1 Tamworth (FT)
+Bamber Bridge 3 - 1 Ramsbottom United (FT)
+Mickleover Sports 0 - 1 Worksop Town (FT)
+Kingstonian 2 - 2 South Park (FT)
+Hastings United 4 - 0 Eastbourne United (FT)
+Chasetown 2 - 1 Boldmere St. Michaels (FT)
+Malvern Town 0 - 3 Bromsgrove Sporting (FT)
+Chesham United 1 - 2 Chertsey Town (FT)
+Shifnal Town FC 3 - 2 Coleshill Town (FT)
+Ebbsfleet United 3 - 2 Cray Valley PM (FT)
+Dorking Wanderers 0 - 1 Dulwich Hamlet (FT)
+Stourbridge 3 - 3 Halesowen Town (FT)
+Atherton Collieries 1 - 2 Hyde United (FT)
+Basford United 1 - 4 Ilkeston Town (FT)
+Brentwood Town 0 - 5 Maidstone Utd (FT)
+St Albans City 4 - 4 Real Bedford (FT)
+Oxford City 1 - 2 Slough Town (FT)
+Bishop's Stortford 2 - 3 St Ives Town (FT)
+Eastbourne Borough 2 - 4 Tonbridge Angels (FT)
+Chorley 1 - 2 Trafford (FT)
+Aveley 4 - 1 Canvey Island (FT)
+
+--- Kvindeliga (Denmark) ---
+Køge W 3 - 0 FC Copenhagen W (FT)
+Fortuna Hjørring W 6 - 2 KoldingQ W (FT)
+
+--- Liga Profesional Argentina (Argentina) ---
+Sarmiento Junin 2 - 3 Banfield (FT)
+Gimnasia M. 0 - 1 San Lorenzo (FT)
+Estudiantes de Rio Cuarto 0 - 0 Argentinos JRS (1H)
+Racing Club 0 - 0 Rosario Central (1H)
+
+--- Meistaradeildin (Faroe-Islands) ---
+AB 0 - 1 B36 Torshavn (FT)
+
+--- Northern Super League (Canada) ---
+Calgary Wild W @ AFC Toronto W (NS)
+
+--- Oberliga - Bayern Süd (Germany) ---
+1880 Wasserburg 1 - 5 Sportfreunde Schwaig (FT)
+
+--- Piala Presiden (Indonesia) ---
+Arema FC 2 - 1 Tampines Rovers (FT)
+Persib Bandung 1 - 0 DPMM FC Brunei (FT)
+
+--- Premier League (Bhutan) ---
+Thimphu 0 - 2 Paro (FT)
+
+--- Premier League (Lebanon) ---
+Al Ahed 1 - 2 Al Nejmeh (FT)
+Al Ansar 2 - 1 Jwaaya FC (FT)
+
+--- Primera C (Argentina) ---
+El Porvenir 2 - 3 Sportivo Barracas (FT)
+
+--- Primera Division (El-Salvador) ---
+Atletico Balboa 2 - 4 Cacahuatique (FT)
+
+--- Reserve League (Argentina) ---
+Belgrano Córdoba Res. 0 - 4 Boca Juniors Res. (FT)
+
+--- Second League (Bulgaria) ---
+Pirin Blagoevgrad 1 - 5 Dobrudzha (FT)
+Ludogorets II 1 - 0 Rilski Sportist (FT)
+CSKA Sofia II 1 - 1 Vihren (FT)
+
+--- Serie B (Brazil) ---
+Avai 0 - 1 Juventude (2H)
+Athletic Club 1 - 1 Ponte Preta (2H)
+Botafogo SP @ Fortaleza EC (NS)
+
+--- Super League (Uzbekistan) ---
+Qizilqum 0 - 1 Nasaf (FT)
+Navbahor 1 - 1 Neftchi (FT)
+Surkhon 0 - 1 Xorazm (FT)
+
+--- Superettan (Sweden) ---
+United Nordic 1 - 1 Helsingborg (FT)
+IFK Norrkoping 1 - 0 Landskrona BoIS (FT)
+
+--- Torneo Promocional Amateur (Argentina) ---
+Defensores Glew 1 - 0 Juventud de Bernal (FT)
+
+--- Toto Cup Ligat Al (Israel) ---
+Ironi Tiberias 1 - 3 Hapoel Haifa (FT)
+Maccabi Haifa 0 - 3 Ironi Kiryat Shmona (FT)
+
+--- UEFA Champions League (World) ---
+Sabah FA 2 - 0 KuPS (FT)
+Mjallby AIF 0 - 0 Lincoln Red Imps FC (FT)
+FC Thun 2 - 3 Dinamo Zagreb (AET)
+Egnatia Rrogozhinë 2 - 2 Celje (PEN)
+Sturm Graz 2 - 0 Heart Of Midlothian (FT)
+Ararat-Armenia 1 - 2 Shamrock Rovers (FT)
+
+--- UEFA Europa Conference League (World) ---
+Vardar Skopje 2 - 5 Riga (AET)
+Dila 0 - 3 Apollon Limassol (FT)
+Spartak Trnava 0 - 0 CSKA 1948 (PEN)
+Floriana 1 - 2 Drita (AET)
+
+===== BASEBALL =====
+
+--- MLB ---
+Cleveland Guardians 6 - 5 Cincinnati Reds (FT)
+Texas Rangers 2 - 1 Tampa Bay Rays (IN6)
+Arizona Diamondbacks 5 - 0 Pittsburgh Pirates (IN5)
+Baltimore Orioles 0 - 9 Detroit Tigers (IN6)
+Philadelphia Phillies 0 - 1 Miami Marlins (IN6)
+Toronto Blue Jays 0 - 4 Washington Nationals (IN1)
+Cleveland Guardians 0 - 1 Cincinnati Reds (IN5)
+Kansas City Royals 0 - 0 Minnesota Twins (IN3)
+New York Yankees 3 - 0 Chicago White Sox (IN3)
+Chicago Cubs 5 - 0 St.Louis Cardinals (IN2)
+Houston Astros @ Los Angeles Angels (NS)
+Colorado Rockies @ San Diego Padres (NS)
+Boston Red Sox @ Athletics (NS)
+Milwaukee Brewers @ San Francisco Giants (NS)
+Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+Wei Chuan Dragons 6 - 1 Fubon Guardians (FT)
+TSG Hawks 1 - 3 Uni Lions (FT)
+
+--- IL ---
+Syracuse Mets 5 - 6 Rochester Red Wings (IN8)
+Indianapolis Indians 2 - 4 Louisville Bats (IN7)
+Worcester 1 - 2 Norfolk Tides (IN7)
+Buffalo Bisons None - None Lehigh Valley IronPigs (POST)
+Gwinnett Stripers None - None Durham Bulls (FT)
+Toledo Mud Hens 2 - 4 Columbus Clippers (IN5)
+Memphis Redbirds 0 - 2 Jacksonville Jumbo Shrimp (IN4)
+Charlotte Knights 2 - 0 Nashville Sounds (IN3)
+Scranton/WB 0 - 2 Iowa Cubs (IN3)
+St. Paul 0 - 0 Omaha Storm Chasers (IN1)
+
+--- KBO ---
+Lotte Giants 9 - 3 Hanwha Eagles (FT)
+Kiwoom Heroes 3 - 5 LG Twins (FT)
+KT Wiz Suwon 10 - 0 NC Dinos (FT)
+KIA Tigers 5 - 12 Samsung Lions (FT)
+Doosan Bears 2 - 1 SSG Landers (FT)
+
+--- LMB ---
+Campeche 2 - 3 Quintana Roo (IN5)
+Aguascalientes @ Saltillo (NS)
+Tabasco @ Veracruz (NS)
+Jalisco @ Dos Laredos (NS)
+Queretaro @ Puebla (NS)
+Bravos de Leon @ Oaxaca (NS)
+Yucatan @ Diablos Rojos (NS)
+Monterrey @ Caliente de Durango (NS)
+Chihuahua @ Monclova (NS)
+Quintana Roo @ Campeche (NS)
+Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+Pacific league 7 - 5 Central league (FT)
+
+--- PCL ---
+Sacramento River Cats 4 - 8 Tacoma Rainiers (FT)
+Reno Aces 1 - 1 Round Rock Express (IN3)
+Las Vegas Aviators 0 - 0 Oklahoma City Dodgers (IN1)
+Salt Lake Bees 0 - 0 Sugar Land (IN1)
+Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-28 06:35:05 PM
+Fetching games for: 2026-07-28
+==================================================
+
+
+===== SOCCER =====
+
+--- 1 Lyga (Lithuania) ---
+Transinvest 2 1 - 3 Dainava (FT)
+Minija 0 - 1 Žalgiris II (FT)
+
+--- 1. Deild (Iceland) ---
+Njardvik 1 - 0 Ægir (FT)
+
+--- Africa Cup of Nations - Women (World) ---
+Egypt W @ Zambia W (NS)
+Malawi W @ Nigeria W (NS)
+
+--- ASEAN Championship (World) ---
+Myanmar 4 - 1 Philippines (FT)
+Laos 0 - 4 Malaysia (FT)
+
+--- Calcutta Premier Division (India) ---
+East Bengal 5 - 1 Patha Chakra (FT)
+Mohun Bagan 1 - 0 United Kolkata (FT)
+
+--- Canadian Premier League (Canada) ---
+Supra du Quebec @ Cavalry FC (NS)
+
+--- Capixaba B (Brazil) ---
+Linhares 4 - 0 GEL (FT)
+
+--- Catarinense U20 (Brazil) ---
+Brusque U20 @ Carlos Renaux U20 (NS)
+
+--- CECAFA Club Cup (World) ---
+Singida Black Stars 4 - 1 Mogadishu City (FT)
+Simba 0 - 0 Jamus (FT)
+
+--- CONCACAF Caribbean Club Shield (World) ---
+Metropolitan 2 - 1 Helenites (FT)
+Weymouth Wales 0 - 1 Mount Pleasant Academy (FT)
+Robin Hood 4 - 0 Slingerz (FT)
+Delfines Del Este 1 - 1 Inter Willemstad (PEN)
+
+--- CONCACAF Central American Cup (World) ---
+CD Motagua 1 - 0 Verdes (1H)
+Plaza Amador @ Diriangén (NS)
+Mixco @ CD Olimpia (NS)
+
+--- CONCACAF U20 (World) ---
+Cuba U20 2 - 3 Haiti U20 (FT)
+United States U20 @ El Salvador U20 (NS)
+
+--- CONMEBOL Sudamericana (World) ---
+Club Nacional 2 - 1 Tigre (FT)
+UCV 1 - 0 Santos (1H)
+
+--- Copa Colombia (Colombia) ---
+Santa Fe None - None Union Magdalena (PST)
+Deportes Tolima 1 - 0 Quindio (2H)
+Deportivo Pasto 2 - 0 Bogota FC (1H)
+Atletico Nacional @ Tigres FC (NS)
+
+--- COTIF Tournament (World) ---
+Levante U20 0 - 0 Mauritania U20 (PEN)
+Valencia U20 0 - 2 Morocco U20 (FT)
+
+--- Cup (Estonia) ---
+Tallinna FC Zapoos 1 - 4 FC Tallinn (FT)
+
+--- Cup (Russia) ---
+Broke Boys 2 - 1 Bomik (FT)
+Izberbash 5 - 1 Anzhi (FT)
+Salyut-Belgorod 0 - 3 Kristall MEZ (FT)
+Orel 0 - 2 2Drots (FT)
+
+--- Division Intermedia (Paraguay) ---
+Resistencia 1 - 0 Atlético Tembetary (FT)
+Deportivo Capiata 1 - 1 Independiente F.b.c. (FT)
+
+--- Division Profesional - Clausura (Paraguay) ---
+Sportivo Ameliano 1 - 1 Rubio NU (FT)
+Cerro Porteno 1 - 2 2 de Mayo (FT)
+
+--- Football League - Lowland League (Scotland) ---
+Bonnyrigg Rose Athletic 4 - 0 Bo'ness United (FT)
+Gala Fairydean Rovers 0 - 1 Broxburn Athletic (FT)
+Clydebank 1 - 6 Celtic II (FT)
+Hill Of Beath Hawthorn 0 - 4 Civil Service Strollers (FT)
+Kilwinning Rangers 4 - 2 Cumbernauld Colts (FT)
+Cowdenbeath 0 - 1 Tranent Juniors (FT)
+
+--- Friendlies Clubs (World) ---
+Verspah Oita 0 - 4 Sanfrecce Hiroshima (FT)
+Western Sydney Wanderers 4 - 6 Chelsea (FT)
+Al-Ahli Jeddah 0 - 2 Portimonense (FT)
+Preston North End U21 2 - 5 Blackburn Rovers U21 (FT)
+Valencia 2 - 1 Derby (FT)
+Muaither SC 0 - 3 MC Oran (FT)
+Modena 0 - 1 Cagliari (FT)
+Scafatese 4 - 1 Pineto (FT)
+Belasica 2 - 0 Kozuv Gevgelija (FT)
+Shabab Al Ahli Dubai 2 - 1 Udinese (FT)
+Sokol Ľubotice 1 - 2 Poprad (FT)
+Annecy 1 - 1 Nancy (FT)
+RED Star FC 93 4 - 1 UNFP (FT)
+Hull City 2 - 1 Rizespor (FT)
+Al Wakrah 0 - 1 Rouen (FT)
+Fomat Martin 1 - 2 Baník Prievidza (FT)
+União de Leiria 2 - 3 Las Palmas (FT)
+Inter Zapresic 0 - 2 Mladost Ždralovi (FT)
+Gaziantep FK 2 - 1 OFK Beograd (FT)
+Leganes 1 - 4 Real Madrid (FT)
+Jiskra Domažlice 5 - 1 Petřín Plzeň (FT)
+MVV 0 - 1 KAA Gent II (FT)
+OFI 2 - 3 NAC Breda (FT)
+Volos NFC 2 - 1 Cambuur (FT)
+Asteras Tripolis 1 - 1 Sparta Rotterdam (FT)
+Al-Nassr 2 - 0 Mérida AD (FT)
+Fulham 1 - 1 Al-Ahli Jeddah (FT)
+Burton Albion 1 - 1 Solihull Moors (FT)
+AFC Fylde 1 - 1 Morecambe (FT)
+Bolton 1 - 1 Fleetwood Town (FT)
+Lincoln 1 - 5 Grimsby (FT)
+FC Eindhoven 0 - 3 PSV Eindhoven (FT)
+AFC Wimbledon 0 - 1 Wealdstone (FT)
+Alvechurch 0 - 0 Kidderminster Harriers (FT)
+Scunthorpe 6 - 3 North Ferriby (FT)
+Stockport County 1 - 0 Oldham (FT)
+Crawley Town 1 - 3 Oxford United (FT)
+Leyton Orient 1 - 2 Swindon Town (FT)
+Jong AZ 4 - 1 Quick Boys (FT)
+Al Ain 2 - 2 Elche (FT)
+Eemdijk 2 - 1 GVVV Veenendaal (FT)
+Ballyclare Comrades 1 - 4 Queen's University (FT)
+Dos Hermanas 1 - 3 Recreativo Huelva (FT)
+Bury 0 - 1 Accrington ST (FT)
+Northampton 0 - 0 Cambridge United (FT)
+Mansfield Town 4 - 0 Alfreton Town (FT)
+South Shields 4 - 1 Gateshead (FT)
+Ayr Utd None - None Darvel (CANC)
+Real Sociedad 4 - 2 Aston Villa (FT)
+Milton Keynes Dons 0 - 0 Barnet (FT)
+Salford City 2 - 0 Carlisle (FT)
+Ards 0 - 1 Carrick Rangers (FT)
+Boreham Wood 2 - 1 Dagenham & Redbridge (FT)
+Linfield 7 - 1 Dollingstown (FT)
+Limavady United None - None Moyola Park (CANC)
+Reading 4 - 0 Newport County (FT)
+Bangor 0 - 1 Newry City AFC (FT)
+Peterborough 2 - 1 York (FT)
+Braintree 1 - 2 Felixstowe & Walton Utd (FT)
+Swansea 0 - 3 Merthyr Town (FT)
+Rotherham 2 - 0 Darlington 1883 (FT)
+Guiseley AFC 3 - 1 Pontefract Collieries (FT)
+Leiston 3 - 1 Gorleston (FT)
+Warrington Town 1 - 2 Marine (FT)
+Brighton U21 1 - 2 Worthing (FT)
+Chelmsford City None - None Dartford (CANC)
+Yeovil Town 1 - 1 Farnham Town (FT)
+Folkestone Invicta 1 - 2 Sutton Utd (FT)
+Herne Bay 2 - 2 Dover (FT)
+Newington Youth 1 - 1 Crusaders FC (FT)
+Eastleigh None - None Bognor Regis Town (CANC)
+Millwall 1 - 1 Bromley (FT)
+Shrewsbury 1 - 1 Hereford (FT)
+Charlton 2 - 0 Colchester (FT)
+AFC Hornchurch 2 - 4 Enfield Town (FT)
+Chester 3 - 0 Nantwich Town (FT)
+FC Halifax Town 3 - 2 Rochdale (FT)
+Everton 0 - 1 Stoke City (FT)
+Macclesfield 1 - 1 Tamworth (FT)
+Bamber Bridge 3 - 1 Ramsbottom United (FT)
+Mickleover Sports 0 - 1 Worksop Town (FT)
+Kingstonian 2 - 2 South Park (FT)
+Hastings United 4 - 0 Eastbourne United (FT)
+Chasetown 2 - 1 Boldmere St. Michaels (FT)
+Malvern Town 0 - 3 Bromsgrove Sporting (FT)
+Chesham United 1 - 2 Chertsey Town (FT)
+Shifnal Town FC 3 - 2 Coleshill Town (FT)
+Ebbsfleet United 3 - 2 Cray Valley PM (FT)
+Dorking Wanderers 0 - 1 Dulwich Hamlet (FT)
+Stourbridge 3 - 3 Halesowen Town (FT)
+Atherton Collieries 1 - 2 Hyde United (FT)
+Basford United 1 - 4 Ilkeston Town (FT)
+Brentwood Town 0 - 5 Maidstone Utd (FT)
+St Albans City 4 - 4 Real Bedford (FT)
+Oxford City 1 - 2 Slough Town (FT)
+Bishop's Stortford 2 - 3 St Ives Town (FT)
+Eastbourne Borough 2 - 4 Tonbridge Angels (FT)
+Chorley 1 - 2 Trafford (FT)
+Aveley 4 - 1 Canvey Island (FT)
+
+--- Kvindeliga (Denmark) ---
+Køge W 3 - 0 FC Copenhagen W (FT)
+Fortuna Hjørring W 6 - 2 KoldingQ W (FT)
+
+--- Liga Profesional Argentina (Argentina) ---
+Sarmiento Junin 2 - 3 Banfield (FT)
+Gimnasia M. 0 - 1 San Lorenzo (FT)
+Estudiantes de Rio Cuarto 0 - 0 Argentinos JRS (1H)
+Racing Club 0 - 0 Rosario Central (1H)
+
+--- Meistaradeildin (Faroe-Islands) ---
+AB 0 - 1 B36 Torshavn (FT)
+
+--- Northern Super League (Canada) ---
+Calgary Wild W @ AFC Toronto W (NS)
+
+--- Oberliga - Bayern Süd (Germany) ---
+1880 Wasserburg 1 - 5 Sportfreunde Schwaig (FT)
+
+--- Piala Presiden (Indonesia) ---
+Arema FC 2 - 1 Tampines Rovers (FT)
+Persib Bandung 1 - 0 DPMM FC Brunei (FT)
+
+--- Premier League (Bhutan) ---
+Thimphu 0 - 2 Paro (FT)
+
+--- Premier League (Lebanon) ---
+Al Ahed 1 - 2 Al Nejmeh (FT)
+Al Ansar 2 - 1 Jwaaya FC (FT)
+
+--- Primera C (Argentina) ---
+El Porvenir 2 - 3 Sportivo Barracas (FT)
+
+--- Primera Division (El-Salvador) ---
+Atletico Balboa 2 - 4 Cacahuatique (FT)
+
+--- Reserve League (Argentina) ---
+Belgrano Córdoba Res. 0 - 4 Boca Juniors Res. (FT)
+
+--- Second League (Bulgaria) ---
+Pirin Blagoevgrad 1 - 5 Dobrudzha (FT)
+Ludogorets II 1 - 0 Rilski Sportist (FT)
+CSKA Sofia II 1 - 1 Vihren (FT)
+
+--- Serie B (Brazil) ---
+Avai 0 - 1 Juventude (FT)
+Athletic Club 1 - 1 Ponte Preta (FT)
+Botafogo SP @ Fortaleza EC (NS)
+
+--- Super League (Uzbekistan) ---
+Qizilqum 0 - 1 Nasaf (FT)
+Navbahor 1 - 1 Neftchi (FT)
+Surkhon 0 - 1 Xorazm (FT)
+
+--- Superettan (Sweden) ---
+United Nordic 1 - 1 Helsingborg (FT)
+IFK Norrkoping 1 - 0 Landskrona BoIS (FT)
+
+--- Torneo Promocional Amateur (Argentina) ---
+Defensores Glew 1 - 0 Juventud de Bernal (FT)
+
+--- Toto Cup Ligat Al (Israel) ---
+Ironi Tiberias 1 - 3 Hapoel Haifa (FT)
+Maccabi Haifa 0 - 3 Ironi Kiryat Shmona (FT)
+
+--- UEFA Champions League (World) ---
+Sabah FA 2 - 0 KuPS (FT)
+Mjallby AIF 0 - 0 Lincoln Red Imps FC (FT)
+FC Thun 2 - 3 Dinamo Zagreb (AET)
+Egnatia Rrogozhinë 2 - 2 Celje (PEN)
+Sturm Graz 2 - 0 Heart Of Midlothian (FT)
+Ararat-Armenia 1 - 2 Shamrock Rovers (FT)
+
+--- UEFA Europa Conference League (World) ---
+Vardar Skopje 2 - 5 Riga (AET)
+Dila 0 - 3 Apollon Limassol (FT)
+Spartak Trnava 0 - 0 CSKA 1948 (PEN)
+Floriana 1 - 2 Drita (AET)
+
+===== BASEBALL =====
+
+--- MLB ---
+Cleveland Guardians 6 - 5 Cincinnati Reds (FT)
+Texas Rangers 3 - 1 Tampa Bay Rays (IN7)
+Arizona Diamondbacks 5 - 0 Pittsburgh Pirates (IN6)
+Baltimore Orioles 0 - 10 Detroit Tigers (IN6)
+Philadelphia Phillies 0 - 1 Miami Marlins (IN7)
+Toronto Blue Jays 0 - 4 Washington Nationals (IN2)
+Cleveland Guardians 0 - 1 Cincinnati Reds (IN5)
+Kansas City Royals 0 - 0 Minnesota Twins (IN4)
+New York Yankees 3 - 0 Chicago White Sox (IN3)
+Chicago Cubs 7 - 0 St.Louis Cardinals (IN2)
+Houston Astros @ Los Angeles Angels (NS)
+Colorado Rockies @ San Diego Padres (NS)
+Boston Red Sox @ Athletics (NS)
+Milwaukee Brewers @ San Francisco Giants (NS)
+Seattle Mariners @ Los Angeles Dodgers (NS)
+
+--- CPBL ---
+Wei Chuan Dragons 6 - 1 Fubon Guardians (FT)
+TSG Hawks 1 - 3 Uni Lions (FT)
+
+--- IL ---
+Syracuse Mets 5 - 6 Rochester Red Wings (IN8)
+Indianapolis Indians 2 - 4 Louisville Bats (IN7)
+Worcester 1 - 3 Norfolk Tides (IN8)
+Buffalo Bisons None - None Lehigh Valley IronPigs (POST)
+Gwinnett Stripers None - None Durham Bulls (FT)
+Toledo Mud Hens 2 - 4 Columbus Clippers (IN5)
+Memphis Redbirds 0 - 2 Jacksonville Jumbo Shrimp (IN5)
+Charlotte Knights 2 - 0 Nashville Sounds (IN3)
+Scranton/WB 0 - 2 Iowa Cubs (IN3)
+St. Paul 0 - 0 Omaha Storm Chasers (IN2)
+
+--- KBO ---
+Lotte Giants 9 - 3 Hanwha Eagles (FT)
+Kiwoom Heroes 3 - 5 LG Twins (FT)
+KT Wiz Suwon 10 - 0 NC Dinos (FT)
+KIA Tigers 5 - 12 Samsung Lions (FT)
+Doosan Bears 2 - 1 SSG Landers (FT)
+
+--- LMB ---
+Campeche 2 - 3 Quintana Roo (IN5)
+Aguascalientes @ Saltillo (NS)
+Tabasco @ Veracruz (NS)
+Jalisco @ Dos Laredos (NS)
+Queretaro @ Puebla (NS)
+Bravos de Leon @ Oaxaca (NS)
+Yucatan @ Diablos Rojos (NS)
+Monterrey @ Caliente de Durango (NS)
+Chihuahua @ Monclova (NS)
+Quintana Roo @ Campeche (NS)
+Laguna @ Toros de Tijuana (NS)
+
+--- NPB ---
+Pacific league 7 - 5 Central league (FT)
+
+--- PCL ---
+Sacramento River Cats 4 - 8 Tacoma Rainiers (FT)
+Reno Aces 1 - 1 Round Rock Express (IN3)
+Las Vegas Aviators 0 - 0 Oklahoma City Dodgers (IN1)
+Salt Lake Bees 0 - 0 Sugar Land (IN2)
+Albuquerque Isotopes @ El Paso Chihuahuas (NS)
+
+==================================================

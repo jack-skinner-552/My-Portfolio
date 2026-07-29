@@ -1,0 +1,35 @@
+==================================================
+Sports API Run Time: 2026-07-28 05:38:42 PM
+Fetching games for: 2026-07-19
+==================================================
+
+
+===== SOCCER =====
+No matches today.
+
+===== BASEBALL =====
+No games today.
+
+==================================================
+==================================================
+Sports API Run Time: 2026-07-28 05:54:17 PM
+Fetching games for: 2026-07-19
+==================================================
+
+
+Error retrieving sports data: SOCCER API returned an error: {'plan': 'Free plans do not have access to this date, try from 2026-07-27 to 2026-07-29.'}
+==================================================
+Sports API Run Time: 2026-07-28 06:32:36 PM
+Fetching games for: 2026-07-19
+==================================================
+
+
+Error retrieving sports data: SOCCER API returned an error: {'plan': 'Free plans do not have access to this date, try from 2026-07-28 to 2026-07-30.'}
+==================================================
+Sports API Run Time: 2026-07-28 06:40:40 PM
+Fetching games for: 2026-07-19
+API plan validation: Paid plan - skipped
+==================================================
+
+
+Unable to retrieve sports data: SOCCER API returned an error: {'plan': 'Free plans do not have access to this date, try from 2026-07-28 to 2026-07-30.'}
