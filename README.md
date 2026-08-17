@@ -1,6 +1,6 @@
 # Jack Skinner — Software & Technical Projects
 
-Welcome to my portfolio. This repository contains personal projects I've built to develop and demonstrate skills in **software development, REST API integration, automation, troubleshooting, browser extensions, and application design**.
+Welcome to my portfolio. This repository contains completed and in-progress personal projects I've built to develop and demonstrate skills in **software development, REST API integration, automation, troubleshooting, browser extensions, and application design**.
 
 My projects primarily use **Java, Python, and JavaScript**, with additional experience working with REST APIs, JSON, Maven, Docker, browser APIs, and command-line tooling.
 
